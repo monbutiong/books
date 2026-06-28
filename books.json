@@ -14,7 +14,7 @@
     "id": "story_amplification_circle",
     "title": "The Amplification Circle",
     "author": "Mon D. Ong",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+    "cover": "https://monbutiong.github.io/books/images/story_amplification_circle-cover.png?w=600",
     "coverColor": "#1a1018",
     "description": "Ellis can fold a paper airplane that flies to any target he chooses — once a week. The support group says accept your limits. The stranger in the alley says he can make Ellis's power limitless. But every amplification demands a sacrifice, and the final price is a horror Ellis could never have imagined.",
     "tags": ["Dark Fantasy", "Psychological Horror", "Superpowers", "Body Horror", "Cult"],
@@ -36,7 +36,7 @@
     "id": "story_borrowed_pen",
     "title": "The Borrowed Pen",
     "author": "Mon D. Ong",
-    "cover": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=600",
+    "cover": "https://monbutiong.github.io/books/images/story_borrowed_pen-cover.png?w=600",
     "coverColor": "#1c1c1c",
     "description": "When quiet, strange Kael transfers to his school, Eli offers him a pen — a simple kindness that spirals into a friendship Eli cannot explain. But Kael's home hides a darkness that has nothing to do with poverty or illness, and the more Eli gives, the more he realises he is not helping a friend. He is feeding something ancient, and the final course of the meal is yet to be served.",
     "tags": ["Dark Fantasy", "Psychological Horror", "Supernatural", "High School", "Cult"],
@@ -53,5 +53,16 @@
     "tags": ["Dark Fantasy", "Magic School", "Horror", "Mystery"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_dark_academy_expanded.json"
+  },
+  {
+    "id": "story_euphoria_engine",
+    "title": "The Euphoria Engine",
+    "author": "L. K. Voss",
+    "cover": "/book/story_euphoria_engine-cover.png?w=600",
+    "coverColor": "#0d0d1a",
+    "description": "When Mara Kessler buys the Reverie Pod, she thinks she has found escape from a life of crushing loneliness. But the dreams are too perfect, the faces too familiar — and something ancient waits between the pulses of the machine, hungry for the souls of those who can no longer tell reality from illusion.",
+    "tags": ["Dark Sci-Fi", "Psychological Horror", "Dream Technology", "Addiction", "Supernatural"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_euphoria_engine.json"
   }
 ]
