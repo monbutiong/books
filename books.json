@@ -218,5 +218,27 @@
     "tags": ["Dark Fantasy", "Horror", "Witchcraft", "Folk Horror", "Mystery"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_witch_bog.json"
+  },
+  {
+    "id": "story_titan_letters",
+    "title": "The Titan Letters",
+    "author": "S. R. Blackwood",
+    "cover": "https://monbutiong.github.io/books/images/story_titan_letters-cover.png?w=600",
+    "coverColor": "#0b1a2e",
+    "description": "Separated by seven light-hours and an uncrossable void, Mira and Leo exchange messages across the solar system while he dives beneath the ice of Titan. But when Mira’s life on Earth takes an unexpected turn, the letters become a web of secrets — and the thing that answers Leo’s final transmission is no longer her husband.",
+    "tags": ["Dark Sci-Fi", "Epistolary Horror", "Psychological", "Alien Encounter", "Twist"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_titan_letters.json"
+  },
+  {
+    "id": "story_vespers_journal",
+    "title": "The Vespers Journal",
+    "author": "L. K. Voss",
+    "cover": "https://monbutiong.github.io/books/images/story_vespers_journal-cover.png?w=600",
+    "coverColor": "#1a1a1a",
+    "description": "Dr. Elara Voss's private journals, recovered after her mysterious disappearance, reveal the truth behind the Cordova Plague and the famous Voss Serum. But the truth is not a simple tale of heroic science — it is a confession of mass murder, a fabricated crisis, and a love affair with a man who never existed.",
+    "tags": ["Dark Sci-Fi", "Psychological Horror", "Medical Thriller", "Epidemic", "Twist"],
+    "requiredReadMinutes": 140,
+    "fileUrl": "https://monbutiong.github.io/books/story_vespers_journal.json"
   }
 ]

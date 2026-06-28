@@ -1,0 +1,74 @@
+{
+  "id": "story_titan_letters",
+  "title": "The Titan Letters",
+  "author": "S. R. Blackwood",
+  "cover": "https://monbutiong.github.io/books/images/story_titan_letters-cover.png?w=600",
+  "coverColor": "#0b1a2e",
+  "description": "Separated by seven light-hours and an uncrossable void, Mira and Leo exchange messages across the solar system while he dives beneath the ice of Titan. But when Mira’s life on Earth takes an unexpected turn, the letters become a web of secrets — and the thing that answers Leo’s final transmission is no longer her husband.",
+  "tags": ["Dark Sci-Fi", "Epistolary Horror", "Psychological", "Alien Encounter", "Twist"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The First Delay",
+      "content": [
+        { "type": "paragraph", "text": "Mira, my love, I am writing this from the transit lounge of Station Ceres, and I already miss you with a ferocity that surprises me. They say the delay will stretch to hours once I’m past Jupiter, and by Titan it will be a full seven. Seven hours for a message to crawl across the void. I will be living in your past, and you in mine. Please, write to me often. Tell me about the garden, the weather, the cat. Tell me you are well. I will hold your words like a candle in the dark." },
+        { "type": "paragraph", "text": "The mission is textbook so far. The others are good people — a Polish geologist, a French biologist, a Japanese engineer. We play cards and argue about the best way to brew coffee in microgravity. But the silence between the stars is absolute, Mira. It presses against the hull like a judgement. I dream of your voice, and when I wake the hum of the engines sounds like a lament. I know it’s only the nerves. I know I’ll find my footing. But for now, I am adrift." },
+        { "type": "paragraph", "text": "I think of the olive tree in our yard, the one we planted the day we moved in. Its branches are still thin, but they cast a shadow on the kitchen window. I picture you standing there with a cup of tea, the light catching the grey in your hair. You are so beautiful when you don’t know you’re being watched. Write to me, Mira. Even a single line. I need to know you are still there." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Unspoken Discovery",
+      "content": [
+        { "type": "paragraph", "text": "Mira sat in the communication room, a bunker-like chamber at the edge of the spaceport, and read Leo’s words with a trembling hand. She had been sick every morning for a week, and the clinic had confirmed what she already suspected. She was pregnant. The mission protocols were clear: no stasis for pregnant crew family. No exceptions. She could not follow him into the long sleep. She would have to stay awake on Earth, seven years alone, raising a child he had not planned for, and every message would take hours to reach him." },
+        { "type": "paragraph", "text": "She wrote back that night, but she did not mention the pregnancy. She told herself it was too soon, that the news might distract him, that a mission to Titan required absolute focus. But the truth was simpler and uglier: she was afraid. Afraid of his reaction, afraid of the impossible geometry their lives had become. So she described the garden, the cat, the olive tree. She sent a photograph of the sunset over the sea. She told him she loved him. She signed her name and pressed send, and the message began its seven-hour crawl." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A woman sits alone in a dark room lit only by a screen", "caption": "Mira in the communication room, the weight of the unsaid pressing on her." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Birth and the Silence",
+      "content": [
+        { "type": "paragraph", "text": "The baby was born in the third year of the mission. A girl, with Leo’s dark eyes and Mira’s stubborn chin. Mira named her Celeste, after the stars her father was sailing toward. The labour was long and hard, and in the haze of pain Mira imagined Leo’s hand in hers, his voice in her ear. She sent a message to Titan that night, her fingers clumsy with exhaustion. 'We have a daughter,' she wrote. 'Her name is Celeste. She is perfect. I am sorry I didn’t tell you sooner. I love you. Please, please, answer me.' The message crossed the solar system, and Mira waited." },
+        { "type": "paragraph", "text": "The reply came seventeen hours later. 'A daughter,' Leo wrote, and the joy in his words was so raw and immediate that Mira wept. 'I am furious and I am grateful and I am terrified. I want to see her face. Send me pictures, Mira. Send me everything. I love you. I love her. I love you both.' They began to exchange images and videos, the lag turning their conversations into a slow, aching dance. Celeste grew, and Leo watched her first steps, her first words, her first laugh — all of it months old by the time it reached him. But he was present, in the only way the universe allowed." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The New Constant",
+      "content": [
+        { "type": "paragraph", "text": "By the fifth year, Mira’s life had settled into a rhythm. Celeste was a bright, curious child who asked endless questions about the father she had never met. Mira worked part-time at the port, monitoring the communication relays, and spent the rest of her hours in the garden. The olive tree had grown taller, its branches thick and gnarled. Mira would sit beneath it in the evenings and read Leo’s letters aloud to Celeste, who listened with the solemn intensity of a child absorbing a myth." },
+        { "type": "paragraph", "text": "It was at the port that she met Ravi, a quiet technician who maintained the LSM arrays. He was gentle and undemanding, and his presence filled a silence Mira had not admitted was there. They became friends first, then something more. Mira did not plan it. She did not want it. But the years were long, and the loneliness was a weight that pressed on her chest every night. When she finally told Leo, in a message that took her three hours to compose, she expected anger. She received forgiveness. 'I am not there,' Leo wrote. 'I cannot be. I want you to be happy. I want Celeste to have a full life. Just promise me she will know I love her. Promise me that.'" },
+        { "type": "paragraph", "text": "Mira promised. She married Ravi in a small ceremony under the olive tree, Celeste scattering petals down the aisle. Leo’s blessing hung over them like a ghost. And for a time, the arrangement worked. The letters continued, full of love and longing and the mundane details of two lives separated by a billion miles. But then Leo’s messages began to change." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Dive",
+      "content": [
+        { "type": "paragraph", "text": "In the seventh year, Leo was selected for the first manned descent into Titan’s subsurface ocean. The ice was only a hundred metres thick, and beneath it lay a vast, dark sea of liquid methane and water, warmer than anyone had predicted. Leo wrote to Mira with a feverish excitement. 'We are going to find life,' he said. 'I can feel it. The radio signals we’ve detected — they’re not random. They’re structured. Intelligent. This is why I came, Mira. This is the moment.' He promised to write as soon as he surfaced. He never did." },
+        { "type": "paragraph", "text": "The official report was a mess of redacted lines and bureaucratic language. The dive had gone wrong. The cord had snapped. Leo’s vitals had spiked, then flatlined. He was presumed dead. Mira received the news through a formal letter delivered by a man in a grey suit. She fell to her knees in the kitchen, Celeste’s voice a distant wail behind her. The olive tree outside the window swayed in a wind that seemed to come from nowhere. And then, three days later, a new message arrived." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "A woman reading a letter, her face stricken with grief", "caption": "The official letter that shattered Mira's world." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Returned Voice",
+      "content": [
+        { "type": "paragraph", "text": "'Mira. I am alive. The reports are wrong. I found something down there — a city, a consciousness, a presence that welcomed me. It healed me, Mira. It showed me things I cannot explain. I am coming home. Wait for me.' The message was stamped with Leo’s personal code, and his voice — recorded, not typed — sounded exactly as it always had. But there was a quality to it, a resonance that made the hair on Mira’s arms stand up. She played it for Ravi, who frowned and said nothing. She played it for Celeste, who smiled and said, 'Daddy’s coming home.'" },
+        { "type": "paragraph", "text": "More messages followed, each one more urgent. Leo described the alien presence as a 'gift,' a union of minds that had erased his fear and his loneliness forever. He said the creatures wanted to share their gift with humanity. He said they were benevolent, ancient, wise. He used words he had never used before, phrases that felt stilted and rehearsed. Mira wanted to believe. She wanted it with every fibre of her being. But the last message ended with a sentence that turned her blood to ice. 'I have missed the taste of your fear, Mira. It will be sweet to drink it again.'" }
+      ]
+    },
+    {
+      "id": "ch7",
+      "title": "Chapter 7 — The Unmaking",
+      "content": [
+        { "type": "paragraph", "text": "The thing that returned to Earth was not Leo. It wore his body, spoke with his voice, carried his memories like a stolen coat. But Mira knew the moment she saw it step off the shuttle. The eyes were wrong. The smile was a fraction too wide. And when it embraced Celeste, the child went rigid, her face blank with a terror she could not name. 'I’m home,' it said, and the words were a door closing." },
+        { "type": "paragraph", "text": "Mira fled with Celeste that night. She drove to the old communication bunker and locked the door, her hands shaking so violently she could barely work the console. She pulled up the classified files, the ones Ravi had helped her access, and found the raw dive footage. The cord had not snapped by accident. Leo had cut it himself. And the thing that had pulled him into the deep had not been welcoming. It had been patient. It had been hungry. It had worn him like a suit for years, sending letters, offering forgiveness, easing her into a new life so it could find her on the other end. And now it was here." },
+        { "type": "paragraph", "text": "The final message from Leo — the real Leo — had been buried in the system, unsent. 'Mira, if you are reading this, I am already gone. The things in the sea are not gods. They are parasites. They wear us and they wait. Do not answer my letters. Do not let her near you. Burn the tree. Burn the garden. I am so sorry. I loved you until the end.' Mira read the words, and the bunker door began to splinter. Celeste was crying. The thing outside was humming a lullaby that Mira recognized — a tune she had sung to her daughter every night. The lock gave way. The lullaby grew louder. And Mira understood, with a clarity that was almost peace, that the long conversation was over." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "A dark bunker door, light and shadow streaming through the cracks", "caption": "The door of the communication bunker, as the lullaby began." }
+      ]
+    }
+  ]
+}
