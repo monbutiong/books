@@ -42,5 +42,16 @@
     "tags": ["Dark Fantasy", "Psychological Horror", "Supernatural", "High School", "Cult"],
     "requiredReadMinutes": 20,
     "fileUrl": "https://monbutiong.github.io/books/story_borrowed_pen.json"
+  },
+  {
+    "id": "story_dark_academy_expanded",
+    "title": "The Hollow Choir",
+    "author": "R. D. Ong",
+    "cover": "https://monbutiong.github.io/books/images/story_dark_academy-cover.png?w=600",
+    "coverColor": "#1a1a2e",
+    "description": "At the Ashencroft Academy, children with the Spark train to become mages. But those who fail the Trials are never seen again. Elara soon discovers that the school’s choir sings with voices that are not their own — and she is the next verse.",
+    "tags": ["Dark Fantasy", "Magic School", "Horror", "Mystery"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_dark_academy_expanded.json"
   }
 ]
