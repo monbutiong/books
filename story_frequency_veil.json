@@ -1,0 +1,63 @@
+{
+  "id": "story_frequency_veil",
+  "title": "The Frequency Veil",
+  "author": "M. R. Holloway",
+  "cover": "/book/story_frequency_veil-cover.png?w=600",
+  "coverColor": "#0b1a2e",
+  "description": "When Lena receives an experimental implant to restore her hearing, she thinks she is finally free of the silence that defined her life. But the sounds she now hears carry a truth more devastating than deafness — a truth about her mother's love, and the price she never agreed to pay.",
+  "tags": ["Dark Sci-Fi", "Psychological Horror", "Medical Thriller", "Family", "Conspiracy"],
+  "requiredReadMinutes": 145,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The World Without Sound",
+      "content": [
+        { "type": "paragraph", "text": "Lena had lived her entire life in a glass jar. That was how she thought of it: a world where everything was visible but muffled, the edges of sound smeared into a low, constant hum that felt like the thrum of a distant engine. She was born with a rare degenerative condition that stripped away her hearing before she could speak, and by the age of four, the silence was complete. She learned to read lips, to feel vibrations through floorboards, to navigate a world that was not built for her with a fierce, brittle independence. She did not think of herself as broken. But the world did." },
+        { "type": "paragraph", "text": "Her mother, Nadia, was her bridge. Nadia had learned sign language before Lena was diagnosed, almost as if she had known. She was the one who sat through every doctor's appointment, who fought with insurance companies, who taught Lena to ride a bicycle by running beside her and signing when to turn. She was also the one who cried alone in the kitchen, thinking Lena could not hear. But Lena could feel the sobs through the soles of her feet, and she carried the weight of that grief for both of them." },
+        { "type": "paragraph", "text": "When the news of a new treatment broke — an implant that could bypass the damaged cochlea and stimulate the auditory cortex directly — Lena was sceptical. She had accepted her silence. It was her mother who pleaded, who used the same gentle, fragile voice that had always made Lena's resolve crumble. 'Just think about it, Lena. The surgery is free. It has a good success rate. You'll be able to hear again.' Lena knew it was not about her, not really. It was about Nadia's need to fix what she believed she had broken. So Lena said yes. She became Patient 47 in the NeuVox trial, and on a cold January morning, she opened her eyes to a world of noise." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The First Sounds",
+      "content": [
+        { "type": "paragraph", "text": "At first, it was chaos. A waterfall of static and screeches, the brain drowning in signals it had never learned to decode. Lena clutched her head and screamed, and the scream was the first sound she ever heard herself make. It was horrible and beautiful. Over weeks, the noise resolved into meaning. She heard her mother's voice for the first time, not as a vibration but as a texture: soft, slightly hoarse, layered with a sadness that the lips had never revealed. She heard rain against the window, the hum of the refrigerator, the absurd, persistent chirp of a bird she had never known lived in the tree outside." },
+        { "type": "paragraph", "text": "But there were other sounds, too. Sounds that did not belong. At night, when the implant was in its rest cycle, she heard whispers. Fragments of voices that seemed to come from inside her own skull. She dismissed them as auditory hallucinations, the brain's clumsy adjustment to the implant. Her doctor, a man named Voss with a smile that never reached his eyes, assured her it was normal. 'Your neural pathways are rewiring,' he said. 'Give it time.' She wanted to believe him." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=800", "alt": "A woman with a cochlear implant, looking out a rainy window", "caption": "The rain was the first sound she learned to love." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Whispers Beneath",
+      "content": [
+        { "type": "paragraph", "text": "The whispers grew louder and more coherent. She began to recognise them: a woman weeping, a child asking for its mother, a man reciting a string of numbers. They were not random. They were memories. Fragments of other people's lives, caught in the implant's signal like radio bleed. Lena started to keep a journal, transcribing the whispers in the dead hours of the night. The man with the numbers had been a prisoner, she realised. The woman weeping was grieving a daughter who had died in a fire. These were not hallucinations. They were recordings." },
+        { "type": "paragraph", "text": "She confronted Dr. Voss, who dismissed her with a wave of his hand. She dug into the NeuVox corporation, using the internet skills she had honed in silence. What she found was a labyrinth of shell companies and classified patents. The implant was not just a hearing device. It was a harvest tool. The neural interface that bypassed the ear also accessed the hippocampus, extracting memory engrams and transmitting them to a remote server. The trial patients were not just being healed. They were being mined. And the memories she was hearing were the residual echoes of previous subjects who had not survived the process." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Price of Sound",
+      "content": [
+        { "type": "paragraph", "text": "The worst discovery was in her mother's room. Nadia had collapsed the week before, and the doctors diagnosed advanced pancreatic cancer. She was given months. Lena, consumed by guilt, began to search for answers in her mother's files. In a locked drawer, she found a contract between Nadia Voss — her mother — and NeuVox, dated three years before the trial began. The contract was not for treatment. It was for recruitment. Nadia had volunteered her own daughter as a subject in exchange for an experimental memory transfer procedure that could save Nadia's own mother from Alzheimer's. The procedure failed. But the contract remained. And Lena had been implanted not because her mother wanted her to hear, but because her mother needed the money and the corporate favour to erase a debt Lena never knew existed." },
+        { "type": "paragraph", "text": "The realisation was a physical blow. The mother who had held her hand through every appointment, who had wept in the kitchen, had been complicit in the theft of Lena's mind. The whispers she heard were not accidents. They were the bleeding of her own memories, siphoned and catalogued, sold to the highest bidder. And the cancer that was killing Nadia was not random. It was a side effect of the same failed transfer procedure, a slow, cellular rot that had been ticking away since the moment she signed Lena's life away. The love had been real, but it had been poisoned at the root." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Confession",
+      "content": [
+        { "type": "paragraph", "text": "Lena confronted her mother in the sterile white room of the hospice. The beeping of the monitors was a cruel counterpoint to the silence Lena had once known. She held up the contract, her hands shaking. Nadia's eyes, already glazed with pain, filled with tears. 'I wanted you to hear,' she whispered. 'I wanted to give you the world.' But Lena could now hear the lie underneath the words, the faint, discordant tone that the implant had taught her to detect. 'You sold my memories. You sold me.' The argument that followed was not an argument at all. It was a slow, terrible unraveling of every embrace, every sacrifice, every whispered I love you. By the end, Nadia was sobbing, and Lena was numb." },
+        { "type": "paragraph", "text": "But the implant was not finished with her. That night, as she sat in the dark, the whispers returned, stronger than ever. They were her own voice now, reciting memories she had not yet lost: the smell of her childhood bedroom, the feel of her first bicycle's handlebars, the sound of her mother's laugh. The implant was accelerating its harvest, draining her identity before it became useless. Lena understood then that she had only one choice. She had to remove it, even if it meant returning to silence forever." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Extraction",
+      "content": [
+        { "type": "paragraph", "text": "The surgery was not sanctioned. She found a back-alley neurosurgeon, a man whose own daughter had been a victim of the early trials. In a dim room that smelled of antiseptic and desperation, he opened her skull and removed the implant. The silence that followed was not the empty silence of her childhood. It was a roaring, angry void, full of the echoes of the stolen voices. She woke with a bandage around her head and a note in her hand: 'They will come for you. Run.' And she did. She fled the city, leaving behind the mother who had betrayed her, the corporation that had farmed her, and the fragments of a life that had been built on a lie." },
+        { "type": "paragraph", "text": "In a small coastal town, she began to rebuild. She could not hear the waves, but she could feel them. She could not hear the gulls, but she could watch their wings cut the sky. She found work in a library, shelving books in a quiet that no longer felt like a prison. And sometimes, in the deepest hours of the night, she would feel a faint, distant hum in the base of her skull — the ghost of the implant, or perhaps the ghost of the mother who had loved her, wrongly and terribly, until the end." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "Waves crashing on a rocky shore at dusk", "caption": "The sea did not need to be heard to be felt." }
+      ]
+    }
+  ]
+}

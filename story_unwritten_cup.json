@@ -1,0 +1,71 @@
+{
+  "id": "story_unwritten_cup",
+  "title": "The Unwritten Cup",
+  "author": "V. M. Ashford",
+  "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+  "coverColor": "#1c1c1c",
+  "description": "Lena has been a barista for four years, and in that time she has stopped writing entirely. The regulars at the coffee shop think she is just a quiet woman who makes excellent espresso. They do not know that she is feeding on them — not their money, but their stalled ambitions, their abandoned dreams. Because the coffee shop is not a shop, and Lena is not a failed writer. She is a harvester, and the customers are her crop.",
+  "tags": ["Dark Fantasy", "Psychological Horror", "Urban Gothic", "Ambition", "Supernatural"],
+  "requiredReadMinutes": 130,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Grind",
+      "content": [
+        { "type": "paragraph", "text": "The espresso machine hissed with the satisfaction of a creature that had never missed a shift. Lena watched the dark stream divide into two perfect arcs, filling the small glass cups with a precision that had long since become automatic. She had been a barista at The Common Cup for four years, and in that time she had pulled perhaps a hundred thousand shots. Each one was identical. Each one was evidence that she was still here, still standing, still not doing the thing she had once believed she would do. The thing was writing. She had not written a word in three years." },
+        { "type": "paragraph", "text": "She told herself the usual things. The conditions were not right. The rent was too high. The hours were too long. The world did not need another novel by a woman in her thirties who had once been promising. These were all true, or true enough, but they were not the real reason. The real reason was that writing required wanting, and wanting required a kind of vulnerability that Lena had learned to seal off like a room in a house she no longer visited. The coffee shop was easier. The coffee shop had rules, routines, a clear exchange of labour for currency. No one asked her to be brilliant. No one asked her to be anything but fast." },
+        { "type": "paragraph", "text": "She wiped the steam wand with a cloth and glanced at the line forming at the register. The morning rush was a tide that came in and went out with the regularity of breathing. There was comfort in it. There was also, if she admitted it, a quiet, predatory satisfaction that she did not examine too closely. The customers came with their orders and their laptops and their little rituals of aspiration, and they did not know that Lena was watching them with the patience of a spider." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Regulars",
+      "content": [
+        { "type": "paragraph", "text": "Maeve arrived at 8:15, as she did every weekday. She ordered an oat milk latte and carried a notebook that was always open to a fresh page but never seemed to fill. She sat near the window and positioned herself to be seen, her pen poised, her brow furrowed with a concentration that was entirely performative. Lena had watched her for two years. In that time, Maeve had produced nothing but a single paragraph that she copied from one notebook to the next, a ritual of starting over. Lena could taste her stagnation from across the room. It was sweet, like overripe fruit, and it fed something deep in Lena's chest that she did not name." },
+        { "type": "paragraph", "text": "At 9:00, a man in a grey sweater took the corner table and opened a laptop with a sticker that read I'M WORKING ON MY NOVEL. He was working on his novel. He had been working on his novel for as long as Lena had known him. His name was Peter, and he ordered black coffee and a single croissant, and he spent three hours every morning staring at a blank document while scrolling through social media on his phone. Lena could feel the weight of his unfinished pages, the accumulated mass of all the sentences he had not written. It radiated from him like heat, and she absorbed it without effort, without thought, the way a plant absorbs light." },
+        { "type": "paragraph", "text": "These were her regulars. Her crop. The coffee shop was not just a shop; it was a field, and she was the silent, patient reaper. She had not chosen this role. It had chosen her, years ago, when she had first noticed that the despair of others made her feel stronger. At first, she had been ashamed. Then she had been curious. Now she was simply hungry, and the hunger was so much a part of her that she no longer questioned its origin." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Mechanism",
+      "content": [
+        { "type": "paragraph", "text": "The thing Lena did had no name. She had searched for one, in the early days, poring through old texts and obscure forums. The closest she found was a reference in a medieval manuscript to a creature called the 'Acedia,' a spirit that fed on the sloth of scholars and the despair of poets. But Lena was not a spirit. She was a woman, flesh and bone, with a gift that had awakened in her mid-twenties and had slowly consumed everything else. She did not drain life or blood or youth. She drained ambition. Specifically, she drained the creative ambition that had been abandoned, stalled, or deferred. The energy that once powered a dream, now left to rot, became a kind of nectar. And Lena was the only one who could taste it." },
+        { "type": "paragraph", "text": "The process was passive, mostly. She simply had to be present, to offer a smile or a nod, to create a small moment of connection that opened a channel. The customers did the rest. They came every day and sat in their accustomed spots and marinated in the gap between who they were and who they had meant to become. That gap was where the energy pooled. Lena stood behind the counter and breathed it in, and with every breath, she felt stronger. The energy was not quite enough to live on. She still needed food, sleep, a paycheck. But it was enough to fill the hollow place where her own ambition had once been. It was enough to make her feel, in a strange, parasitic way, whole." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The New Customer",
+      "content": [
+        { "type": "paragraph", "text": "The woman who would change everything arrived on a Tuesday in October. She was not like the others. She carried a laptop but no notebook. She ordered a simple drip coffee and did not check her phone while waiting. Her name, she told the cashier, was Sloane. She took a table near the back, opened her laptop, and began to type immediately. Not emails. Not social media. She was writing. Lena could tell from the rhythm, the sustained focus, the way her fingers moved without hesitation. This was not someone performing ambition. This was someone executing it." },
+        { "type": "paragraph", "text": "Lena felt a flicker of something unfamiliar. It was not hunger, and it was not satisfaction. It was closer to recognition, or perhaps envy, but sharper than both. She watched Sloane for the duration of her shift, and when Sloane packed up and left three hours later, Lena felt the absence like a cold draught. The other regulars were still there, radiating their stale, unused potential, but Lena found she could barely taste them. Something had shifted. The hollow place inside her was stirring, and for the first time in years, she felt the old, dangerous itch: the desire to write something of her own." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Hunger Returns",
+      "content": [
+        { "type": "paragraph", "text": "Sloane came back the next day, and the next. She always sat at the same table, always ordered the same coffee, always wrote for exactly three hours. Lena found herself making excuses to be near her — wiping tables, restocking cups, adjusting the music — and each time, she felt that same sharp, painful stirring. It took her a week to understand what was happening. Sloane was not radiating the stale energy of abandoned dreams. She was radiating the raw, live current of a dream still being pursued. And Lena, who had spent years feeding on the dead, was starving for something alive." },
+        { "type": "paragraph", "text": "The realisation horrified her. She had built a careful equilibrium, a way of surviving that did not require her to risk anything. She had told herself that her gift was a kind of mercy, a way of recycling waste. But the hunger she felt for Sloane's living ambition was not merciful. It was predatory. She wanted to drain it, to take it, to consume the very thing that made Sloane unlike anyone else in the shop. And if she did, she knew, Sloane would become like the others — hollow, stalled, a vessel of deferred dreams. The knowledge should have stopped her. It did not." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The First Line",
+      "content": [
+        { "type": "paragraph", "text": "One afternoon, during a lull, Lena sat down across from Sloane without invitation. Sloane looked up, startled but not hostile. 'I see you here every day,' Lena said. 'What are you working on?' Sloane's face softened into the expression of someone who had been waiting to be asked. 'A novel,' she said. 'It's about a woman who discovers she can feed on other people's creativity. It sounds strange, I know.' Lena felt the world tilt. 'Not strange at all,' she said, her voice steady. 'I'd love to read it sometime.' Sloane smiled, and in that smile, Lena felt the channel open. The live current of Sloane's ambition, bright and surging, flowed into her. And Lena drank." },
+        { "type": "paragraph", "text": "She did not take all of it. She took enough to feel the old, fierce fire of her own creativity roar back to life. That night, she went home and opened a blank document for the first time in three years. She wrote a single sentence: 'The coffee shop was not a shop, and Lena was not a barista.' It was the first line of something. She did not know what. But the hollow place inside her was filling, and for the first time in years, she was not just surviving. She was beginning." }
+      ]
+    },
+    {
+      "id": "ch7",
+      "title": "Chapter 7 — The Cost of Creation",
+      "content": [
+        { "type": "paragraph", "text": "Sloane kept coming to the shop, and Lena kept drinking. A little at a time, a careful sip here, a measured draught there. Sloane's novel slowed, then stalled. She began to stare at her screen the way the others did, her expression shifting from focus to frustration to a dull, familiar emptiness. Lena watched the transformation with a guilt that was real but manageable. She was writing now, truly writing, and the words were coming faster than they ever had. The novel was taking shape, a dark, glittering thing that drew on all the years of silence and hunger. It was, she knew, the best work she had ever done." },
+        { "type": "paragraph", "text": "But Sloane was fading. One morning, she arrived without her laptop. She ordered a latte and sat near the window, her hands empty, her eyes distant. Lena served her coffee and felt the last, faint pulse of Sloane's ambition, now reduced to a trickle. 'How's the novel?' Lena asked, and Sloane blinked as if recalling a dream. 'I'm taking a break,' she said. 'Maybe it wasn't meant to be.' Lena nodded, sympathetic, and walked back behind the counter. The guilt was there, sharp and sour, but beneath it was something else: a deep, satisfied fullness. She had fed well. She had created something. The cost had been another woman's dream, but the world was full of dreams. And Lena had learned, in the end, that creation always required destruction. She was just more honest about it than most." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "An empty coffee shop at dusk, chairs on tables, the light fading", "caption": "The Common Cup, where dreams came to be consumed." }
+      ]
+    }
+  ]
+}

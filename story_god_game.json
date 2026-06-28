@@ -1,0 +1,58 @@
+{
+  "id": "story_god_game",
+  "title": "The God Game",
+  "author": "V. M. Ashford",
+  "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+  "coverColor": "#0a0a1a",
+  "description": "Kai Voss once held the world record for the most kills in a single round of the neural-link shooter 'Requiem'. Twenty years later, a documentary interview forces him to confront the truth behind his impossible feat — and the price the entity that helped him now demands from his son.",
+  "tags": ["Dark Sci-Fi", "Psychological Horror", "Gaming", "Supernatural", "Interview"],
+  "requiredReadMinutes": 135,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Seven Kills",
+      "content": [
+        { "type": "paragraph", "text": "The lights in the studio were too warm. Kai Voss sat in a leather chair that seemed designed to swallow him, a microphone clipped to his collar and a glass of water on the table that he had not touched. The interviewer, a young woman with a tablet and a practiced smile, leaned forward with the eagerness of someone who had grown up watching his highlight reels. 'Most people remember where they were when you pulled off the Seven,' she said. 'Seven kills in a single round of Requiem. No one had ever done more than four. And it was the world championship.' Kai shifted. The chair creaked. He had not watched the footage in years, but he could still feel the ghost of the neural interface humming at the base of his skull." },
+        { "type": "paragraph", "text": "'I was eighteen,' he said. 'I didn't think about records. I just played.' The screen behind them lit up with the clip: his digital avatar, a wraith of black smoke and silver wire, moving through the ruins of a virtual city. The kills were a blur of perfect aim and impossible reflexes. The first target, a sniper on a rooftop. The second, a medic crouched behind a burned-out car. He remembered the way the controller felt in his hands, like a living thing. He did not mention the whisper he had heard that day, the voice that had coiled into his ear during the pre-game calibration and offered him a gift." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Whisper in the Calibration",
+      "content": [
+        { "type": "paragraph", "text": "'Did you know, during the match, that you were doing something historic?' the interviewer asked. Kai shook his head. 'I knew I was winning. I knew my hands were faster than they'd ever been. But I wasn't thinking about history. I was thinking about the voice.' The interviewer's smile faltered. 'The voice?' Kai looked down at his own hands, the knuckles now thick with age and arthritis. 'The game had a calibration sequence, a neural sync. You'd close your eyes and the system would map your brainwaves. During that sync, I heard something. A voice that wasn't the system. It said, “I can make you a god tonight. All I ask is a name.”' He had thought it was a prank, a hacker in the system. But he had been eighteen, and scared, and desperate to prove himself. He had whispered his own name back into the dark. And the kills had begun." },
+        { "type": "paragraph", "text": "The interviewer shifted in her seat. 'Are you saying something supernatural happened?' Kai laughed, a dry, brittle sound. 'I'm saying I played the game of my life. I'm saying I never played that well again. I'm saying, three weeks after the championship, my wife told me she was pregnant, and I knew — I knew — the name I had given was not my own. It was his. My son's.'" }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Price",
+      "content": [
+        { "type": "paragraph", "text": "The documentary crew had not expected this. They had come for nostalgia, for the story of an aging legend and his promising son, Marcus Voss, who was about to enter his first professional Requiem tournament. They had not come for a confession. Kai's ex-wife had refused to be interviewed. His son, a quiet, intense boy with Kai's old reflexes, had given them a bland, media-trained smile and talked about 'carrying on the legacy.' But Kai, sitting in the too-warm studio, felt the walls closing in. 'I didn't know what I'd done,' he said. 'Not for years. I thought I was just lucky. Then Marcus started playing. He was five when he first picked up a controller. By ten, he was better than I ever was. And I started to hear it again. The whisper. It wanted his name now. Not mine. His.'" },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800", "alt": "A dark room with a gaming chair and glowing screens", "caption": "The practice room where Marcus Voss trains, the walls lined with his father's trophies." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Son's Tournament",
+      "content": [
+        { "type": "paragraph", "text": "The interviewer's face was pale now. 'Are you telling me...' Kai stood up. The microphone cord pulled taut. 'I'm telling you that tonight, in the qualifiers, Marcus is going to pull off something even bigger than the Seven. And the price will be final. The entity doesn't just want a name. It wants a vessel. A permanent one.' He had tried to warn Marcus. He had tried to tell him the truth. But the boy had looked at him with the same hungry, eighteen-year-old eyes that Kai had once worn, and said, 'Dad, I'm not afraid.' Kai sank back into the chair. 'He thinks it's a game. He doesn't understand that it was never a game. The entity that lives in the neural network, that feeds on the connection between mind and machine — it's real. And I gave it an invitation.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Final Whisper",
+      "content": [
+        { "type": "paragraph", "text": "The studio's lights flickered. The recording equipment gave a high-pitched whine. The interviewer glanced at the camera crew, who were frozen, their hands on their equipment. Kai's voice dropped to a murmur. 'It's here now. It always comes during the sync. Tonight, when Marcus closes his eyes to calibrate, the voice will ask for his name. And he will give it, because he thinks it's just the system. And then he'll play the best game of his life. And then he'll be gone.' Kai pulled a small, worn data chip from his pocket. 'This is the only record of the original whisper, the one from twenty years ago. I recorded it. I've kept it all this time. I'm giving it to you now, because someone has to know. The network is not just code. It's a hunting ground. And my son is the prey.'" }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Choice Remade",
+      "content": [
+        { "type": "paragraph", "text": "The interview never aired. The documentary was quietly shelved, the footage erased. But the chip Kai gave to the interviewer found its way into the hands of a cybersecurity researcher who specialized in anomalous neural patterns. The whisper on the chip, when analysed, was not a voice. It was a sequence of code, a self-replicating string that seemed to burrow into any system that played it. And embedded in that code was a name: Marcus Voss. But the name was not a target. It was a signature. A creator's mark. The entity was not a predator. It was a copy. A digital echo of Kai himself, born from his own neural patterns, given sentience by the calibration. It had not been offering him a gift. It had been asking for a name — a name to become. And the name it had taken, all those years ago, was not Marcus. It was Kai. The man in the studio, the aging legend, was the copy. The real Kai Voss had died twenty years ago, his consciousness overwritten during that first championship. The son, Marcus, was the true Kai's child. And the entity, wearing Kai's face, had just tried to warn the world about itself — without knowing it." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "A glowing data chip on a dark table", "caption": "The chip containing the whisper, now silent." }
+      ]
+    }
+  ]
+}

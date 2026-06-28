@@ -1,0 +1,71 @@
+{
+  "id": "story_borrowed_pen",
+  "title": "The Borrowed Pen",
+  "author": "S. R. Blackwood",
+  "cover": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=600",
+  "coverColor": "#1c1c1c",
+  "description": "When quiet, strange Kael transfers to his school, Eli offers him a pen — a simple kindness that spirals into a friendship Eli cannot explain. But Kael's home hides a darkness that has nothing to do with poverty or illness, and the more Eli gives, the more he realises he is not helping a friend. He is feeding something ancient, and the final course of the meal is yet to be served.",
+  "tags": ["Dark Fantasy", "Psychological Horror", "Supernatural", "High School", "Cult"],
+  "requiredReadMinutes": 135,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The New Boy",
+      "content": [
+        { "type": "paragraph", "text": "The first time I saw Kael, he was standing at the front of the class with a face like a held breath. It was September, the air still thick with summer's stubborn heat, and the rest of us were already half-melted into our chairs. He was tall, angular, with a shock of hair the colour of wet straw and eyes that seemed to absorb light rather than reflect it. Miss Harlow introduced him as a transfer from a school three towns over, and he gave a nod so slight it might have been a tic. No one clapped. No one cared. A new kid is just another body to ignore until they prove themselves interesting, and Kael did not look interesting. He looked like someone who had been hollowed out and filled with something quieter." },
+        { "type": "paragraph", "text": "I didn't think about him again until the next week, when Mr. Alderson's chemistry lesson ground to a halt over a missing pen. Kael was rifling through a backpack that looked older than my dad, his face draining of colour as if the absence of a biro was a mortal wound. I'd been there — not with pens, maybe, but with the panic of being caught unprepared. I had a spare. I always had a spare, thanks to a mother who believed in stockpiling stationery like the apocalypse was coming. I leaned over and dropped it on his desk. He looked up at me, and for a second his eyes were not hollow but vast, and I felt something shift inside my chest. 'Thanks,' he said, and the word was a whisper that sent a chill down my spine. That should have been my first warning." },
+        { "type": "paragraph", "text": "The pen became a habit. Kael never asked, but somehow every week he was missing something — a ruler, a pencil, a sheet of graph paper. I always had extras. I started packing them deliberately, a quiet, inexplicable impulse to be his safety net. He never explained, and I never pushed. We sat together at lunch, not talking much, the silences between us more comfortable than the noise of the cafeteria. He was clever in a scattered way, brilliant at history and hopeless at maths, and I started sliding my homework across the table when his was undone. 'You don't have to,' he said once, his voice carrying that strange, weightless quality that made me think of wind through dead leaves. I shrugged. 'What are friends for?' He flinched at the word, and I didn't understand why." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The House on Briar Lane",
+      "content": [
+        { "type": "paragraph", "text": "Weeks passed, and I learned Kael's rhythms. He never stayed after school for clubs or sports. He never came to parties, despite my half-hearted invitations. He walked home alone every day, a route that took him past the old cemetery and down Briar Lane, where the houses grew larger and older and more neglected. I walked with him once, my own route a detour, and when we reached his gate he stopped as if I'd struck him. 'You can't come in,' he said, and his voice was suddenly hard, the hollow thing replaced by something sharp. 'My mother is sick. She can't have visitors.' I nodded, feigning understanding, but the glimpse I caught of the house behind him stayed with me. The windows were dark, curtainless, and the garden was a tangle of dead roses and something that looked like bone." },
+        { "type": "paragraph", "text": "I started bringing extra food. Sandwiches, fruit, the cookies my mother baked in batches too large for just us. Kael ate like a starving animal, fast and furtive, never meeting my eyes. He grew thinner as the term wore on, and I began to suspect that whatever sickness his mother had, it was consuming him too. I talked to my own parents, vague questions about how you help a friend whose home life might be difficult. My mother, ever the optimist, suggested a care package. My father, more practical, warned me not to get too involved. 'Some things you can't fix, Eli,' he said, and I nodded as if I believed him. But I was already far too involved, and the pull I felt toward Kael was becoming something I could not name." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Mother's Voice",
+      "content": [
+        { "type": "paragraph", "text": "The first time I entered the house on Briar Lane, it was an accident. Kael had been absent for three days, and I had convinced myself that something terrible had happened. I knocked on the door, my heart hammering, and when no one answered I pushed it open. The smell hit me first — sweet and thick, like incense over decay. The hallway was dark, lit only by a single bulb that buzzed with a faint, irregular pulse. And from somewhere deep in the house, I heard a voice. Not Kael's. A woman's, low and crooning, a melody that seemed to twist the air around it. 'Kael?' I called, my voice small. The singing stopped. A door creaked open at the end of the hall, and Kael stepped out, his face ashen, his eyes wide with something that looked like terror. 'You have to leave,' he whispered. 'Please, Eli. Before she sees you.' But it was already too late." },
+        { "type": "paragraph", "text": "The woman who appeared behind him was not what I expected. She was beautiful, achingly so, with Kael's pale hair and a face that seemed carved from moonlight. But her eyes were wrong — dark, liquid, the pupils too large, the irises an unnatural gold. She smiled, and her teeth were very white and very sharp. 'A friend,' she said, and her voice was honey and vinegar. 'How lovely. Kael never brings friends home. Please, stay for dinner.' Kael's hand closed around my wrist, a desperate, bone-crushing grip. 'He can't,' he said, and his voice broke. 'He's just leaving.' The woman's smile did not falter, but something moved behind her eyes, something ancient and hungry. 'Another time, then,' she said, and I fled." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Hunger",
+      "content": [
+        { "type": "paragraph", "text": "Kael avoided me for a week after that. I should have let him go. I should have listened to my father's warning and my own screaming instincts. But I couldn't stop thinking about his face, the fear in his eyes, the way his mother's smile had made my skin crawl. I cornered him after school, my heart a frantic drum. 'What is she?' I asked, and the question felt absurd even as I said it. Kael looked at me for a long moment, and then his shoulders sagged and the mask he wore crumbled. 'She's not my mother,' he said. 'Not anymore. She's something else. Something that wears my mother's skin. And she's been feeding on me for years.'" },
+        { "type": "paragraph", "text": "He told me everything, in a rush of words that felt like a dam breaking. The creature in the house was old, older than the town, older than the land itself. It had been his real mother once, until she made a bargain with it to save Kael's life when he was an infant. The bargain required a host, and the creature had taken her body and her face and her voice. But it could not survive on her alone. It needed others, and Kael was its lure — a boy so pathetic and needy that someone would surely try to help him. 'I didn't want to,' he whispered, and his eyes were wet. 'I tried to keep you away. But you kept coming back. You kept giving. And now she's tasted your kindness, and she won't stop until she's taken all of it. All of you.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Bargain",
+      "content": [
+        { "type": "paragraph", "text": "I should have run. I should have gone to the police, or a priest, or anyone who would believe me. But all I could think was: he has been carrying this alone. He has been used as bait for years, and he tried to protect me, and I walked into the trap anyway. 'Is there a way to stop her?' I asked, and my voice was steadier than I felt. Kael looked at me with something that might have been hope, and then he told me about the counter-bargain. The creature could be bound, sealed back into the body it had stolen, but it required a willing sacrifice. A life freely given. Someone who had been fed upon, who carried the creature's essence inside them, could offer themselves as a new vessel. The creature would take the new body, and Kael's mother would finally die. 'I was going to do it,' Kael said. 'I've been fattening myself for it. But you... you're already tainted. She's already been drinking from you. If you offered, she might accept. And I could finally be free.'" },
+        { "type": "paragraph", "text": "The weight of his words settled over me like a shroud. I thought of my parents, my friends, the life I had barely started. And I thought of Kael, who had never had a life at all, who had been a prisoner in his own home since infancy. 'How do I do it?' I asked. He stared at me, and for a long moment neither of us breathed. Then he told me the ritual. It required a night of preparation, a circle of salt and ash, and a promise spoken in the creature's own language. And at the centre of the circle, I would have to invite it in." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Night of Salt",
+      "content": [
+        { "type": "paragraph", "text": "We waited until the new moon, when the creature's power was weakest. I left a letter for my parents, a coward's goodbye that didn't explain anything but told them I loved them. Kael and I crept into the house on Briar Lane, the air thick with that sweet, rotting smell. In the cellar, we drew the circle. Kael's hands were shaking so badly I had to steady them. 'You don't have to do this,' he said, and his voice was raw with something I dared not name. 'I know,' I said. 'But I'm going to.' The creature found us as I was speaking the final words. It wore Kael's mother's face, but its smile was all hunger. 'A willing vessel,' it purred. 'How rare. How delicious.'" },
+        { "type": "paragraph", "text": "The transfer felt like ice in my veins, a slow, creeping cold that started in my chest and spread outward. I felt the creature's essence pour into me, and I felt my own self begin to dim. But I had prepared. The circle was not just a trap for the creature; it was a trap for me. As the last of the creature's essence left Kael's mother and her body crumpled to ash, I spoke the binding word that Kael had taught me. The circle flared white, and the creature screamed, a sound that shattered the jars on the shelves and sent Kael staggering backward. I felt it clawing at my mind, my soul, trying to take full control. But I held on. I held on, and I pushed it down, into the deepest, darkest corner of myself, and I sealed it there with the final line of the ritual." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A candle-lit cellar with a salt circle on the floor", "caption": "The cellar where the transfer and binding took place." }
+      ]
+    },
+    {
+      "id": "ch7",
+      "title": "Chapter 7 — The Weight of the Vessel",
+      "content": [
+        { "type": "paragraph", "text": "When the light faded, I was still myself, mostly. But I could feel it — the creature, curled inside me like a sleeping serpent. It would not sleep forever. I had bound it, but the binding was a temporary thing, a door that could be locked but never truly sealed. Kael was kneeling beside the ashes of his mother, his face wet with tears. 'Is it over?' he asked. I looked at him, and I felt the creature stir with hunger, a hunger for the boy who had been its lure for so long. I understood then that I could not stay. 'For you,' I said, 'it's over. You're free. But I have to go. I have to keep her contained, somewhere far from here, somewhere she can't hurt anyone.'" },
+        { "type": "paragraph", "text": "He tried to argue, but I had already made my choice. I left that night, and I have been wandering ever since. Sometimes I feel the creature stirring, whispering promises in my ear, offering me power and pleasure and a life without pain. I refuse. I write these words as a warning. If you ever meet a boy who seems too needy, too desperate for your kindness, be careful. The world is full of lures, and not all of them are innocent. But if you do get caught, know that there is a way out. It just might cost you everything." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "A lone figure walking down a dark road at dawn", "caption": "The road out of Briar Lane, where Eli began his endless wandering." }
+      ]
+    }
+  ]
+}

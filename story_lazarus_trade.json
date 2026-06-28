@@ -1,0 +1,80 @@
+{
+  "id": "story_lazarus_trade",
+  "title": "The Lazarus Trade",
+  "author": "S. R. Blackwood",
+  "cover": "/book/story_lazarus_trade-cover.png?w=600",
+  "coverColor": "#1c0f0a",
+  "description": "Mara killed her husband to stop a monster. Three years later, she pays to enter the Lazarus Pact—a service that lets her speak to the dead—to find where he buried his victims. But Aldric has a plan of his own, and when the sun sets, only one of them will walk free.",
+  "tags": ["Dark Fantasy", "Horror", "Supernatural", "Revenge", "Psychological"],
+  "requiredReadMinutes": 150,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Vespers Institute",
+      "content": [
+        { "type": "paragraph", "text": "The Vespers Institute squatted on the edge of the city like a bruise that had never quite healed. Its concrete walls were stained with decades of rain, and the windows, narrow and high, reflected only the grey of the November sky. Mara stood on the cracked pavement, clutching a leather satchel that held thirty-two thousand dollars in certified checks, a pack of worn playing cards, and the desperate, gnawing hope that this was not a mistake. She had killed her husband Aldric three years ago, and she had not slept a full night since." },
+        { "type": "paragraph", "text": "The guilt was not for the act itself. Aldric had been a predator, a charming, handsome architect who lured young women into his car, drove them to a remote cabin in the woods, and photographed their terror before he buried them. Mara had discovered the photographs by accident, hidden in a false bottom of his toolbox, and the world had tilted. She had vomited on the garage floor, and then, with a cold, clear certainty, she had decided that the man she married would never hurt another woman. She had used rat poison, mixed into his favourite lentil stew over the course of a week. He had died seizing in their bed, and she had watched with dry eyes. The autopsy ruled heart failure, and she was a widow at thirty-one, free of him but shackled to the secret of what he was." },
+        { "type": "paragraph", "text": "The families of his victims were never given closure. The cabin had burned down in a forest fire a year before she found the photos, and without a confession or a body, she had no evidence to offer the police. She had tried to sleep, tried to move on, tried to convince herself that justice had been served, but the faces of the women in those photographs followed her into every dark room. One of them, the first one in the stack, had a name written on the back: Elara. She had a gap-toothed smile and a daisy tucked behind her ear. Mara needed to know where she was buried. She needed to hear Aldric say it." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1509803874385-db7c23652552?w=800", "alt": "Dark, imposing building under grey sky", "caption": "The Vespers Institute, where the dead are only a payment away." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Waiting Room of Widows",
+      "content": [
+        { "type": "paragraph", "text": "The waiting room was a study in false comfort. Moth-eaten velvet chairs, a wilting fern in the corner, and a television that played a silent loop of happy couples embracing in sunlit fields. Mara sat among a scattering of other women, all of them older, all of them clutching tissues branded with the institute’s logo — a stylised hourglass with a single grain of sand frozen mid-fall. They stared at her with the pitying, sidelong glances of those who assumed she was a young widow crushed by grief. She let them. It was easier than the truth." },
+        { "type": "paragraph", "text": "A nurse with violet hair and a cold, practised efficiency called her name. 'Mara Sorensen?' The name still stung; she had kept Aldric’s surname for the same reason she had not reported his crimes — it was a mask, a shield against the questions she could not answer. She rose and followed the nurse through a labyrinth of corridors named after flowers — Lily, Foxglove, Nightshade — until they reached a small, sterile room labelled Wildflower. Inside was a dentist’s chair, a metal tray, and the faint scent of antiseptic and something older, something that smelled like damp earth." },
+        { "type": "paragraph", "text": "The nurse, who introduced herself as Mrs. Crane, barely spoke as she prepared the equipment. She shaved a small patch of Mara’s scalp, attached electrodes with cold clicks, and then, without warning, pulled down the collar of Mara’s blouse to expose her chest. 'For the adrenaline shot,' she said flatly. 'You’ll be dead for an hour. The sunset on the other side marks your limit. Stay past it, and you won’t come back. Don’t eat, don’t drink, don’t ask about what it’s like to die. Simple enough?' Mara nodded, her heart a frantic drum. When the needle slid into the soft crook of her elbow, the world blurred, and then it stopped." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Beach at Dusk",
+      "content": [
+        { "type": "paragraph", "text": "She woke on a beach that was not quite real. The sand was gritty and cold, the colour of ashes, and the sea stretched out in a flat, grey sheet under a sky bleeding orange and red. The sunset was frozen in its final hour, the sun a fat, golden coin balanced on the horizon. There was no wind, no salt scent, only the hollow echo of distant gulls. In her hand, she still clutched the pack of playing cards she had brought — a comfort object, a memory of the nights Aldric used to shuffle and deal, his long fingers graceful, his smile so disarming she had never seen the wolf beneath." },
+        { "type": "paragraph", "text": "She walked toward the water’s edge, her bare feet sinking into the sand, and when she turned back, he was there. Aldric. Not a rotting spectre, not a skeleton, but her husband as he had been in life: tall, broad-shouldered, his hair the colour of dark honey, his eyes a piercing green that had once made her knees weak. He wore the same linen shirt he had died in, and his smile was the smile of a man who had never known fear. 'You came,' he said, his voice carrying that old, musical warmth that still, even now, stirred something terrible in her chest. 'I knew you would. You always were the determined one.'" }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Game Begins",
+      "content": [
+        { "type": "paragraph", "text": "They sat cross-legged in the sand, a familiar posture from a hundred domestic evenings, and Mara dealt the cards. Bluff, the game they had played after every dinner, a ritual of deception that now felt like a grotesque parody. They each placed a card face-down in a shallow divot between them, betting with scratches in the sand. Aldric’s grin was lazy, predatory. 'You didn’t bring me here for a card game, though. You want to know where I put them. The girls.' He said it without shame, as if discussing a forgotten set of car keys." },
+        { "type": "paragraph", "text": "Mara fought to keep her voice steady. 'Tell me. The families deserve to bury their daughters.' Aldric flipped his card — a queen of hearts — and shrugged. 'I could tell you. But what would you give me? A promise of forgiveness? A lie?' She bet three lines, her hand trembling. 'I’m not here to forgive you. I’m here to make you face what you did.' He laughed, a low, rolling sound. 'I faced it every day I was alive, love. I just didn’t care. Why do you think I married you? The righteous little librarian, so eager to believe in the good of people. You were the best cover I ever had.' The words were a lash, but she had prepared for them. She bet higher." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Confession and the Trap",
+      "content": [
+        { "type": "paragraph", "text": "As the sun inched lower, the game turned dangerous. Aldric’s smile grew sharper, and the air thickened with a static charge that made the hairs on Mara’s arms stand up. He began to talk, not about the victims, but about the Lazarus Pact itself. 'Did you read the fine print, darling? When you die here, you don't just cross back. You leave a shadow behind. Something of you stays. Enough of you that someone else, someone strong enough, might… take your place.' He leaned forward, his green eyes darkening. 'I’ve been waiting. Do you know how many others have come? None of them were strong enough. But you — you killed me. That takes a certain spine.' Mara’s blood ran cold. She had not considered this. She had assumed the dead were passive, prisoners in a dream. She stood, scattering the cards, but Aldric lunged and grabbed her wrist." },
+        { "type": "paragraph", "text": "His touch was like ice. 'The sun sets in three minutes. You can run, but I’ll catch you. Or you can listen to my offer. Tell me where you hid my body, and I’ll give you the names you want.' Mara’s mind raced. She had buried him in the foundation of the cabin, the same place he had taken his victims, a final, bitter irony. If she told him, he would know, and he would... what? He couldn't do anything with the knowledge. But as she hesitated, the sun’s edge touched the sea, and Aldric’s grip tightened. 'Too late,' he whispered, and then he pulled her into a crushing embrace. The world tore. Mara felt a violent yank, as if her soul were being pulled through a keyhole, and then she was alone on the beach, the sun gone, the sky a vast, empty black. Aldric was gone. And so was her body." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Grey World",
+      "content": [
+        { "type": "paragraph", "text": "She woke in a space without sound. It was not darkness, but a kind of perpetual grey twilight, the colour of old television static. The beach was still there, but it was dead — no water, no sky, just an endless plain of cold ash. And in the distance, she saw a flicker, like a window to another world. She ran toward it, her bare feet making no sound, and found herself staring into the Wildflower room at the Vespers Institute. She saw her own body — her own face, her own hands — sitting up on the dentist’s chair. Aldric, wearing her skin, smiled at Mrs. Crane and said, 'It worked. Thank you.' The nurse nodded, oblivious, and handed him a glass of water. Mara screamed, but no sound came. She slammed her fists against the invisible window, but the grey world held her fast." },
+        { "type": "paragraph", "text": "She was trapped, and the monster she had killed was walking free in her body, with her voice, her memories. He would go home, back to her apartment, back to her job at the library, back to the world of women he had once preyed upon. And no one would know. No one would ever know. Mara collapsed in the ash, the weight of her failure crushing her. But then she looked down at her hand, and she was still clutching the pack of cards. The cards. They had crossed over with her. And in this silent, dead realm, they were the only thing that felt real." }
+      ]
+    },
+    {
+      "id": "ch7",
+      "title": "Chapter 7 — The Messages in the Margins",
+      "content": [
+        { "type": "paragraph", "text": "She discovered, over what felt like days but might have been centuries, that she could scratch faint marks into the surface of the cards. With a piece of shell she found on the dead beach, she began to etch words — desperate, tiny letters — into the faces. *He is not me. Aldric in my body. Stop him. Elara is in the north woods, under the old well. Check the foundation.* She poured everything she knew onto those fifty-two pieces of cardboard. She did not know if they would ever reach the living world, but the Lazarus Pact’s brochures had said that objects brought into the grey world by the dead could sometimes slip back into the land of the living if the bond was strong enough. She had to believe that." },
+        { "type": "paragraph", "text": "Through the flickering window, she watched Aldric-as-Mara leave the institute. She watched him go home, cook dinner, pet the cat. She watched him, with a sickening, growing dread, begin to write letters to a young woman from the library — the same grooming pattern he had used before. She could not stop him. She could only scratch and scratch until her fingers bled, filling the cards with warnings, with the names of the victims, with the location of the shallow graves that held their bones. And then, on a day that felt like hope, she saw through the window that the pack of cards, which she had left on the waiting room chair, was picked up by a young girl — the daughter of the next widow, perhaps — and slipped into a pocket. The cards had crossed." }
+      ]
+    },
+    {
+      "id": "ch8",
+      "title": "Chapter 8 — The Girl and the Ghost",
+      "content": [
+        { "type": "paragraph", "text": "Lena, a twelve-year-old with braids and a quiet, watchful nature, found the cards in her coat pocket the morning after her mother’s appointment at the Vespers Institute. She did not know how they got there. She sat on her bed and spread them out, and she saw the scratches. Words. A woman’s name. A location. A warning. She told her mother, who, still raw from a fruitless conversation with her own dead husband, did not believe her. But Lena was stubborn. She took the cards to the police. A weary detective, more out of curiosity than conviction, followed the directions scratched into the ace of spades. In a remote patch of woodland, under the crumbled remains of a well, they found the bones of seven women. One of them, still wearing a tarnished necklace with a daisy charm, was identified as Elara Moran, missing for six years. The investigation that followed uncovered Aldric Sorensen’s double life, and the evidence led, eventually, to his widow — his wife, Mara — who had, according to the scratched cards, stolen his body and his identity from the other side of death." },
+        { "type": "paragraph", "text": "They came for Aldric in the library where he now worked, herding children into a reading circle with a smile that never reached his eyes. The officers put handcuffs on the woman who looked like Mara, and he snarled with a voice that was not quite her own. In the grey world, Mara watched through the window as justice, twisted and imperfect, finally arrived. She did not feel triumph. She only felt the deep, cold silence of the void she would inhabit forever. She had stopped Aldric, but she had paid for it with her own eternity. The cards, however, remained in an evidence locker, their scratched messages a testament to a love and a hatred that had outlasted death itself. And sometimes, on quiet nights, a young custodian walking past that locker would swear she could hear the faint shuffle of a deck being dealt." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "Pack of worn playing cards on a table", "caption": "The cards that carried Mara's last words, scratched into the afterlife." }
+      ]
+    }
+  ]
+}

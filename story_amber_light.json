@@ -1,0 +1,63 @@
+{
+  "id": "story_amber_light",
+  "title": "The Amber Light",
+  "author": "M. R. Holloway",
+  "cover": "/book/story_amber_light-cover.png?w=600",
+  "coverColor": "#1a1208",
+  "description": "Racing to the hospital where her estranged mother is dying, Lena's vision begins to fracture — not from grief, but because the memories she has carried for thirty years are not her own. The truth waits in a room at the end of a corridor, and it will demand a price she never agreed to pay.",
+  "tags": ["Dark Drama", "Psychological Horror", "Family Secrets", "Memory", "Twist"],
+  "requiredReadMinutes": 120,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Call",
+      "content": [
+        { "type": "paragraph", "text": "The phone rings at 6:47 a.m. and I am already awake. I have been awake for hours, lying in the dark, listening to the radiator clank and the wind worry the loose gutter outside. I know before I answer that the world is about to split open. The voice on the other end is not my father's. It is a nurse, a woman with a soft, practised gentleness that tells me everything before the words do. 'Your mother has taken a turn. You should come. There isn't much time.' I hang up and stand in the middle of the bedroom, my feet bare on the cold floor, and I feel nothing. That is the first lie I tell myself." },
+        { "type": "paragraph", "text": "I have not seen my mother in six years. I have not spoken to her in four. The last conversation we had ended with her voice raised and mine silent, the way all our conversations ended. She said things I have tried to forget, and I said nothing, because I learned as a child that silence was the only shield that worked against her. When I left, I told myself I would never go back. But now I am pulling on yesterday's jeans and a sweater that smells of coffee and I am grabbing my keys from the hook by the door. The drive to the hospital is three hours. I can make it in two and a half if I push. I do not know why I am pushing. I do not know why I am going at all." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Fracturing Light",
+      "content": [
+        { "type": "paragraph", "text": "The highway is empty, a grey ribbon unspooling under a sky the colour of old dishwater. The cornfields on either side are stubble and mud, the last harvest long gone. I grip the steering wheel and try to find a memory of my mother that is not poisoned. I cannot. Every image that surfaces is tainted: her face, beautiful and cold, turning away from me at a school concert. Her voice, honeyed and sharp, telling me I was not trying hard enough. Her hands, elegant and ringed, never touching me except to adjust my collar or smooth my hair. I was a doll she dressed and displayed and then forgot on a shelf." },
+        { "type": "paragraph", "text": "The light begins to change. At first I think it is the sun struggling through the clouds, but the clouds are too thick for sun. The edges of my vision are softening, blurring, as if the world is being erased from the outside in. I blink and rub my eyes, but the blur remains. A strange, amber glow is seeping into everything — the road, the sky, the dashboard. I feel a pulse of fear, sharp and animal. I have had migraines before, but never like this. Never with colours. Never with the sense that something is pressing against the inside of my skull, trying to get out." },
+        { "type": "paragraph", "text": "I pull over at a rest stop, a lonely rectangle of concrete with a single picnic table and a bin overflowing with fast-food wrappers. I sit with the engine idling and my hands shaking. The amber light is receding now, but it has left something behind — a residue, a taste at the back of my throat like burnt sugar. I close my eyes and breathe. When I open them, the world is sharp again, but it feels different. It feels staged. As if everything has been moved slightly to the left." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Memory That Wasn't",
+      "content": [
+        { "type": "paragraph", "text": "Back on the highway, I try to distract myself by remembering the good times. There must have been good times. But when I reach for a memory of my mother smiling, I find a strange thing: the memory is there, but it does not feel like mine. It is a photograph, a scene of a woman laughing in a garden, a child on her hip. The child is me, or should be. But the woman's face is wrong. It is my mother's face, but the expression — the warmth, the unguarded joy — is one I have never seen. I shake my head, and the image dissolves. Another memory rises: a kitchen, the smell of cinnamon, my mother's hands kneading dough. But the hands are too young, too smooth. They are not her hands. They are someone else's." },
+        { "type": "paragraph", "text": "The amber light flickers at the edge of my vision. I grip the wheel harder. 'Focus,' I whisper. 'Just focus.' But the memories are coming faster now, a cascade of images that don't belong to me. A birthday party with a cake I never had. A swing set in a backyard I never played in. A lullaby, low and sweet, in a voice that is not my mother's but that I know, somehow, intimately. I feel a sob building in my chest, and I don't know if it is grief or terror." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Hospital",
+      "content": [
+        { "type": "paragraph", "text": "I arrive at the hospital in a state of raw, trembling exhaustion. The building is a grey block against a grey sky, and the sliding doors open with a hiss that sounds like a warning. Inside, the air is thick with antiseptic and the low hum of fluorescent lights. I find my father in a waiting room on the third floor. He is smaller than I remember, his shoulders hunched, his eyes red-rimmed. He looks at me as if he is seeing a ghost. 'You came,' he says, and his voice is cracked and old. 'I didn't think you would.' I do not have an answer for him." },
+        { "type": "paragraph", "text": "He leads me to her room. She is in a bed by the window, and the machines around her beep and sigh. Her face is grey, her eyes closed, her chest rising and falling with the mechanical regularity of the ventilator. I stand in the doorway and wait for the grief to hit. It does not. Instead, I feel the amber light again, flickering at the corners of the room. I feel the memories pressing, foreign and familiar. And then she opens her eyes. She looks at me, and for one clear, terrible moment, I see not my mother but the woman from the garden, the one with the laugh and the warmth. Her lips move. She tries to speak. The words are barely a whisper, but I hear them. 'I am not her,' she says. 'I am not your mother.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Truth Beneath",
+      "content": [
+        { "type": "paragraph", "text": "My father pulls me into the corridor. His face is ashen, his hands trembling. He tells me a story that rewrites my entire life. The woman in the bed is not my biological mother. My biological mother was her sister, a woman named Clara, who died when I was two years old. Clara's death was not an accident. It was a suicide, driven by a despair that the family never understood. My father and his wife — the woman I have called Mother — took me in. They raised me as their own. They never told me the truth, because they thought it would be easier. Because they thought the past could be buried." },
+        { "type": "paragraph", "text": "But the past does not stay buried. The memories I have been experiencing — the garden, the kitchen, the lullaby — are not mine. They are Clara's. They were imprinted on me in those first two years of life, locked away until now, unlocked by the proximity of death. The woman in the bed, the woman who was cold and distant my entire childhood, was not my mother. She was an aunt who never wanted children, who resented the burden of raising her dead sister's daughter. She did her duty, but she could not love me. And I spent thirty years believing I was unlovable because of it." },
+        { "type": "paragraph", "text": "I go back into the room. I sit beside the bed. I take her hand — her thin, cold hand — and I do not know what to feel. She is not my mother. She is a stranger who raised me. She is a woman who tried and failed. She is a person who is dying, and I am here. That is all. That is enough. The amber light fades. The memories settle. I sit, and I wait, and when the machines finally fall silent, I am still holding her hand." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Road Back",
+      "content": [
+        { "type": "paragraph", "text": "The drive home is slow and quiet. The sky has cleared, and the sun is a pale, watery gold on the horizon. I do not push the accelerator. I let the car drift along the highway, and I think about Clara — my real mother, the one I never knew. I think about the lullaby, and the garden, and the warmth in her voice. I think about the woman I just buried, and the complicated, painful gift she gave me by staying. And I think about the amber light, the strange, breaking vision that carried me to this moment. Perhaps it was Clara. Perhaps it was my own mind, finally freeing itself from a lie. I will never know." },
+        { "type": "paragraph", "text": "I pull into my driveway as the last light leaves the sky. My husband is waiting on the porch, his face anxious. I walk into his arms, and I let him hold me. There are no words. There is only the steady, human warmth of being seen, and held, and forgiven. The amber light is gone. The memories are quiet. And somewhere, in the silence, I hear a lullaby." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "A quiet road at dusk, headlights illuminating the way", "caption": "The road back from the hospital, where the amber light finally faded." }
+      ]
+    }
+  ]
+}

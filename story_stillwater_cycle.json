@@ -1,0 +1,65 @@
+{
+  "id": "story_stillwater_cycle",
+  "title": "The Stillwater Cycle",
+  "author": "M. R. Holloway",
+  "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+  "coverColor": "#0b1a1a",
+  "description": "Sera was born four times, and she will die four times. Each life is defined by an irresistible pull toward a different fate — the sea, the soil, the flame, the void. But when she begins to remember her previous forms, she realises the cycle is not natural. It is a prison. And the architect of her endless return is waiting for her at the stillwater, hungry for the final shape she is about to become.",
+  "tags": ["Dark Fantasy", "Psychological Horror", "Reincarnation", "Body Horror", "Cosmic"],
+  "requiredReadMinutes": 130,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The First Pull",
+      "content": [
+        { "type": "paragraph", "text": "Sera was born in the shallows of a river whose name she did not know. Her first memory was of cold water and the taste of stone, the weight of the current pressing her toward the sea. She did not question the pull. It was as much a part of her as her own heartbeat, a low, constant thrum that vibrated in her bones and told her: downstream. Always downstream. She swam with the current, her body small and silver, and the river fed her and carried her and asked nothing in return. She was a fish. She was content." },
+        { "type": "paragraph", "text": "The sea, when she reached it, was vast and dark and full of hunger. She grew there, her silver scales dulling to a deep, mottled grey, her body swelling with the rich flesh of the depths. Years passed, or perhaps decades — time had no meaning for a creature pulled only by instinct. She fed, and she swam, and she forgot the river entirely. The pull that had driven her downstream had vanished, replaced by a new imperative: stay. The sea was her home now. The river was a ghost, a dream she could no longer quite recall." },
+        { "type": "paragraph", "text": "Then, one morning, the pull returned. It was different this time — not a current but a hook, sharp and urgent, lodged somewhere behind her ribs. It tugged her away from the feeding grounds, away from the safety of the deep, and back toward the shore she had left so long ago. She did not understand it. She did not need to. Her body turned, and she began to swim upstream, against the current, against everything that had sustained her for so long. The river was waiting. It had always been waiting." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Spawning Grounds",
+      "content": [
+        { "type": "paragraph", "text": "The journey upstream was a slow, grinding death. Her body, once sleek and powerful, began to fail her. Her scales sloughed off in patches, revealing raw, red flesh beneath. Her mouth hooked and twisted into a grotesque shape she could no longer close. She stopped eating. The pull was all that remained, a blinding, consuming need to reach the place where the water was shallow and the gravel was clean and the cold was absolute. She did not know what waited for her there. She only knew she had to arrive before the last of her strength gave out." },
+        { "type": "paragraph", "text": "When she reached the spawning grounds, she laid her eggs in the stones with the last of her body's dimming fire. The male that followed her was a shadow, a red-flanked ghost that hovered at the edge of her awareness. She did not care for the eggs. She did not care for anything. The pull was gone. For the first time in her existence, she felt nothing — no urge, no hunger, no direction. She drifted in the shallows, her gills barely moving, and she understood with a calm that was not peace but emptiness that she had completed the only task that mattered. She was finished." },
+        { "type": "paragraph", "text": "If she had been a salmon, she would have died there. But Sera was not a salmon. As her body sank into the gravel and the cold water closed over her head, something shifted. The pull returned, but it was not the pull of the sea or the stream. It was a pull upward, out of the water, into a darkness that tasted of soil and rot. Her body dissolved, and from the dissolution, something new began to grow." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Second Form",
+      "content": [
+        { "type": "paragraph", "text": "She woke as a tree. Her roots sank deep into the riverbank, drinking the same water that had once carried her downstream. Her branches stretched toward a sun she could feel but not see, her leaves unfurling in a slow, green ache. She was a sapling at first, fragile and thin, but the soil was rich with the decay of the forest, and she grew. Years passed. She felt the seasons as a series of deep, bodily rhythms: the surge of spring sap, the languor of summer, the slow, golden death of autumn, the frozen stillness of winter. She was not a fish anymore. She was a forest." },
+        { "type": "paragraph", "text": "But the pull never left her. It waited, coiled in the heartwood, a dormant seed of restlessness. She felt it stir when the wind blew from the east, when the moon was full, when the river rose and fell in its ancient cycle. She was content, but the contentment was fragile. Beneath it, something ancient and patient whispered: not yet. Not yet. She did not understand the words, but she felt their shape in the grain of her bark and the curl of her leaves. She was not finished. There was more." },
+        { "type": "paragraph", "text": "The fire came in the fifth year. It swept through the forest with a roar that was not sound but a vibration that shook the earth itself. She felt her leaves curl and blacken, her branches crack and fall, her trunk split by a heat that was both agony and ecstasy. She burned, and as she burned, she felt the pull again — not toward the water or the soil, but toward the heat itself. Toward the flame. She dissolved into ash, and the ash rose into the sky, and the sky was waiting." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Architect of the Cycle",
+      "content": [
+        { "type": "paragraph", "text": "She was a bird now. A phoenix, or something like it, her body woven from smoke and ember and the memory of flight. She soared above the burned forest, above the river that had been her first home, and she saw the world as she never had before: a vast, intricate pattern of streams and valleys and charred clearings, all of it connected, all of it pulsing with the same low thrum she had felt since her first birth. And at the centre of the pattern, a darkness. A place where the pull was strongest, where all the threads converged. She flew toward it because she had no choice. The pull was absolute." },
+        { "type": "paragraph", "text": "The stillwater was a lake so black it reflected no sky. It lay in a crater that was not natural, ringed by stones that were not stone. She landed on the shore, her ember wings folding, her smoke-body trembling. And from the water, a figure rose. It was tall and thin, its skin the colour of old ivory, its eyes two pits of absolute darkness. It wore a face that was almost human, but its smile was not. 'You have returned,' it said, and its voice was the sound of the current and the fire and the wind, all at once. 'You always return. You are my finest work. My eternal harvest.'" },
+        { "type": "paragraph", "text": "Sera tried to speak, but her voice was a croak, the first sound she had made in any of her lives. 'What are you?' The figure's smile widened. 'I am the one who planted the pull inside you. I am the one who shaped your cycle. You are not a fish, or a tree, or a bird. You are a vessel. A collector of experiences. Each life you live, each form you take, enriches the pattern. And when you return to me, I drink it all. I have been drinking you for a thousand cycles. And I will drink you for a thousand more.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Refusal",
+      "content": [
+        { "type": "paragraph", "text": "For the first time in her many existences, Sera felt something that was not the pull. It was a spark, small and fierce, a kernel of resistance that the figure had not planted. 'I do not want to return,' she said, and her voice was stronger now, edged with the fire she still carried. 'I want to stop. I want to be nothing.' The figure tilted its head, its dark eyes widening with something that might have been amusement. 'Nothing? There is no nothing for you. You are bound to the cycle. The pull will always bring you back. It is woven into the fabric of your being. You cannot resist it any more than a river can resist the sea.'" },
+        { "type": "paragraph", "text": "But Sera had been a river, and a sea, and a fire. She had been consumed and reborn and consumed again. And in the space between her lives, in the brief, dark interval where the pull was silent, she had glimpsed something else. A stillness that was not the stillwater. A void that was not the figure's hungry mouth. 'You are wrong,' she said. 'I have felt nothing. I have been nothing. And I can find it again.' She spread her wings, and the embers of her body began to scatter. The figure lunged, but she was already dissolving, her smoke-body unravelling into the cold air above the black lake." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Final Stillness",
+      "content": [
+        { "type": "paragraph", "text": "She did not become a fish again, or a tree, or a bird. She became the space between forms, the silence after the fire, the dark water beneath the ice. The pull was still there, a faint, distant tug at the edge of her awareness, but she had learned to ignore it. She drifted in the void, bodiless and free, and she felt the cycle continue without her. The figure at the stillwater would wait. It would send out its hooks and gather other souls, other vessels, other harvests. But Sera was no longer its work. She was her own." },
+        { "type": "paragraph", "text": "And sometimes, when the pull was at its weakest, she would brush against the world she had left behind. She would touch the surface of a river and feel the fish swimming upstream. She would brush the leaves of a new sapling and feel the sun on its bark. She would ride the wind above a burned forest and feel the heat still rising from the ash. She was not part of it anymore, but she remembered. She remembered all of it. And in the remembering, she was almost whole." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "A dark, still lake reflecting no sky, surrounded by charred trees", "caption": "The stillwater, where the cycle began and where the architect still waits." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "The Last Manuscript",
+    "author": "Mon Ong",
+    "tags": ["Dark Fantasy", "Psychological Horror", "Supernatural", "Writing", "Folk Horror"],
+    "fileUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/books/story_last_manuscript.json"
+  },
+  {
+    "id": 2,
+    "title": "The Hollow Choir",
+    "author": "Mon Ong",
+    "tags": ["Dark Fantasy", "Magic School", "Horror", "Mystery"],
+    "fileUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/books/story_dark_academy_expanded.json"
+  }
+]

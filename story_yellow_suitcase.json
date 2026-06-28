@@ -1,0 +1,64 @@
+{
+  "id": "story_yellow_suitcase",
+  "title": "The Suitcase by the Door",
+  "author": "S. R. Blackwood",
+  "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+  "coverColor": "#2c2c1a",
+  "description": "When Margaret finally leaves her husband and arrives at her daughter Iris's door with a bright yellow suitcase, she expects gratitude and a warm embrace. Instead she finds a house that is too clean, a daughter who barely speaks, and a charming son-in-law who seems to know too much. But Margaret is not the victim she pretends to be — and Iris's cold silence hides a terror that has nothing to do with the man she married.",
+  "tags": ["Dark Drama", "Psychological Horror", "Family Secrets", "Abuse", "Twist"],
+  "requiredReadMinutes": 130,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Yellow Suitcase",
+      "content": [
+        { "type": "paragraph", "text": "I bought the yellow suitcase the morning after I finally left him. It was the first thing I did — not call my daughter, not find a solicitor, not even cry. I walked into the first luggage shop I saw and pointed at the brightest piece of luggage in the window, a canary-yellow hard-shell with silver zips and a promise of durability. For thirty-one years I had carried a black suitcase. Black because it fit in, because it matched the dark moods of the man who stood over me while I packed. Yellow because I was free. Yellow because I would never again squeeze myself into a space that someone else had chosen for me. Yellow because I wanted my daughter to see it and know at a glance that her mother was a new woman." },
+        { "type": "paragraph", "text": "The train to Iris's town took four hours. I had time to rehearse what I would say. She would be surprised, of course. I had not visited since she moved out at eighteen, and that was seven years ago. A Christmas card each year, a birthday cheque she never cashed, a strained phone call every few months that always ended with her saying she was busy. I thought I understood. She was building a life, a career, a relationship with a man she had mentioned only in passing. But now I needed her. I needed my daughter to see me as a survivor, to be proud of me. I imagined her face softening, her arms opening, her voice saying, 'Mam, I'm so glad you left him at last.'" },
+        { "type": "paragraph", "text": "The house was on a quiet suburban street lined with cherry trees. It was a small, neat semi-detached with a grey door and a brass knocker in the shape of a fox. I stood on the pavement, my yellow suitcase bright against the grey afternoon, and I rang the bell. After a long moment, the door opened. Iris looked at me, and for one flickering second I saw something in her eyes that I did not want to name. Then it was gone, replaced by a flat, careful nothing. 'Mam,' she said. 'What are you doing here?'" }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Immaculate Kitchen",
+      "content": [
+        { "type": "paragraph", "text": "She did not throw her arms around me. She did not smile. She eyed the yellow suitcase as if it were a bomb. 'I've left your father,' I said, and the words felt enormous, the most important words I had ever spoken. Iris's expression did not change. She simply stood back and allowed me to enter, her body a reluctant doorway. The house was so clean it hurt. Every surface gleamed, every cushion was plumped, every fork and knife in the open kitchen drawer was aligned with a ruler's precision. I thought of my own kitchen at home, where the mess was my husband's and the dishes were always stacked too high. I had kept a perfect house once, before I married him. Before he convinced me that nothing I did would ever be good enough." },
+        { "type": "paragraph", "text": "Iris led me to the kitchen and made tea without asking if I wanted any. One mug. She placed it on a coaster with a mediaeval village scene, and I sat at the table while she stood by the fridge, her arms crossed. She had always been a quiet child, but this was a new kind of silence. It was heavy, oppressive, the kind of silence that takes up all the air in a room. I opened my mouth to tell her everything — the years of criticism, the coldness, the way her father had slowly shrunk me into a version of myself that I did not recognise — but the front door opened and a man's voice called out a cheerful greeting. Iris's spine straightened. Her face did not relax, but it shifted into something like obedience. And then Simon walked in." },
+        { "type": "paragraph", "text": "He was tall and handsome in an unremarkable way, with sandy hair and a soft smile that crinkled the corners of his eyes. He wore a fleece and jeans and carried the scent of cold air and expensive aftershave. When he saw me, his face lit up. 'You must be Margaret,' he said, crossing the room to shake my hand. His grip was warm and dry and entirely unthreatening. 'Iris's mum. She's told me so much about you.' I glanced at Iris, who had not told me anything about him, and whose face was now a perfect mask. Simon kissed the top of her head, and she did not move. She did not flinch, either. She simply stood there, like a doll, and I felt the first cold finger of unease trace my spine." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Bourbon Creams",
+      "content": [
+        { "type": "paragraph", "text": "Simon insisted I stay for a proper meal. He found a packet of bourbon creams and set them on a plate with a theatrical flourish that made me laugh despite myself. He asked about my journey, about the weather, about the yellow suitcase. 'That's a cheerful thing,' he said, nodding at it. 'Are you off somewhere nice?' I told him I was going to my sister's, a lie that came out smoothly, and he smiled as if he believed it. Iris sat motionless, her tea untouched, her eyes fixed on a point just beyond my left shoulder. When Simon asked about her childhood, she answered in monosyllables. When he reached over to stroke her neck, she let him. The gesture was tender, but there was something performative about it, as if they were both playing roles in a play I had not been allowed to read." },
+        { "type": "paragraph", "text": "I began to feel a slow, simmering anger. Not at Simon, who seemed perfectly pleasant, but at Iris. I had left her father. I had finally done the thing she must have wanted me to do for years. And here she was, acting as if my arrival were an inconvenience, as if I were a stranger who had come to borrow money. I remembered the years of protecting her from his moods, the times I had sent her to her room while I absorbed the shouting, the nights I had held her and promised that everything would be all right even when I knew it would not. And now this — this cold, ungrateful silence. I pushed my chair back and stood, my tea barely touched. 'I should go,' I said, and the relief in Iris's eyes was so raw and immediate that I almost gasped." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Doorway",
+      "content": [
+        { "type": "paragraph", "text": "Simon protested politely, but Iris was already leading me to the front door. My yellow suitcase stood waiting, a bright splash of hope in the dim hallway. I gripped the handle and turned to say goodbye, my words sharpened by disappointment. But before I could speak, Iris grabbed my wrist. Her grip was fierce, her fingers cold and thin. 'You go, Mam,' she whispered, her face suddenly close to mine. 'Go. And don't look back.' There was a fire in her eyes that I had not seen since she was a child, a desperate, blazing urgency. Then Simon appeared behind her, his hand sliding around her waist, and the fire died. She was a doll again. The door closed with a soft, final click." },
+        { "type": "paragraph", "text": "I stood on the doorstep, my heart hammering. The street was quiet. The cherry trees were shedding their blossoms onto the pavement like pink tears. I tried to make sense of what had just happened. Iris had seemed trapped, yes, but trapped by what? Simon had been nothing but kind. He had offered me biscuits and asked about my travels. He had smiled. And yet the memory of his hand on her neck, the way she had not flinched, the way she had looked at me in that final moment — it all formed a picture I could not yet assemble. I dragged my yellow suitcase down the path and onto the street, and I did not look back. But I could not stop thinking about Iris's eyes. They were dull, lifeless, dead. And they were familiar. I had seen them before, in the mirror, during the worst years of my marriage." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Mirror",
+      "content": [
+        { "type": "paragraph", "text": "The lie I told about the sister was only half a lie. I did have a sister, though we had not spoken in years, and her house was an hour away. I took a bus, then a taxi, and arrived at her door with the yellow suitcase and a trembling in my hands that would not stop. My sister, Ruth, took one look at me and pulled me inside. She made me tea and listened while I talked, and when I was finished, she said something that cracked my understanding in two. 'Iris didn't leave because of her father, Margaret. She left because of you.'" },
+        { "type": "paragraph", "text": "I stared at her. The words would not fit. I had protected Iris. I had loved her. I had stayed in a miserable marriage so that she could have a stable home. I told Ruth this, and she shook her head slowly, her eyes sad. 'You don't remember, do you? The way you used to scream at her for the smallest things. The way you made her clean her room until it was perfect. The way you told her she was worthless, just like her father told you. You broke her, Margaret. And then you sent her away before she could break you back.' The room swam. I wanted to argue, to defend myself, but the memories were already rising, unbidden and terrible: Iris's small face crumpling under my words, Iris scrubbing the kitchen floor at midnight because I had found a crumb, Iris packing her bags at eighteen with a stillness that I had called ingratitude but was actually terror." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A woman looking at her reflection in a dark window", "caption": "The face in the mirror that she had refused to see." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Yellow Light",
+      "content": [
+        { "type": "paragraph", "text": "I did not return to Iris's house. I could not. The yellow suitcase, which had seemed so bright and hopeful, now sat in the corner of Ruth's spare room like an accusation. I had left my husband, yes, but I had been the monster in someone else's story all along. The dull, lifeless eyes I had seen in Iris were my own eyes, reflected back across the years. She had not been ungrateful; she had been afraid. She had not been cold; she had been frozen by the memory of a mother who had loved her with a love that crushed. And Simon — gentle, smiling Simon — was perhaps the first person who had ever made her feel safe. His hand on her neck was not possession; it was protection. The whispered words at the door were not a plea for me to escape. They were a warning: do not bring your poison into this house." },
+        { "type": "paragraph", "text": "I sat in Ruth's spare room and wept for the daughter I had destroyed and the freedom I had never deserved. The yellow suitcase stayed by the door for a long time, and when I finally unpacked it, I found nothing inside but the clothes of a woman who had been lying to herself for decades. I wrote Iris a letter. I did not ask for forgiveness. I only told her that I understood now, and that I would never come back. I hope she received it. I hope she read it and felt a small, quiet piece of the past settle into place. I hope, one day, she can look in the mirror and see eyes that are full of light. I am still learning to do the same." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "A yellow suitcase by a window with morning light", "caption": "The suitcase that carried the hope of a new beginning, and the weight of an old truth." }
+      ]
+    }
+  ]
+}

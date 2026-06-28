@@ -1,0 +1,65 @@
+{
+  "id": "story_bitter_vintage",
+  "title": "The Bitter Vintage",
+  "author": "C. M. Holloway",
+  "cover": "/book/story_bitter_vintage-cover.png?w=600",
+  "coverColor": "#2c1e0f",
+  "description": "Lena marries into the Crest family to escape the toxic legacy of the Sink. But when she discovers that her new husband's bloodline built their fortune on the poison that destroyed her people, she starts serving a revenge they will swallow willingly — one meal at a time.",
+  "tags": ["Dark Drama", "Rural Noir", "Revenge", "Class Divide", "Psychological"],
+  "requiredReadMinutes": 135,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Girl from the Sink",
+      "content": [
+        { "type": "paragraph", "text": "They called it the Sink, and the name was not a metaphor. Our valley sat at the bottom of a long, slow slope where the water gathered after it had washed over the Crest farms, the factory yards, and the tailings piles of the old Kendall Mine. By the time the river reached us, it was the colour of weak tea and smelled of sulphur and something sweeter, like rotting fruit. My grandmother's hands shook so badly she could no longer button her own dress. My father's gums bled when he brushed his teeth, and he lost his molars before he was forty. My younger brother Tomas had been born with a hole in his heart, and the doctors said it was just one of those things. They never said what those things were. They knew better." },
+        { "type": "paragraph", "text": "I was seventeen when I first understood that the water was not just bad luck. A man from the university came to the valley with testing kits, and he was gone within a week. His car was found in a ditch, and the official report said he had driven drunk. My father told me to stop asking questions, and I did. But I kept a jar of the river water hidden under my bed, and sometimes I would hold it up to the light and watch the oily swirl of chemicals that had no names but which I could feel in my own bones, a low, constant tremor that never quite went away." },
+        { "type": "paragraph", "text": "The Crest family lived on the ridge above us, in a white house with green shutters and a barn that held a hundred head of dairy cattle. Their water came from a deep artesian well that had been drilled before the mine ever opened, and their milk was so thick with cream that it coated the glass. I used to stare at their farm from the road, watching the cattle move across the hillside like slow, contented clouds, and I imagined what it must be like to drink something that did not taste of metal. I never thought I would find out. Then I met Lucas Crest, and everything changed." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Courtship of Convenience",
+      "content": [
+        { "type": "paragraph", "text": "Lucas was not handsome, but he was tall and broad and had the easy confidence of a man who had never been told no. We met at the county fair, where my family had a small stall selling goat cheese that even the dogs wouldn't eat. He wandered over, his thumbs hooked in his belt loops, and said, 'You're from the Sink, aren't you?' His voice was loud and casual, as if he were commenting on the weather. I felt my cheeks flush, but I nodded. 'I hear Sink girls know how to work hard,' he said, and there was a glint in his eye that made my skin crawl. But I smiled the way my mother had taught me, the smile that said I was grateful for his attention, and I let him buy me a lemonade." },
+        { "type": "paragraph", "text": "The courtship was quick and joyless. He took me to a dance at the Grange Hall, where his friends made jokes about the smell of the river and I laughed along. He drove me home in his pickup truck, the windows down, and he tried to kiss me before we reached my gate. I pulled back, and he shrugged. 'I figured you'd be eager,' he said. The implication was clear: a girl from the Sink should be grateful for any attention from a Crest. That night, I lay awake and thought about the jar of river water under my bed and the way my mother's hands trembled when she poured my father his evening tea. I made a decision. I would marry Lucas Crest. I would drink his family's clean milk and eat their clean food, and I would never shake again." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800", "alt": "Rolling green hills with a white farmhouse", "caption": "The Crest farm, where the water ran pure and the milk was sweet." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Bitter Trade",
+      "content": [
+        { "type": "paragraph", "text": "The wedding was held in the Crest family church, a small white building with a steeple that caught the morning light. My mother wept through the entire ceremony, and I knew her tears were not of joy. As we exchanged vows, Lucas's hand was heavy on mine, and I felt the tremor in my fingers for the last time. The next morning, at breakfast, his mother poured me a glass of milk fresh from the dairy, and when I drank it, my hands were as steady as stone. I almost cried. It was like heaven coming down to earth." },
+        { "type": "paragraph", "text": "But Lucas was not kind. He was crude, demanding, and his breath smelled of beer by noon. He expected his meals hot and his house clean, and at night he took what he wanted without asking. I told myself it was the trade. My body for the milk. My silence for the water. It was a bitter bargain, but I had made worse ones just by being born. The only comfort, besides the food, was that I was no longer in the Sink. I could look down at it from the ridge, the grey smear of the valley where my family still lived, and I could pretend it was a different world. It was, but not in the way I thought." },
+        { "type": "paragraph", "text": "The truth came out six months into the marriage. I found the papers in Lucas's father's study, a locked drawer I opened with a hairpin while the old man was at the cattle auction. They were contracts between the Crest Dairy and the Kendall Mining Company, dating back forty years. The Crests had not just benefited from the mine. They had been paid to take the tailings, the toxic slurry, and spread it on the lower fields as fertilizer. The runoff went directly into the river that flowed into the Sink. My family's sickness, my brother's heart, my grandmother's shaking hands — all of it traced back to the Crests. They had poisoned us for profit." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Menu of Reckoning",
+      "content": [
+        { "type": "paragraph", "text": "I did not confront Lucas. I did not weep or rage. I went home to the Sink for the first time since the wedding, and I asked my mother for her worst cheese. The cheese that was too contaminated even for us, the batch that had turned an odd grey-green and smelled of chemicals. She was puzzled but gave me a wheel wrapped in wax paper. 'For your husband,' I said, and my smile was the one she had taught me, but this time it was not grateful. It was hungry." },
+        { "type": "paragraph", "text": "I started with Lucas's breakfast. I crumbled the cheese into his scrambled eggs, the toxic tang hidden under butter and salt. He ate it with relish. 'Damn, Lena, this is good,' he said, and I felt a dark, giddy warmth in my chest. I fed it to his father and mother in casseroles and soups. I baked it into bread and melted it over vegetables. The family that had built its fortune on poison was now dining on it, and they asked for seconds. The trembling started in Lucas's fingers within two months. Just a flicker at first. He blamed the cold. I smiled and poured him a fresh glass of milk — the clean milk, still. I was not yet ready to give that up." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1586190845344-5504a4370918?w=800", "alt": "Homemade cheese on a wooden board", "caption": "The cheese from the Sink, laced with a bitter inheritance." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Slow Harvest",
+      "content": [
+        { "type": "paragraph", "text": "The Crest family began to fall apart, literally. Lucas's teeth loosened; his father's legs developed ulcers that would not heal. His mother, a stern woman who had always looked down on me, began to forget things — where she had put her keys, the names of her grandchildren. The doctor called it age. I called it the Sink's revenge, slow and patient. Lucas grew more dependent on me, his once-strong hands now too shaky to button his own shirt. I helped him, my own hands steady as the grave, and he whispered, 'I don't deserve you.' He was right." },
+        { "type": "paragraph", "text": "I expanded my menu. I brought back cured meats and pickled vegetables from the Sink, the worst of our larder, and I served them at every meal. The Crests ate it all, their bodies absorbing the very chemicals they had sown. I watched them sicken and weaken, and I felt nothing but a cold, quiet satisfaction. When Lucas's father died of a heart attack, the mine contracts died with him. The new manager had no loyalty to the Crests, and the tailings stopped. The river would take decades to heal, but it had stopped getting worse. I had done that." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Weight of the Trade",
+      "content": [
+        { "type": "paragraph", "text": "But the cost was mine to bear. I had eaten the same food. I had drunk the same water, at first, and my body had not forgotten its origins. The tremors returned, faint but unmistakable, in my left hand. I had known the risk, and I had accepted it. The trade was complete: my health for their destruction. I looked at Lucas, now a hollow shell of a man, and I saw the same weakness I had fled from. I had become the poison, and in doing so, I had poisoned myself. There was no victory, only a grim symmetry." },
+        { "type": "paragraph", "text": "One night, Lucas looked at me with his watery, confused eyes and said, 'You're all I have left.' His voice was small and broken. I could have told him the truth then, could have watched his face crumble as he realized his wife had been his executioner. But I did not. I simply poured him a glass of milk — the clean milk, still available for as long as the dairy ran — and I held his trembling hand in my own shaking one. 'I know,' I said. And I did. We were bound together by the very poison that had made us. The Crest name would die with him, and the Sink would slowly rise. But I would not see it. I would be too busy tending the man I had destroyed, my hands growing ever less steady." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "Two hands holding, one older, one younger, both trembling", "caption": "The trade was bitter, and the payment came due in tremor and silence." }
+      ]
+    }
+  ]
+}

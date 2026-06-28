@@ -1,0 +1,72 @@
+{
+  "id": "story_gaslight_experiment",
+  "title": "The Gaslight Sessions",
+  "author": "V. M. Ashford",
+  "cover": "/book/story_gaslight_experiment-cover.png?w=600",
+  "coverColor": "#0a0a0f",
+  "description": "At the weekly Foreign Classics Film Club, Mark finds solace from the racial profiling that haunts his nights. But when he discovers that his growing intimacy with fellow cinephile Blanche is part of a psychological experiment designed to break him, the flickering light of the projector reveals a truth far darker than any black-and-white film.",
+  "tags": ["Dark Thriller", "Psychological Horror", "Gaslighting", "Racial Identity", "Twist"],
+  "requiredReadMinutes": 135,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Flicker of Understanding",
+      "content": [
+        { "type": "paragraph", "text": "The screening room was a pocket of warm darkness in a campus that never felt entirely safe for Mark Okonkwo. Every Thursday night, he sat in the third row, close enough to the screen to see the grain of the old prints, far enough from the door to avoid the draft. The Foreign Classics Film Club was his sanctuary, a place where the only eyes on him were those of dead actors and a handful of fellow obsessives who cared more about Eisenstein's montage theory than the colour of his skin. Tonight's film was Gaslight, and as the wife on screen questioned her own senses while the gas lamps dimmed, Mark felt a shiver of recognition so deep it bruised." },
+        { "type": "paragraph", "text": "Blanche Irving, a girl with a mouth full of teeth and a wardrobe of thrift-store cardigans, had been the one to pull him into the club's orbit. Two months ago she had cornered him after a Kurosawa screening, demanding to know his thoughts, and when he stammered something about the framing, her eyes lit up. She was the first person outside his family who had ever made him feel like his words mattered. She was also, he would later learn, the architect of the cage he did not know he was in." },
+        { "type": "paragraph", "text": "After the credits, they walked through the February cold, their breath pluming. A police cruiser idled at the corner, and Mark's shoulders tightened. He had been carded three times this semester, stopped and questioned while walking home, his name and destination scribbled onto index cards by officers who never explained why he had been chosen. The cruiser had been there last week too. And the week before. 'They're just keeping the peace,' Blanche said, her voice light, and Mark almost believed her. She had a way of making the world seem orderly, benign. That, too, was part of the design." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Index Cards and the Cruiser",
+      "content": [
+        { "type": "paragraph", "text": "The pattern was unmistakable, though Mark tried to convince himself it was coincidence. Cruiser 10-25 appeared after every film club meeting. It followed him to the bus stop, sometimes idling a block away, sometimes pulling alongside to ask where he was headed. The officers, always the same two, spoke with a mocking politeness that left him feeling soiled. 'Just a routine check,' they said, and he would stand in the cold while they wrote on their little cards, his skin prickling under the streetlight. Blanche, when he mentioned it, called it harassment and even confronted the officers once, her voice sharp with righteous anger. 'How dare you follow him?' she demanded, and Mark's heart swelled with gratitude. He did not know that the confrontation was scripted, that the officers were actors on a payroll, that Blanche herself had written the dialogue in a planning session three weeks before." },
+        { "type": "paragraph", "text": "The gaslighting was systematic, clinical. Mark was the subject of an experiment, codenamed 'Lumière', designed by the university's psychology department with funding from a shadowy government grant. The research question was simple: how much psychological pressure could a racialized male endure before he broke? The film club, the police harassment, the supportive girlfriend — all of it was a controlled environment. The index cards weren't just notes; they were data points. The officers' cruisers were fitted with biometric sensors that read Mark's heart rate from a distance. Every tremor in his voice, every hesitation before answering, was catalogued. And Blanche, the girl he was falling in love with, was the primary data collector, her every affectionate gesture a manipulation, her every whispered reassurance a lie." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Taste of Intimacy",
+      "content": [
+        { "type": "paragraph", "text": "Their relationship deepened in the way of all carefully constructed romances. Blanche invited him to her dorm room after a particularly tense night when the cruiser had followed them for six blocks. She made tea, she listened to his fears, she touched his hand with a gentleness that made his throat ache. When they kissed, it felt like the first real thing in his life. But behind the affection, Blanche was typing notes on a hidden tablet every time he went to the bathroom: Subject exhibited elevated oxytocin levels post-contact. Trust index at 78%. Recommendation: escalate physical intimacy to solidify attachment." },
+        { "type": "paragraph", "text": "Mark, who had spent high school recovering from the 'Taste the Rainbow' incident and the locker graffiti that branded him 'small & dark,' found himself opening up in ways he never had. He told her about his mother, who cleaned office buildings and still managed to smile. He told her about his father, who had disappeared into the prison system when Mark was eight. He told her about the night he had been stopped by police for the first time, at thirteen, walking home from a track meet, and how the officer had called him 'boy' and told him to run. Blanche's eyes welled with tears. She held him. She said all the right things. She was, in every measurable sense, the perfect ally. And every word he said was transcribed, coded, and fed into the algorithm that predicted his breaking point." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=800", "alt": "Dark dorm room with a single lamp and a bed", "caption": "The room where Mark gave his trust, never knowing it was a laboratory." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Dimming of the Light",
+      "content": [
+        { "type": "paragraph", "text": "The escalation was gradual, the way water warms around a frog. The police stops became more frequent, more invasive. One night, they searched his backpack and found nothing; the next, they asked to see his student ID three times in the same block. When he told Blanche, she frowned and said, 'Are you sure it was three times? You've been so stressed lately.' The flicker of doubt was small at first, a tiny crack in his certainty. He began to wonder if he was indeed exaggerating. If the stops were really just routine. If his memory was playing tricks." },
+        { "type": "paragraph", "text": "Blanche's subtle rewritings of reality were masterful. She would recall conversations that had never happened, insist that he had told her things he was certain he had not. 'You said last week that the officer was polite,' she would remind him, and he would doubt himself. The film Gaslight became a recurring reference, a joke between them, and Mark did not see the cruel irony. He was living the film, and the woman holding his hand was the one turning down the lamps." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Static in the Signal",
+      "content": [
+        { "type": "paragraph", "text": "The crack in the experiment came from a glitch. Mark, a physics student with a talent for electronics, began to notice interference on his phone whenever Blanche was nearby. A faint, regular buzz that coincided with the moments she excused herself to use the bathroom. He thought at first it was a faulty speaker, but the pattern was too precise. He built a small signal detector from spare parts in the lab, and one evening, while Blanche was in the shower, he scanned her handbag. Inside, nestled in a tampon box, was a device the size of a pack of gum, broadcasting a encrypted stream to a receiver he could not trace. His hands shook as he realized that the device had been there since the day they met." },
+        { "type": "paragraph", "text": "He did not confront her immediately. Instead, he began to observe. He noted the times the cruiser appeared, always within minutes of his text messages to Blanche. He recorded their conversations on his own hidden device and found discrepancies. He followed her one afternoon and watched her enter a building marked 'Behavioral Sciences Annex — Authorized Personnel Only.' The pieces fell into place with a sickening click. The film club, the police, the love affair — all of it was a stage, and he was the subject, a lab rat in a maze designed to see how much pressure it would take before he snapped. The question was no longer if he would break, but what he would do with the knowledge." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Projection Room",
+      "content": [
+        { "type": "paragraph", "text": "The final Thursday came. The film was The Bicycle Thief, a movie about a man driven to despair by a world that would not give him a chance. Mark sat in his usual seat, the hidden knife from his lab kit cold against his thigh. Blanche was beside him, her hand resting on his knee, her breath sweet with the mint she always took before their evenings. At the climax of the film, when the desperate father steals the bicycle and is caught by the crowd, Mark leaned close and whispered, 'I know about Lumière.'" },
+        { "type": "paragraph", "text": "The change in her was instant. Her face, so carefully composed, went slack with shock. Then, with the trained composure of a researcher recalibrating an experiment, she whispered back, 'Then you know you can't do anything about it. The data is already in the cloud. The police reports are fake. No one will believe you. You're just a paranoid black kid who can't handle the pressure.' The gaslighting was no longer subtle. It was brazen, and in its brazenness, it was almost freeing. Mark stood, walked to the projector, and in front of the scattered audience, he narrated the entire experiment. He described the funding source, the actors, the biometric sensors. He held up the signal detector and played a recording of Blanche's data stream. The students in the room, most of them genuine film lovers, stared in horror. Blanche, her face white, fled." }
+      ]
+    },
+    {
+      "id": "ch7",
+      "title": "Chapter 7 — The Light That Remained",
+      "content": [
+        { "type": "paragraph", "text": "The fallout was messy and incomplete. The university disavowed the experiment, claiming ignorance. The psychology department's chair resigned. The story made local news but was quickly buried under the weight of larger scandals. Mark became a minor campus legend, the boy who had unmasked the gaslighters. But the victory was hollow. The months of manipulation had left scars that did not heal with exposure. He still flinched at police lights, still doubted his own memories, still felt the ghost of Blanche's hand on his knee in quiet moments." },
+        { "type": "paragraph", "text": "He transferred to a different university, far from the campus with its Edwardian brick and its hidden labs. He continued his physics studies, finding in the clean logic of equations a refuge from the chaos of human cruelty. He never watched Gaslight again. But on Thursday nights, sometimes, he would walk past a screening room and hear the distant hum of a projector, and he would remember the way the film flickered in the dark, the way the light could be manipulated, the way a person could be made to believe anything if the lie was told with enough love." },
+        { "type": "paragraph", "text": "The index cards with his name on them were never recovered. They exist somewhere in a government archive, a dusty box of data from a failed project, the handwriting faded but the implications still sharp. Mark Okonkwo was not the first subject, and he would not be the last. But he was one of the few who had turned the projector around, and in doing so, had saved himself from the flickering edge of madness." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "Projector light cutting through darkness", "caption": "The light that had once held him captive, now just a memory." }
+      ]
+    }
+  ]
+}

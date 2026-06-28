@@ -1,0 +1,71 @@
+{
+  "id": "story_amplification_circle",
+  "title": "The Amplification Circle",
+  "author": "S. R. Blackwood",
+  "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+  "coverColor": "#1a1018",
+  "description": "Ellis can fold a paper airplane that flies to any target he chooses — once a week. The support group says accept your limits. The stranger in the alley says he can make Ellis's power limitless. But every amplification demands a sacrifice, and the final price is a horror Ellis could never have imagined.",
+  "tags": ["Dark Fantasy", "Psychological Horror", "Superpowers", "Body Horror", "Cult"],
+  "requiredReadMinutes": 130,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Paper Airplane",
+      "content": [
+        { "type": "paragraph", "text": "The first time Ellis realized his ability was not a fluke, he was standing in a rain-soaked alley behind his apartment, holding a sheet of folded notebook paper. He had been seven years old, and he had wanted the plane to fly to his mother, who was three blocks away in the grocery store. He threw it, and the little craft cut through the rain like a needle, turning corners without wind, and landed at her feet. She called him, bewildered, asking how he had known where she was. He couldn't explain. The power was not dramatic. It was not a fireball or flight. It was just a perfect, guided flight of a paper airplane, once a week, to any target he could picture in his mind." },
+        { "type": "paragraph", "text": "For years, Ellis treated it as a party trick. He would send a plane with a note to a friend across the city, or land one on a teacher's desk as a joke. But the world is cruel to those who are only slightly extraordinary. Jobs require degrees, not a flying paper missile. Love requires more than a charming delivery. By twenty-eight, Ellis was alone, working a dead-end data entry job, his power as useless as a third thumb. He had tried to push its limits — multiple planes, different materials, different targets — but always the same: one flight, once a week, and the plane had to be made of paper he had folded himself. It was a specific issue resolver, as his therapist once called it, and he hated it." },
+        { "type": "paragraph", "text": "Then he found the flyer tucked under his windshield wiper. It was printed on thick cream stock, the text handwritten in an elegant script: 'Do you have a gift that feels too small? A power that could be so much more? Join The Mundane Circle, basement of St. Agnes Church, Tuesdays at 8pm. We understand.' Ellis almost threw it away. But Tuesday night found him descending a set of stone steps into a warm, lamplit basement, where a handful of people sat on folding chairs, waiting. They all had stories like his own. They were the superfluously gifted, and they were about to welcome him home." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Mundane Circle",
+      "content": [
+        { "type": "paragraph", "text": "The group was led by a woman named Margot, whose power was to make any cut flower smell like freshly baked bread. She was kind, with tired eyes and a gentle voice that had talked many a newcomer off the ledge of despair. Beside her sat Theo, who could change the colour of his own tears, and Lise, who could whisper a word that made squirrels stop and stare. They were the most welcoming people Ellis had ever met. They offered him tea and biscuits and a space to talk about the suffocating smallness of his ability. 'We don't seek to grow our powers,' Margot explained, her hands wrapped around a steaming mug. 'We seek to make peace with them. The hunger for more is a poison.'" },
+        { "type": "paragraph", "text": "For a few months, Ellis tried to believe her. He attended every Tuesday, sat in the circle, and listened to stories of acceptance. He learned that many of them had been approached by a rival group, a man who promised amplification. They called him the Catalyst, and they spoke his name with the caution of survivors. 'He says he can unlock your full potential,' Theo said, his voice tight. 'But the cost... he doesn't tell you the cost until it's too late. I went to one of his sessions. I watched a woman who could only warm a teacup learn to boil blood. She was never the same. She is not human anymore.' Ellis nodded, but inside, the hunger stirred. He did not want to accept. He wanted to fly." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800", "alt": "A dimly lit church basement with a circle of chairs", "caption": "The basement of St. Agnes, where the Mundane Circle met to make peace with their limitations." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Catalyst's Promise",
+      "content": [
+        { "type": "paragraph", "text": "Ellis found the Catalyst on a night when the moon was a sliver and his own dissatisfaction was a physical ache. He had sent his weekly plane — a dart aimed at the window of a woman he loved but could not speak to — and when it returned, it carried a note he had not written. 'I can make you limitless. Come to 42 Briar Lane. Knock once.' The address was a boarded-up shop in the old industrial district. Ellis walked there, his heart a war drum. The door opened before he touched it, and the Catalyst was waiting. He was a tall, gaunt man in a black coat, his face unreadable behind a pair of smoked glasses. His voice was silk and static. 'You want more than a paper airplane. You want a fleet. You want to carry yourself on wings of your own making. I can give you that. All it takes is a small exchange.'" },
+        { "type": "paragraph", "text": "The exchange, the Catalyst explained, was a memory. A single, cherished memory, given freely, could expand Ellis's power for a week. A stronger memory, a more painful one, could yield a month of amplified flight. The ultimate amplification — permanent, unlimited — required the sacrifice of all memories of a single person. Ellis thought of the woman he loved but could not speak to. He thought of her smile, her voice, the way she had once touched his hand. He could give her up. He could become something greater. He agreed. The Catalyst smiled, and his teeth were not quite human. He placed a cold hand on Ellis's forehead and began to pull." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The First Forgetting",
+      "content": [
+        { "type": "paragraph", "text": "The sensation was like a thread being drawn from his brain, a delicate, precise unspooling. When the Catalyst removed his hand, Ellis felt lighter, emptier, and impossibly clear. He remembered nothing of the woman he had sacrificed. Her face was a blur, her name a syllable that dissolved on his tongue. But in his hands, a single sheet of paper became a living thing. He folded it, and it launched from his palm with a roar, splitting into a dozen smaller planes, each darting to a different target he could now hold in his mind simultaneously. He laughed, drunk on the power. He could send a message to every resident of the city. He could scatter his planes like a flock of starlings. He had never felt so alive." },
+        { "type": "paragraph", "text": "He returned to the Mundane Circle the following Tuesday, and they knew. Margot looked at him with eyes that had seen this before, and Theo's tears, usually a placid blue, ran a deep, grieving grey. 'He's taken someone from you,' Margot said. Ellis shrugged, the name of the lost woman already gone from his mind. 'It was a fair trade. I'm becoming what I was meant to be.' Lise shook her head, her voice a whisper. 'You don't understand. The Catalyst doesn't just take memories. He feeds on them. He is building something, and every sacrifice makes him stronger. You are not becoming limitless. You are becoming his larder.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Hunger Grows",
+      "content": [
+        { "type": "paragraph", "text": "Ellis did not stop. The power was too intoxicating. Each week, he returned to the Catalyst, offering a new memory: the face of his father, the scent of his childhood home, the joy of his first bicycle. Each time, his power expanded. His planes could now carry small objects, deliver whispered words, even lift him a few inches off the ground. But the emptiness inside him grew too. He began to forget why he wanted this power. He forgot the woman, his parents, his home. He forgot the Mundane Circle and the friends he had made there. All that remained was the hunger for more, and the cold, patient presence of the Catalyst, who watched him with something that might have been pity." },
+        { "type": "paragraph", "text": "One night, Ellis stood on a rooftop, his body wrapped in a thousand paper planes that held him aloft, and he looked down at the city and saw only a pattern of lights. He had no attachments. No memories of love or loss. He was a vessel of pure ability, and he was hollow. In that moment, the Catalyst appeared beside him, no longer gaunt but strong, his eyes glowing a deep, satisfied gold. 'You have given me everything,' the Catalyst said. 'And now, you are ready to give the final thing. Yourself. I have been harvesting your memories not to feed my power, but to empty you. A hollow vessel can hold something far greater than a paper airplane. It can hold a god.' And Ellis, who had nothing left to resist with, opened his mouth and screamed, but no sound came out. He was already being filled." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The God in the Vessel",
+      "content": [
+        { "type": "paragraph", "text": "The thing that entered Ellis was ancient and dark, a consciousness that had drifted through the void for eons, searching for a body that was empty enough to contain it. The Catalyst was not its creator but its herald, a servant who had been finding hollow people for centuries. The Mundane Circle had been a protective enclave, a group of people who had refused to empty themselves, clinging to their small lives as a shield. Now, Ellis was no longer Ellis. He was a mouthpiece for the void, his paper planes transformed into shards of darkness that could tear through reality itself. The city below began to shudder as the new god stretched its limbs." },
+        { "type": "paragraph", "text": "But deep inside the hollowed shell, a fragment remained. Not a memory — Ellis had given those all away — but a reflex, a habit of being. The habit of folding. In the core of the void, his fingers twitched, and a single scrap of paper materialised. It was not a weapon. It was a plane, a simple dart, the shape he had learned when he was seven years old. He folded it, the motion automatic, and it slipped from his grasp, cutting through the void itself. It flew backward, not to a place but to a person. It landed at the feet of Margot, who was still sitting in the church basement, praying. She picked it up, and on its wing was a single word, written in a handwriting that was fading but still familiar: 'Remember.'" }
+      ]
+    },
+    {
+      "id": "ch7",
+      "title": "Chapter 7 — The Counter-Fold",
+      "content": [
+        { "type": "paragraph", "text": "Margot brought the plane to the remaining members of the Mundane Circle, and they knew what it meant. The Catalyst had taken Ellis, but Ellis had left them a key. Their powers, so small and so specific, were not useless. They were anchors, tiny hooks into the fabric of reality. Together, they wove their abilities — a scented flower, a coloured tear, a squirrel's frozen gaze — into a counter-shape, a fold in the world that could cage the void god back into its prison. The ritual was quiet, no grand battle, just a circle of ordinary people in a basement, focusing their mediocrity into a weapon of the utmost precision." },
+        { "type": "paragraph", "text": "Ellis felt the pull. The void god screamed, but the fragment of Ellis, the folder, followed the pull of his own habit. He folded the god into a plane, a single, impossible paper construct that contained an entire dark consciousness. And then he threw it, not to a target, but into the fire of a candle that Margot had lit. The paper caught, and the god with it, burning into ash and silence. Ellis collapsed, hollowed but alive, his memories gone forever. The Catalyst vanished, his work undone. The Mundane Circle welcomed Ellis back, not as a hero, but as one of their own — a man who had touched the void and returned, with a power still small and a life that would need to be rebuilt from nothing. And every Tuesday, they taught him to be content with a single paper airplane, and the slow, quiet miracle of being extraordinarily ordinary." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "A single paper airplane resting on a wooden table in candlelight", "caption": "The first plane Ellis folded after the void, carrying only a word." }
+      ]
+    }
+  ]
+}

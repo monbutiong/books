@@ -1,0 +1,70 @@
+{
+  "id": "story_harvest_heart",
+  "title": "The Harvest Heart",
+  "author": "S. R. Blackwood",
+  "cover": "/book/story_harvest_heart-cover.png",
+  "coverColor": "#1a1a1a",
+  "description": "Evie wakes with a mechanical heart, no legs, and a voice telling her she is a reanimated corpse serving humanity. But as her memories return, she discovers a darker truth: she was never dead — she was harvested. And the doctor who made her is about to learn that some hearts still remember how to beat for freedom.",
+  "tags": ["Dark Sci-Fi", "Dystopian", "Body Horror", "Psychological", "Revenge"],
+  "requiredReadMinutes": 150,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The First Sound",
+      "content": [
+        { "type": "paragraph", "text": "Ba-dump. Ba-dump. Ba-dump. The sound was not a gentle lullaby. It was a piston, a metronome, a tiny hammer striking the anvil of her chest with relentless precision. Evie's eyes opened to a white glare that seared her retinas before her pupils could constrict. She tried to lift a hand to shield her face, but her limbs responded sluggishly, as if wading through cold molasses. The mechanical whirring that accompanied the heartbeat was coming from the machines surrounding her bed — spindly, silver arms ending in drills and pincers, now retracting into their housings with a satisfied hiss. She was not in a hospital. She was in a factory." },
+        { "type": "paragraph", "text": "Memory was a void. She grasped at fragments: a street, a shout, a terrible pressure in her skull. But the images dissolved the moment she tried to focus. What remained was the cold knowledge of her own body, a map of loss. Her legs ended just below the knee. The stumps were wrapped in clean white gauze, the work of a surgeon, not an accident. She cried out, but the sound that emerged was a strangled croak, her tongue thick and uncooperative. Above her, the fluorescent lights buzzed like a swarm of trapped flies." },
+        { "type": "paragraph", "text": "A speaker mounted over the single window crackled to life. The voice that emerged was sweet and measured, the cadence of a woman who had explained difficult things many times before. 'Please calm yourself. There is nothing to be afraid of. Your body is slowly waking. I am your doctor. You are safe.' The words were a balm, and against every instinct, Evie felt her muscles loosen. She sank back into the thin mattress, her mechanical heart hammering a steady rhythm that was not her own." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Iteration",
+      "content": [
+        { "type": "paragraph", "text": "The doctor's name was Shoor, and she spoke through the speaker with the patience of a kindergarten teacher. Evie learned, in halting pieces, the official truth. Humanity was nearly extinct, driven underground by an enemy that Shoor would not describe. The population was too small to sustain itself, and so the living had turned to the dead. Mechanical hearts, marvels of bio-engineering, could be implanted into corpses, reanimating the flesh just enough to create a workforce. These reanimated were called iterations. 'You are Iteration #489,' Shoor said, her tone bright with clinical pride. 'Your legs were damaged beyond repair, but you will not need them. Your purpose will be in the data farms, operating the servers that keep our defenses running. Isn't that wonderful?'" },
+        { "type": "paragraph", "text": "Evie listened, and a sick, cold horror coiled in her stomach. She was dead. She was a thing. And yet, she was thinking, feeling, remembering — no, not remembering, not yet. But she was afraid. Wasn't that proof of something? Her hand crept to her chest, pressing through the thin hospital gown. She could feel the ridges of a scar, the faint vibration of the machinery within. 'I don't feel dead,' she whispered. 'I feel like me.' There was a pause on the other end of the speaker. Then Shoor's voice, a degree cooler: 'That is a residual echo. A neural imprint. It will fade as your system stabilises. It is best not to cling to it.'" },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800", "alt": "Dark futuristic laboratory with robotic arms", "caption": "The operating bay where iterations were born and assessed." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Memory Beneath the Scar",
+      "content": [
+        { "type": "paragraph", "text": "Evie was left alone for hours, or what felt like hours. The speaker went silent, and the mechanical arms stilled. She explored her body with her hands, mapping the changes. The stumps of her legs were healing with unnatural speed. The scar on her chest was a neat, vertical line held together by fine silver sutures. But there was another scar, older and cruder: a thin white line on her forearm, the kind left by a defensive wound. And when she pressed her fingers to it, something broke loose. A flash of memory — a man in a black uniform, a night alley, a knife. She gasped and clutched her head, and the speaker crackled back to life. 'Your vitals are spiking. You must remain calm.' But Evie could not be calm. She had been attacked. She had been alive, and someone had tried to kill her." },
+        { "type": "paragraph", "text": "She began to ask questions, her voice growing stronger with each exchange. Where did the bodies come from? Why did she have memories of violence? Shoor's answers were smooth and circular, a labyrinth of medical jargon and patriotic necessity. 'The enemy takes many forms. Many citizens died in the initial assaults. Your body was one of the fortunate ones, recovered intact enough for repurposing.' But Evie heard the faintest tremor in Shoor's voice, a hesitation on the word 'fortunate.' She knew then that the doctor was not telling the full truth. And she knew that she had to remember the rest, even if it broke her." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Names of the Dead",
+      "content": [
+        { "type": "paragraph", "text": "Evie's prison had a window, but it looked only into the doctor's observation room. When Shoor left her post, Evie strained to see. One evening, she caught a reflection in the glass: the doctor's monitor, its screen briefly visible. It showed a list of names. Iteration numbers, and beside them, original identities. #489 — Evie Marchetti. And a status: 'Source: Harvest Batch 12. Extracted: 14/03/2297.' Not 'recovered.' 'Extracted.' The word was a knife. She was not a corpse fished from a battlefield. She had been taken. The scars on her body were not from some distant war. They were from the capture. She had been hunted, her heart cut out while she still breathed, replaced with a machine that kept her body docile and her mind trapped. She was not an iteration. She was a prisoner in her own flesh." },
+        { "type": "paragraph", "text": "The memories began to flood back now, a torrent of broken images that reassembled into a life. Her name was Evie Marchetti. She was a mechanic, a fixer of old engines in the lower districts. She had joined a resistance cell that was spreading the truth: the enemy was a lie, a construct of the ruling class to justify the harvest. The mechanical hearts were powered by the stolen life force of the 'undesirables,' and the iterations were the living poor, their minds deliberately fragmented to prevent rebellion. She had been captured during a raid, and the last thing she remembered was the cold press of a surgical mask descending over her face. Now she was here, a voice in a box, a body on a slab." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Doctor's Doubt",
+      "content": [
+        { "type": "paragraph", "text": "Dr. Shoor had always believed in the cause. The iterations were tools, necessary sacrifices for the survival of the true humans. But #489 was different. The patient spoke with a clarity that unsettled her, argued with a passion that made the doctor's own heart beat faster. When #489 began to recall specific details — a street name, a song lyric, the smell of oil and rain — Shoor felt the foundation of her certainty crack. She accessed the harvest logs and found the truth she had been trained to ignore: the bodies were not volunteers. They were not even dead. The extraction process, which she had been told was a mercy for brain-dead donors, was in fact a brutal harvesting of living tissue from conscious individuals, whose hearts were replaced with devices that suppressed their will and fed on their remaining bio-electric energy." },
+        { "type": "paragraph", "text": "Shoor sat in her office, her hands trembling. The war, the enemy, the glorious future — all of it was a fiction to justify an endless atrocity. And she was a monster who had performed a hundred such procedures. She looked through the window at #489, who was now staring back with eyes that were no longer blank but filled with a terrible, knowing intelligence. Shoor pressed the intercom. 'I know,' she said, her voice barely a whisper. 'I know what they did to you.' Evie's reply was steady: 'Then you know what you have to do.'" }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Breaking of the Window",
+      "content": [
+        { "type": "paragraph", "text": "The plan was born in stolen minutes, whispered through the speaker while the cameras were looped with a false feed. Shoor disabled the failsafe on the mechanical arms, and when the guards changed shift, she used her clearance to unlock the door. But the system was faster than she anticipated. Alarms blared as she wheeled Evie out of the operating bay, the iteration's stumps bound in clean cloth, her heart hammering a war drum in her chest. They were cornered in a corridor lined with storage pods, each containing another iteration, another stolen life. 'You can't save them all,' Shoor gasped. 'I know,' Evie said. 'But I can wake them up.'" },
+        { "type": "paragraph", "text": "With Shoor's access codes, Evie broadcast a signal — the same neural frequency that had been used to wipe her memory, inverted to restore it. Across the facility, pods began to beep. Hearts that had been made machines spiked with a new rhythm. The iterations were waking. The guards panicked as the reanimated, who were never dead, began to tear their way out of their prisons, their minds aflame with the memories of their theft. In the chaos, Evie and Shoor slipped away, a doctor and her patient, now allies in a war that was only beginning." }
+      ]
+    },
+    {
+      "id": "ch7",
+      "title": "Chapter 7 — The Heart That Remained",
+      "content": [
+        { "type": "paragraph", "text": "They reached the surface through a maintenance shaft, emerging into a grey dawn over a city that had been lied to for a century. Evie's body was failing; the mechanical heart could not sustain her indefinitely without the suppressants that had kept her docile. She had perhaps a few weeks, maybe less. But as she looked back at the facility, now belching smoke from the riot within, she felt something she had not felt since before the harvest: hope. 'We have to tell the world,' she said. Shoor, her face streaked with tears and grime, nodded. They limped into the broken streets, two women remade by horror, carrying the first true story the city would hear in generations. Behind them, the first rays of sun touched the roof of the harvesting facility. And somewhere in the depths, a thousand mechanical hearts beat in unison, no longer a metronome of control, but a drumbeat of revolution." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "Sunrise over a dystopian city skyline", "caption": "The dawn that greeted the escaped iterations and their unlikely doctor." }
+      ]
+    }
+  ]
+}
