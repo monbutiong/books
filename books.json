@@ -97,5 +97,49 @@
     "tags": ["Dark Sci-Fi", "Psychological Horror", "Gaming", "Supernatural", "Interview"],
     "requiredReadMinutes": 135,
     "fileUrl": "https://monbutiong.github.io/books/story_god_game.json"
+  },
+  {
+    "id": "story_harvest_heart",
+    "title": "The Harvest Heart",
+    "author": "S. R. Blackwood",
+    "cover": "https://monbutiong.github.io/books/images/story_harvest_heart-cover.png?w=600",
+    "coverColor": "#1a1a1a",
+    "description": "Evie wakes with a mechanical heart, no legs, and a voice telling her she is a reanimated corpse serving humanity. But as her memories return, she discovers a darker truth: she was never dead — she was harvested. And the doctor who made her is about to learn that some hearts still remember how to beat for freedom.",
+    "tags": ["Dark Sci-Fi", "Dystopian", "Body Horror", "Psychological", "Revenge"],
+    "requiredReadMinutes": 150,
+    "fileUrl": "https://monbutiong.github.io/books/story_harvest_heart.json"
+  },
+  {
+    "id": "story_last_manuscript",
+    "title": "The Last Manuscript",
+    "author": "S. R. Blackwood",
+    "cover": "https://monbutiong.github.io/books/images/story_last_manuscript-cover.png?w=600",
+    "coverColor": "#1c1410",
+    "description": "For years, Marta believed the voice that told her she was not good enough was her own self-doubt. When she learns it is an ancient parasite that has fed on her family for generations, she must write the one story that can trap it — even if finishing the manuscript demands her last breath.",
+    "tags": ["Dark Fantasy", "Psychological Horror", "Supernatural", "Writing", "Folk Horror"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_last_manuscript.json"
+  },
+  {
+    "id": "story_lazarus_trade",
+    "title": "The Lazarus Trade",
+    "author": "S. R. Blackwood",
+    "cover": "https://monbutiong.github.io/books/images/story_lazarus_trade-cover.png?w=600",
+    "coverColor": "#1c0f0a",
+    "description": "Mara killed her husband to stop a monster. Three years later, she pays to enter the Lazarus Pact—a service that lets her speak to the dead—to find where he buried his victims. But Aldric has a plan of his own, and when the sun sets, only one of them will walk free.",
+    "tags": ["Dark Fantasy", "Horror", "Supernatural", "Revenge", "Psychological"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_lazarus_trade.json"
+  },
+  {
+    "id": "story_nadir_correspondence",
+    "title": "The Nadir Correspondence",
+    "author": "L. S. Kade",
+    "cover": "https://monbutiong.github.io/books/images/story_nadir_correspondence-cover.png?w=600",
+    "coverColor": "#0b0b1a",
+    "description": "Aboard the generation ship Silent Verse, mother-to-be Irena writes a letter to her unborn daughter, weaving together a troubled past, the cold beauty of deep space, and a secret so devastating it will unravel the ship's very purpose. For the voyage is not what it seems, and the stars hold not salvation — but a monstrous lie.",
+    "tags": ["Dark Sci-Fi", "Psychological Horror", "Generational Ship", "Mystery", "Space Gothic"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_nadir_correspondence.json"
   }
 ]

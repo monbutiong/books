@@ -2,11 +2,11 @@
   "id": "story_harvest_heart",
   "title": "The Harvest Heart",
   "author": "S. R. Blackwood",
-  "cover": "/book/story_harvest_heart-cover.png",
+  "cover": "https://monbutiong.github.io/books/images/story_harvest_heart-cover.png?w=600",
   "coverColor": "#1a1a1a",
   "description": "Evie wakes with a mechanical heart, no legs, and a voice telling her she is a reanimated corpse serving humanity. But as her memories return, she discovers a darker truth: she was never dead — she was harvested. And the doctor who made her is about to learn that some hearts still remember how to beat for freedom.",
   "tags": ["Dark Sci-Fi", "Dystopian", "Body Horror", "Psychological", "Revenge"],
-  "requiredReadMinutes": 150,
+  "requiredReadMinutes": 0,
   "chapters": [
     {
       "id": "ch1",

@@ -2,11 +2,11 @@
   "id": "story_nadir_correspondence",
   "title": "The Nadir Correspondence",
   "author": "L. S. Kade",
-  "cover": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600",
+  "cover": "https://monbutiong.github.io/books/images/story_nadir_correspondence-cover.png?w=600",
   "coverColor": "#0b0b1a",
   "description": "Aboard the generation ship Silent Verse, mother-to-be Irena writes a letter to her unborn daughter, weaving together a troubled past, the cold beauty of deep space, and a secret so devastating it will unravel the ship's very purpose. For the voyage is not what it seems, and the stars hold not salvation — but a monstrous lie.",
   "tags": ["Dark Sci-Fi", "Psychological Horror", "Generational Ship", "Mystery", "Space Gothic"],
-  "requiredReadMinutes": 140,
+  "requiredReadMinutes": 0,
   "chapters": [
     {
       "id": "ch1",
