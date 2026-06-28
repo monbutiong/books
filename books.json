@@ -238,7 +238,29 @@
     "coverColor": "#1a1a1a",
     "description": "Dr. Elara Voss's private journals, recovered after her mysterious disappearance, reveal the truth behind the Cordova Plague and the famous Voss Serum. But the truth is not a simple tale of heroic science — it is a confession of mass murder, a fabricated crisis, and a love affair with a man who never existed.",
     "tags": ["Dark Sci-Fi", "Psychological Horror", "Medical Thriller", "Epidemic", "Twist"],
-    "requiredReadMinutes": 140,
+    "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_vespers_journal.json"
+  },
+  {
+    "id": "story_crimson_amulet",
+    "title": "The Crimson Amulet",
+    "author": "V. M. Ashford",
+    "cover": "https://monbutiong.github.io/books/images/story_crimson_amulet-cover.png?w=600",
+    "coverColor": "#1a0a0a",
+    "description": "At the Museum of Unspoken Histories, a cursed amulet draws six thieves, each disguised as a wax figure. Elias, a disgraced archaeologist, aims to steal it for redemption, but the officer who arrests him is not what he seems. A dark heist unravels into a nightmare as the amulet hungers — and the final thief is not among the living.",
+    "tags": ["Dark Heist", "Supernatural Horror", "Museum", "Cursed Artifact", "Twist"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_crimson_amulet.json"
+  },
+  {
+    "id": "story_cat_sitter",
+    "title": "The Cat-Sitter's Invoice",
+    "author": "S. R. Blackwood",
+    "cover": "https://monbutiong.github.io/books/images/story_cat_sitter-cover.png?w=600",
+    "coverColor": "#1c1010",
+    "description": "When professional cat-sitter Elara Finch sues the Ashford family for unpaid fees, she paints herself as a victim of bizarre pets and a dangerous home. But the family's defence unearths a darker truth: Elara is not a sitter but a psychic parasite, and the three cats she was hired to watch are the only creatures standing between her and the ancient hunger that has followed her for centuries.",
+    "tags": ["Dark Fantasy", "Supernatural", "Courtroom Drama", "Vampires", "Cats"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_cat_sitter.json"
   }
 ]

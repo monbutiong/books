@@ -1,0 +1,61 @@
+{
+  "id": "story_cat_sitter",
+  "title": "The Cat-Sitter's Invoice",
+  "author": "S. R. Blackwood",
+  "cover": "https://monbutiong.github.io/books/images/story_cat_sitter-cover.png?w=600",
+  "coverColor": "#1c1010",
+  "description": "When professional cat-sitter Elara Finch sues the Ashford family for unpaid fees, she paints herself as a victim of bizarre pets and a dangerous home. But the family's defence unearths a darker truth: Elara is not a sitter but a psychic parasite, and the three cats she was hired to watch are the only creatures standing between her and the ancient hunger that has followed her for centuries.",
+  "tags": ["Dark Fantasy", "Supernatural", "Courtroom Drama", "Vampires", "Cats"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Plaintiff's Statement",
+      "content": [
+        { "type": "paragraph", "text": "THE COURT: Ms. Finch, you may proceed with your opening statement." },
+        { "type": "paragraph", "text": "MS. FINCH: Thank you, Your Honor. My name is Elara Finch. I am a professional cat-sitter, certified by the North District Animal Care Guild, bonded, insured, and rated four-point-nine stars on the Companion Exchange platform. I have cared for over two hundred felines in the past seven years. I have never, not once, been accused of negligence. Until now. The Ashford family, seated over there—yes, the ones clutching that carrier as if it contained a live grenade—refuse to pay me the six hundred dollars they owe. They claim I abused their cats. I am here to prove that the only abuse I suffered was from their pets, their home, and their blatant disregard for professional boundaries." },
+        { "type": "paragraph", "text": "On September 15th, I accepted a booking for a five-day house-sitting assignment at the Ashford residence. The listing described the job as 'easy care for three affectionate indoor cats.' The message from Mrs. Ashford—Exhibit A—said, and I quote: 'They're darlings. Make yourself completely at home. The pantry is stocked. We want you to treat the place like your own.' Full house privileges. Her words. I have the screenshots." },
+        { "type": "paragraph", "text": "Your Honor, I walked into that house on September 20th and discovered that 'affectionate' meant 'feral,' 'indoor cats' meant 'creatures that had clearly never seen a litter box,' and 'make yourself at home' meant 'risk your life in a house that was, I am now convinced, actively trying to kill me.' The eldest cat, a grey Persian named Mist, bit me within the first twelve minutes. The second, a black shorthair called Shade, disappeared entirely for two days, and I later found it had been living in the walls. The third, a kitten named Ember, did not sleep for the entire duration of my stay. Not once. I have video. It just stared at a fixed point above the fireplace, unblinking, for seventy-two hours straight." },
+        { "type": "paragraph", "text": "I completed my assignment, despite these conditions, because I am a professional. I fed them. I changed their water. I cleaned their boxes. I even, at my own expense, purchased a calming diffuser that did absolutely nothing. When the Ashfords returned, I presented my invoice. They then accused me of, and I quote from their counter-claim, 'psychic vampirism, wilful disturbance of a protective ward, and draining the life force of their familiars.' I wish I were making this up. They are refusing to pay because they believe I am some kind of supernatural entity. I am not. I am a cat-sitter. I just want my six hundred dollars." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Family's Defence",
+      "content": [
+        { "type": "paragraph", "text": "THE COURT: Mr. Ashford, your response." },
+        { "type": "paragraph", "text": "MR. ASHFORD: Your Honor, my wife and I are not unreasonable people. We did not want this to go to court. But what this woman did to our cats... it isn't something we can ignore. Mist, Shade, and Ember are not just pets. They are guardians. My family has lived in the old Ashford house for six generations, and for six generations, three cats have watched over the property. They are not ordinary animals. They are vessels for protective spirits, bound to the bloodline. When we hired Ms. Finch, we didn't know what she was. Now we do." },
+        { "type": "paragraph", "text": "On the first night of her stay, Mist attacked her. Mist has never attacked anyone. She is the gentlest soul. But she sensed what Ms. Finch was—a leech, a psychic parasite that feeds on ambient life energy. The cats tried to warn us. We had a security camera in the living room, Your Honor. The footage—Exhibit D—shows Ms. Finch sitting in our armchair, her eyes closed, while all three cats surround her, hissing. The air around her is shimmering, like heat haze. She is drawing energy from them. You can see the fur on Shade's back standing straight up. You can see Mist growing weaker." },
+        { "type": "paragraph", "text": "Ms. Finch claims the cats were aggressive. They were defensive. They were trying to protect the house from her feeding. And she was not just draining them—she was trying to break the ward. The ward my great-great-grandmother placed on the hearthstone in 1892 to seal something beneath the house. The kitten, Ember, stared at the fireplace because that's where the entity is sealed. Ember is the watcher. She never blinks because she is guarding the seal. And Ms. Finch, whether she knows it consciously or not, was drawn to that house not to cat-sit, but to feed on the energy of the imprisoned entity. The cats stopped her. And now she wants to be paid for it." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Evidence Mounts",
+      "content": [
+        { "type": "paragraph", "text": "THE COURT: Ms. Finch, you have heard the defendant's accusations. How do you respond?" },
+        { "type": "paragraph", "text": "MS. FINCH: Your Honor, I am not a vampire. I am a five-foot-three woman with a degree in veterinary assistance and a mild gluten intolerance. The 'shimmering' in their footage is a reflection from a faulty lamp. I pointed this out in my deposition. The cats were aggressive because they were poorly socialised. I have photographed scratch marks on my arms—Exhibit E—and a doctor's bill for a tetanus shot. I am the victim here." },
+        { "type": "paragraph", "text": "But since they want to play the supernatural card, let me address it. Yes, I felt strange in that house. Yes, I had nightmares every night I stayed there. And yes, the kitten staring at the fireplace was unsettling. But that is not evidence of 'psychic vampirism.' That is evidence of a house with bad wiring, poor ventilation, and three cats who have never been taught basic boundaries. They cannot withhold payment because their cats didn't like me. That is not how commerce works." },
+        { "type": "paragraph", "text": "MR. ASHFORD: Your Honor, may I present Exhibit F? This is a photograph of our hearthstone taken the morning after Ms. Finch's departure. There is a crack running through the centre of the stone. A crack that was not there before. The seal has been weakened. The entity beneath the house has been stirring ever since. We have had to hire a specialist—a spiritual practitioner—to reinforce the ward. That cost us twelve hundred dollars. We are not withholding payment out of pettiness. We are withholding it because Ms. Finch's actions have endangered our family and cost us twice what she is demanding." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Specialist Speaks",
+      "content": [
+        { "type": "paragraph", "text": "The Ashfords' next witness was a woman named Morwen, who introduced herself as a consultant in 'liminal containment.' She wore a long grey coat and carried a leather satchel that smelled faintly of rosemary and iron. Morwen testified that she had examined the hearthstone and confirmed the crack was not natural. 'The seal was attacked by something that knew exactly how to apply pressure,' she said. 'Not a physical blow—a psychic one. The entity beneath the house is a remnant, a hunger that was sealed away after the 1892 tragedy. It needs a living mind to latch onto. The cats are attuned to it; they guard the threshold. Ms. Finch, whether she realizes it or not, acted as a conduit. She may not be a vampire herself, but something has been following her for a long time. The cats sensed it. The footage shows it. And the crack in the stone proves it.'" },
+        { "type": "paragraph", "text": "On cross-examination, Ms. Finch pointed out that Morwen was not licensed by any recognized professional body and that her 'spiritual practice' operated out of a van. 'Are you seriously asking this court to accept that a crack in a stone is worth twelve hundred dollars, but my documented, contracted labour is worth nothing?' she demanded. Morwen replied, calmly, 'I am asking the court to consider that there are things older than invoices, and hungers that cannot be paid off with money. Ms. Finch is not a monster. But she has been carrying one on her back, and the Ashford cats paid the price.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Verdict and the Unsealing",
+      "content": [
+        { "type": "paragraph", "text": "The judge, after a long deliberation, ruled in favour of the plaintiff. The evidence of unpaid services was clear; the supernatural counterclaims, however compelling, were not a valid legal defence against a breach of contract. Ms. Finch was awarded six hundred dollars, plus court costs. The Ashfords were ordered to pay. But as the gavel fell, a sound rippled through the courtroom—a low, resonant hum that seemed to come from beneath the floor. The lights flickered. The kitten, Ember, who had been brought in as evidence, let out a single, piercing yowl." },
+        { "type": "paragraph", "text": "Ms. Finch, gathering her papers, paused. Her hand trembled. For a moment, her eyes looked different—darker, older, the pupils swallowing the irises. She blinked, and it was gone. She left the courtroom quickly, her cheque in hand, and never looked back. The Ashfords, clutching their cats, watched her go. Morwen approached them and whispered, 'The crack has grown. The entity has tasted the outside. It knows Ms. Finch now. And it will follow her.'" },
+        { "type": "paragraph", "text": "That night, in a small apartment across town, Elara Finch woke to find the kitten, Ember, sitting on her windowsill. The cat had somehow travelled twelve miles. It was staring at her, unblinking, and she understood then that the Ashfords had sent their guardian to watch her—not out of malice, but out of a desperate, ancient need. The entity beneath the hearthstone had latched onto her. The only thing standing between her and the hunger was the small black kitten that never slept. She did not know whether to laugh or cry. She fed the cat, and they both waited for dawn." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A black kitten staring intensely at a dark fireplace", "caption": "Ember, the watcher, who never blinked and never slept." }
+      ]
+    }
+  ]
+}

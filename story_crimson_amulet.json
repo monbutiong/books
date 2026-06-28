@@ -1,0 +1,50 @@
+{
+  "id": "story_crimson_amulet",
+  "title": "The Crimson Amulet",
+  "author": "V. M. Ashford",
+  "cover": "https://monbutiong.github.io/books/images/story_crimson_amulet-cover.png?w=600",
+  "coverColor": "#1a0a0a",
+  "description": "At the Museum of Unspoken Histories, a cursed amulet draws six thieves, each disguised as a wax figure. Elias, a disgraced archaeologist, aims to steal it for redemption, but the officer who arrests him is not what he seems. A dark heist unravels into a nightmare as the amulet hungers — and the final thief is not among the living.",
+  "tags": ["Dark Heist", "Supernatural Horror", "Museum", "Cursed Artifact", "Twist"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Pale Gallery",
+      "content": [
+        { "type": "paragraph", "text": "Elias Vane had spent two decades digging up the dead and three years drinking to forget what he had found. Tonight, sober as a bone, he stood in the Pale Gallery of the Museum of Unspoken Histories, dressed as a pharaoh from the Third Intermediate Period. His skin was painted gold, his headdress heavy with glass jewels, his feet bound in sandals that made no sound. He was not the only one who had come for the Crimson Amulet. The others, like him, had melted into the exhibits, playing the part of wax statues, waiting for the museum to close. The plan was simple: the Amulet, a blood-red talisman the size of a child's fist, sat in a glass case at the heart of the Egyptian wing. It was the only object in the museum that was not a replica. And it was worth, to the right collector, a sum that could erase a lifetime of mistakes." },
+        { "type": "paragraph", "text": "But Elias did not want to sell it. He wanted to destroy it. He had seen what it could do, in a tomb beneath the Valley of the Kings, where his entire team had been consumed by a silence that ate sound and then flesh. The Amulet was not a jewel; it was a mouth. And it was hungry." },
+        { "type": "paragraph", "text": "The museum's lights dimmed, leaving only the faint red glow of exit signs. Elias heard the first soft footfall of another thief, a shape dressed as a plague doctor, the long beak mask black against the shadows. The man moved with a precision that spoke of military training. Elias did not know him, but he knew there would be others. The Amulet had a way of calling to those who craved power, and tonight, it was screaming." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Gathering of Wolves",
+      "content": [
+        { "type": "paragraph", "text": "They were six in total. Elias counted them as they crept from their disguises. A woman in the feathered gown of a 1920s flapper, her eyes cold as river stones. A hulking brute dressed as a samurai, his armour rattling softly. A wiry man in a monk's robe, his bare feet silent on the marble floor. Another woman, this one in the pinstriped suit of a Prohibition-era gangster, a revolver glinting in her hand. And the plague doctor, who moved like smoke. They converged on the Egyptian wing, their breaths held, their greed a palpable stench. The Amulet pulsed, a slow, rhythmic throb that seemed to beat in Elias's own blood." },
+        { "type": "paragraph", "text": "The first to reach the case was the samurai. He smashed the glass with a mailed fist, and the sound echoed like a scream. Instantly, the others surged forward, and the fight began. The flapper drew a knife from her garter; the monk produced a chain that whistled through the air. The gangster fired, the bullet ricocheting off the samurai's armour and shattering the face of a wax Anubis. Elias hung back, watching. He knew the Amulet would not be taken so easily. It had made them fight. It was feeding." },
+        { "type": "paragraph", "text": "The plague doctor reached the prize first, his gloved fingers closing around the Amulet. The moment he touched it, a low hum filled the gallery, and the shadows themselves seemed to lean in. The other thieves froze, their bodies trembling. The plague doctor's eyes, visible through the mask's lenses, went wide with ecstasy and then horror. He tried to drop the Amulet, but his hand would not obey. 'It's not... it's not a thing,' he whispered. 'It's a door.'" }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Uninvited Guest",
+      "content": [
+        { "type": "paragraph", "text": "The lights came back on, blindingly bright. The wail of a police siren cut the air outside. The thieves scattered, but the plague doctor remained, rooted to the spot, the Amulet now glowing a fierce, arterial red. Elias moved to grab it, to finish what he had come to do, but a figure appeared in the entrance of the gallery. A police officer, calm and unhurried, his uniform crisp, his face shadowed by the brim of his cap. 'Everyone stay where you are,' he said, his voice carrying an unnatural resonance. The remaining thieves — the flapper, the monk, and Elias — froze. The gangster was already fleeing through a service door, the samurai unconscious on the floor." },
+        { "type": "paragraph", "text": "The officer walked to the plague doctor and, with a casual swipe of his baton, shattered the man's wrist. The Amulet fell into his waiting palm, and the doctor crumpled, sobbing. 'You are all under arrest,' the officer said, but his smile was wrong. It stretched too wide, revealing teeth that were slightly pointed. 'For theft, trespass, and the attempted awakening of an Elder Devourer. That last one is a special charge.' Elias knew then that this was no policeman. This was something that had been waiting, something that had known they would come." },
+        { "type": "paragraph", "text": "The officer pointed the Amulet at the monk, who screamed as his body turned to salt and collapsed into a pile of white dust. The flapper lunged with her knife, but the officer merely glanced at her, and she burst into flame, a brief, silent conflagration that left only a smear of ash on the floor. Elias stood motionless, his heart a drum. 'You,' the officer said, turning to him. 'You came to destroy it. I can taste the intention. That makes you interesting. That makes you useful.' He holstered his baton and placed the Amulet in his pocket. 'Walk with me, Elias Vane. There is a ritual that requires a witness. And you have already seen too much to be allowed to leave.'" }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Cruiser in the Void",
+      "content": [
+        { "type": "paragraph", "text": "The 'officer' led Elias out of the museum, past the shattered cases and the frozen wax faces of forgotten celebrities, and into a police cruiser that was not a police cruiser. Inside, the vehicle was vast, larger than the museum itself, a dark chamber lit by a single, pulsing red light that came from nowhere. The officer removed his cap, and his face shifted, the skin peeling back to reveal a smooth, featureless surface that rippled like oil. 'I am the Warden,' it said. 'I have guarded the Amulet for three thousand years, waiting for the right vessel to come and claim it. Not to steal — to become. The Amulet is not a treasure; it is a seed. And you, with your guilt and your shattered soul, are fertile ground.'" },
+        { "type": "paragraph", "text": "Elias tried to speak, but his voice was gone. The Warden produced the Amulet and pressed it against his chest. The pain was immediate and absolute, a cold that burned. He felt his mind splinter, memories of the tomb — the silence, the eyes in the dark — flooding back. But beneath the horror, there was a whisper: a promise. Not of power, but of stillness. An end to guilt, to rage, to the endless replaying of the moment his team had died. The Amulet could grant him oblivion. All he had to do was let it in." },
+        { "type": "paragraph", "text": "Elias's hand closed around the Amulet. The Warden smiled with a mouth that was not a mouth. 'Yes. Accept it. Become the Devourer's new heart. The world outside has no place for broken men like you. But here, in the silence, you can be king of nothing. And nothing is what you crave, isn't it?' The Amulet burned, and Elias felt his body begin to change, his flesh hardening into crystal, his thoughts slowing into a deep, hungry eternity. He was no longer Elias. He was the Eye, the Gate, the final thief who would steal the light from the world." },
+        { "type": "paragraph", "text": "The museum, untouched by the outside, settled into an unnatural stillness. The next morning, a janitor found the bodies of the samurai and the plague doctor, but the Amulet was gone. The police report mentioned a strange wax figure in the Egyptian wing that had not been there before — a pharaoh, skin of gold, eyes of blood-red crystal, a faint, serene smile on its lips. Tourists loved it. They had no idea it was watching them, and waiting." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A dark museum gallery with a single red-lit figure", "caption": "The new exhibit — the silent pharaoh who dreams of nothing." }
+      ]
+    }
+  ]
+}

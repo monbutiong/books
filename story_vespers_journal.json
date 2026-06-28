@@ -6,7 +6,7 @@
   "coverColor": "#1a1a1a",
   "description": "Dr. Elara Voss's private journals, recovered after her mysterious disappearance, reveal the truth behind the Cordova Plague and the famous Voss Serum. But the truth is not a simple tale of heroic science — it is a confession of mass murder, a fabricated crisis, and a love affair with a man who never existed.",
   "tags": ["Dark Sci-Fi", "Psychological Horror", "Medical Thriller", "Epidemic", "Twist"],
-  "requiredReadMinutes": 140,
+  "requiredReadMinutes": 0,
   "chapters": [
     {
       "id": "ch1",
