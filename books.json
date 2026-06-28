@@ -7,7 +7,7 @@
     "coverColor": "#1a1208",
     "description": "Racing to the hospital where her estranged mother is dying, Lena's vision begins to fracture — not from grief, but because the memories she has carried for thirty years are not her own. The truth waits in a room at the end of a corridor, and it will demand a price she never agreed to pay.",
     "tags": ["Dark Drama", "Psychological Horror", "Family Secrets", "Memory", "Twist"],
-    "requiredReadMinutes": 120,
+    "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_dark_academy_expanded.json"
   },
   {
@@ -18,7 +18,7 @@
     "coverColor": "#1a1018",
     "description": "Ellis can fold a paper airplane that flies to any target he chooses — once a week. The support group says accept your limits. The stranger in the alley says he can make Ellis's power limitless. But every amplification demands a sacrifice, and the final price is a horror Ellis could never have imagined.",
     "tags": ["Dark Fantasy", "Psychological Horror", "Superpowers", "Body Horror", "Cult"],
-    "requiredReadMinutes": 130,
+    "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_amplification_circle.json"
   },
   {
@@ -29,9 +29,10 @@
     "coverColor": "#2c1e0f",
     "description": "Lena marries into the Crest family to escape the toxic legacy of the Sink. But when she discovers that her new husband's bloodline built their fortune on the poison that destroyed her people, she starts serving a revenge they will swallow willingly — one meal at a time.",
     "tags": ["Dark Drama", "Rural Noir", "Revenge", "Class Divide", "Psychological"],
-    "requiredReadMinutes": 135,
+    "requiredReadMinutes": 10,
     "fileUrl": "https://monbutiong.github.io/books/story_bitter_vintage.json"
-  },{
+  },
+  {
     "id": "story_borrowed_pen",
     "title": "The Borrowed Pen",
     "author": "Mon D. Ong",
@@ -39,7 +40,7 @@
     "coverColor": "#1c1c1c",
     "description": "When quiet, strange Kael transfers to his school, Eli offers him a pen — a simple kindness that spirals into a friendship Eli cannot explain. But Kael's home hides a darkness that has nothing to do with poverty or illness, and the more Eli gives, the more he realises he is not helping a friend. He is feeding something ancient, and the final course of the meal is yet to be served.",
     "tags": ["Dark Fantasy", "Psychological Horror", "Supernatural", "High School", "Cult"],
-    "requiredReadMinutes": 135,
+    "requiredReadMinutes": 20,
     "fileUrl": "https://monbutiong.github.io/books/story_borrowed_pen.json"
   }
 ]
