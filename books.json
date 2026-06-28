@@ -14,11 +14,22 @@
     "id": "story_amber_light",
     "title": "The Amber Light",
     "author": "M. R. Holloway",
-    "cover": "/book/story_amber_light-cover.png?w=600",
+    "cover": "https://monbutiong.github.io/books/images/story_amber_light-cover.png?w=600",
     "coverColor": "#1a1208",
     "description": "Racing to the hospital where her estranged mother is dying, Lena's vision begins to fracture — not from grief, but because the memories she has carried for thirty years are not her own. The truth waits in a room at the end of a corridor, and it will demand a price she never agreed to pay.",
     "tags": ["Dark Drama", "Psychological Horror", "Family Secrets", "Memory", "Twist"],
     "requiredReadMinutes": 120,
     "fileUrl": "https://monbutiong.github.io/books/story_dark_academy_expanded.json"
+  },
+  {
+    "id": "story_amplification_circle",
+    "title": "The Amplification Circle",
+    "author": "S. R. Blackwood",
+    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+    "coverColor": "#1a1018",
+    "description": "Ellis can fold a paper airplane that flies to any target he chooses — once a week. The support group says accept your limits. The stranger in the alley says he can make Ellis's power limitless. But every amplification demands a sacrifice, and the final price is a horror Ellis could never have imagined.",
+    "tags": ["Dark Fantasy", "Psychological Horror", "Superpowers", "Body Horror", "Cult"],
+    "requiredReadMinutes": 130,
+    "fileUrl": "https://monbutiong.github.io/books/story_amplification_circle.json"
   }
 ]
