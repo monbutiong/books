@@ -75,5 +75,27 @@
     "tags": ["Dark Sci-Fi", "Psychological Horror", "Medical Thriller", "Family", "Conspiracy"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_frequency_veil.json"
+  },
+  {
+    "id": "story_gaslight_experiment",
+    "title": "The Gaslight Sessions",
+    "author": "V. M. Ashford",
+    "cover": "https://monbutiong.github.io/books/images/story_gaslight_experiment-cover.png?w=600",
+    "coverColor": "#0a0a0f",
+    "description": "At the weekly Foreign Classics Film Club, Mark finds solace from the racial profiling that haunts his nights. But when he discovers that his growing intimacy with fellow cinephile Blanche is part of a psychological experiment designed to break him, the flickering light of the projector reveals a truth far darker than any black-and-white film.",
+    "tags": ["Dark Thriller", "Psychological Horror", "Gaslighting", "Racial Identity", "Twist"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_gaslight_experiment.json"
+  },
+  {
+    "id": "story_god_game",
+    "title": "The God Game",
+    "author": "V. M. Ashford",
+    "cover": "https://monbutiong.github.io/books/images/story_god_game-cover.png?w=600",
+    "coverColor": "#0a0a1a",
+    "description": "Kai Voss once held the world record for the most kills in a single round of the neural-link shooter 'Requiem'. Twenty years later, a documentary interview forces him to confront the truth behind his impossible feat — and the price the entity that helped him now demands from his son.",
+    "tags": ["Dark Sci-Fi", "Psychological Horror", "Gaming", "Supernatural", "Interview"],
+    "requiredReadMinutes": 135,
+    "fileUrl": "https://monbutiong.github.io/books/story_god_game.json"
   }
 ]

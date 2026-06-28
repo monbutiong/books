@@ -2,11 +2,11 @@
   "id": "story_gaslight_experiment",
   "title": "The Gaslight Sessions",
   "author": "V. M. Ashford",
-  "cover": "/book/story_gaslight_experiment-cover.png?w=600",
+  "cover": "https://monbutiong.github.io/books/images/story_gaslight_experiment-cover.png?w=600",
   "coverColor": "#0a0a0f",
   "description": "At the weekly Foreign Classics Film Club, Mark finds solace from the racial profiling that haunts his nights. But when he discovers that his growing intimacy with fellow cinephile Blanche is part of a psychological experiment designed to break him, the flickering light of the projector reveals a truth far darker than any black-and-white film.",
   "tags": ["Dark Thriller", "Psychological Horror", "Gaslighting", "Racial Identity", "Twist"],
-  "requiredReadMinutes": 135,
+  "requiredReadMinutes": 0,
   "chapters": [
     {
       "id": "ch1",

@@ -2,11 +2,11 @@
   "id": "story_god_game",
   "title": "The God Game",
   "author": "V. M. Ashford",
-  "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+  "cover": "https://monbutiong.github.io/books/images/story_god_game-cover.png?w=600",
   "coverColor": "#0a0a1a",
   "description": "Kai Voss once held the world record for the most kills in a single round of the neural-link shooter 'Requiem'. Twenty years later, a documentary interview forces him to confront the truth behind his impossible feat — and the price the entity that helped him now demands from his son.",
   "tags": ["Dark Sci-Fi", "Psychological Horror", "Gaming", "Supernatural", "Interview"],
-  "requiredReadMinutes": 135,
+  "requiredReadMinutes": 0,
   "chapters": [
     {
       "id": "ch1",
