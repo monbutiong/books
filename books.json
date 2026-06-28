@@ -8,7 +8,7 @@
     "description": "For years, Marta believed the voice that told her she was not good enough was her own self-doubt. When she learns it is an ancient parasite that has fed on her family for generations, she must write the one story that can trap it — even if finishing the manuscript demands her last breath.",
     "tags": ["Dark Fantasy", "Psychological Horror", "Supernatural", "Writing", "Folk Horror"],
     "requiredReadMinutes": 0,
-    "fileUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/books/story_last_manuscript.json"
+    "fileUrl": "https://monbutiong.github.io/books/story_last_manuscript.json"
   },
   {
     "id": "story_amber_light",
@@ -19,6 +19,6 @@
     "description": "Racing to the hospital where her estranged mother is dying, Lena's vision begins to fracture — not from grief, but because the memories she has carried for thirty years are not her own. The truth waits in a room at the end of a corridor, and it will demand a price she never agreed to pay.",
     "tags": ["Dark Drama", "Psychological Horror", "Family Secrets", "Memory", "Twist"],
     "requiredReadMinutes": 120,
-    "fileUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/books/story_dark_academy_expanded.json"
+    "fileUrl": "https://monbutiong.github.io/books/story_dark_academy_expanded.json"
   }
 ]
