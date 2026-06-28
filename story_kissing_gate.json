@@ -1,0 +1,52 @@
+{
+  "id": "story_kissing_gate",
+  "title": "The Gate Keeper",
+  "author": "L. S. Kade",
+  "cover": "https://monbutiong.github.io/books/images/story_kissing_gate-cover.png?w=600",
+  "coverColor": "#2c3e1a",
+  "description": "Mara and Finn have loved each other since they were eight years old, bound by a shared childhood and a secret place—a wrought-iron kissing gate at the edge of the village. For twenty years, they have returned to this gate to mark every chapter of their lives. But when Finn returns from a long absence with a devastating confession, Mara must decide whether the love they built is a foundation or a cage.",
+  "tags": ["Romance", "Contemporary", "Childhood Friends", "Second Chances", "Fate"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Place Between Fields",
+      "content": [
+        { "type": "paragraph", "text": "Mara first saw the gate when she was eight years old, her knees still scabbed from a fall off her bicycle, her hair a tangle of wind and wild. Finn had been the one to find it, crashing through the hedgerow with a triumphant shout. 'Mara! Come look!' She had followed him, as she always did, into a field she had never crossed, to a corner where two dry-stone walls met and a wrought-iron gate stood like a question. It was shaped like a narrow V, its bars dark with age, its hinges groaning a low, mournful note when Finn swung it open. 'What is it?' she asked, stepping into the enclosure, and Finn shrugged with the easy confidence of a boy who knew he had discovered something important. 'It's ours,' he said. And so it was." },
+        { "type": "paragraph", "text": "They learned later, from Mara's father, that it was called a kissing gate—designed to let people pass but keep livestock in. 'Nothing to do with actual kissing,' he had added with a chuckle, and Mara and Finn had exchanged a disappointed glance. But the name stuck, and the gate became their place. They perched on its bars to watch the sun set, to share sweets stolen from the village shop, to talk about nothing and everything. At twelve, Finn dared her to climb to the top rail. At fourteen, she cried on his shoulder when her grandmother died. At sixteen, he kissed her for the first time, a clumsy, urgent press of lips that tasted of salt and summer. 'I love you,' he said, and she believed him. She had never had a reason not to." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Unmaking",
+      "content": [
+        { "type": "paragraph", "text": "They were twenty-two when they made the pact. Mara had just finished her degree in literature, Finn his in marine biology, and the world was spread before them like a map they had not yet learned to read. He had been offered a research placement in Norway, two years studying whales in the Arctic Circle. She had a place on a teaching programme in a city three hundred miles from their village. 'We go where we need to go,' Finn said, his arm around her shoulders as they sat on the gate. 'And we find our way back.' She nodded, her throat tight. 'And if one of us meets someone else?' He looked at her, his blue eyes steady. 'We tell the truth. We follow our hearts. No guilt, no blame.' It had seemed noble then, a proof of their love's maturity. She did not know she would be the one to break the pact." },
+        { "type": "paragraph", "text": "His name was Alex, and he was a teacher like her, with a quiet smile and a way of listening that made her feel seen in a way she had never felt before. It happened slowly, then all at once—a friendship that deepened into something she could not control. She told Finn on a video call, her voice shaking, the guilt a cold stone in her stomach. He was silent for a long moment, and then he said, 'Is he good to you?' She nodded, tears streaming. 'Then I'm glad,' he said, and she could hear the crack in his voice. 'I'm glad you're happy, Mara.' The line went dead, and she sat in the silence, the weight of what she had done settling over her like a shroud." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Years Between",
+      "content": [
+        { "type": "paragraph", "text": "She and Alex married in the village church, and Finn sent a card from a research station in Antarctica. 'Wishing you every happiness,' it read, and his handwriting was the same as it had been at eight, looping and careless. She kept the card in her desk drawer, taking it out on the hard days. There were hard days. Alex was kind, but he was not Finn; their silences were not comfortable, their rhythms never quite synced. She loved him, she told herself, and she did. But it was a different love, a quiet river rather than a roaring sea. When Alex asked for a divorce five years in, she was not surprised. She was only tired, and sad, and already dreaming of a wrought-iron gate at the edge of a field." },
+        { "type": "paragraph", "text": "She did not call Finn. She had forfeited that right, she believed. Instead, she moved back to the village, took a job at the local school, and tried to rebuild a life from the pieces. She walked to the gate every evening, running her fingers over the cold iron, remembering. She heard from mutual friends that Finn was still abroad, still chasing whales, still alone. She wondered if he ever thought of her. She was afraid to find out." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Return",
+      "content": [
+        { "type": "paragraph", "text": "He came home in the autumn, when the leaves were turning and the fields were stubble. She saw him before he saw her, standing at the gate, his shoulders broader than she remembered, his hair touched with grey at the temples. He turned at the sound of her footsteps, and his face broke into the same wide grin she had known for thirty years. 'Mara.' He said her name like a prayer. They did not kiss, not then. They sat on the gate, as they always had, and they talked. He told her about the whales, the northern lights, the cold that seeped into your bones and never left. She told him about Alex, about the divorce, about the long, quiet years of learning to be alone. And then, as the sun sank low, he took her hand. 'I never stopped loving you,' he said. 'Not for a single day.'" },
+        { "type": "paragraph", "text": "She wept, then, the tears she had been holding for a decade spilling onto their joined hands. 'I'm sorry,' she whispered. 'I'm so sorry I broke us.' He shook his head, his own eyes wet. 'You didn't break us. You followed your heart. That was the pact. I just... I never found anyone else who felt like home. Only you. It's only ever been you.' They sat in the deepening dusk, the gate creaking softly in the breeze, and Mara felt something she had not felt in years: hope. Fragile, tentative hope." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Gate That Kissed",
+      "content": [
+        { "type": "paragraph", "text": "They married the following spring, not in the church but at the gate itself, with only a registrar and a handful of family. Mara wore a dress the colour of wildflowers, and Finn's tie was slightly askew, and when they kissed, it was slow and certain, the kiss of two people who had found their way back through years and mistakes. 'I told you it was ours,' Finn whispered against her lips, and she laughed, the sound bright and unburdened. The gate stood silent witness, its iron bars worn smooth by decades of their hands, and it seemed to Mara that it had been waiting all along for this moment. For the circle to close. For the children who had found it to become the people who would keep it. They did not ride off into a sunset. They walked home together, hand in hand, along the familiar path, toward the village that held their entire history. And every evening, for the rest of their lives, they would walk back to the gate, sit on its cold iron bars, and watch the stars come out." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "An old wrought-iron kissing gate in a green field at sunset", "caption": "The kissing gate, where they began and where they found each other again." }
+      ]
+    }
+  ]
+}

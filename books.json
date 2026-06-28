@@ -284,5 +284,27 @@
     "tags": ["Romance", "Historical", "Island Life", "Christmas", "Fate"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_almond_sea.json"
+  },
+  {
+    "id": "story_tidepool_locket",
+    "title": "The Tidepool Locket",
+    "author": "M. R. Sinclair",
+    "cover": "https://monbutiong.github.io/books/images/story_tidepool_locket-cover.png?w=600",
+    "coverColor": "#1e3b4a",
+    "description": "Ellie never expected to return to the wild Cornish coast, let alone for her tenth wedding anniversary. The last time she stood on these cliffs, she lost her grandmother's locket—a loss that has haunted her marriage. But when a stranger discovers the locket in a tidepool, Ellie must confront the truth about the night it vanished, and the secret she has kept from her husband for a decade.",
+    "tags": ["Romance", "Contemporary", "Marriage", "Second Chances", "Seaside"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_tidepool_locket.json"
+  },
+  {
+    "id": "story_kissing_gate",
+    "title": "The Gate Keeper",
+    "author": "L. S. Kade",
+    "cover": "https://monbutiong.github.io/books/images/story_kissing_gate-cover.png?w=600",
+    "coverColor": "#2c3e1a",
+    "description": "Mara and Finn have loved each other since they were eight years old, bound by a shared childhood and a secret place—a wrought-iron kissing gate at the edge of the village. For twenty years, they have returned to this gate to mark every chapter of their lives. But when Finn returns from a long absence with a devastating confession, Mara must decide whether the love they built is a foundation or a cage.",
+    "tags": ["Romance", "Contemporary", "Childhood Friends", "Second Chances", "Fate"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_kissing_gate.json"
   }
 ]
