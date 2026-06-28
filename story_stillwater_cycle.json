@@ -2,11 +2,11 @@
   "id": "story_stillwater_cycle",
   "title": "The Stillwater Cycle",
   "author": "M. R. Holloway",
-  "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+  "cover": "https://monbutiong.github.io/books/images/story_stillwater_cycle-cover.png?w=600",
   "coverColor": "#0b1a1a",
   "description": "Sera was born four times, and she will die four times. Each life is defined by an irresistible pull toward a different fate — the sea, the soil, the flame, the void. But when she begins to remember her previous forms, she realises the cycle is not natural. It is a prison. And the architect of her endless return is waiting for her at the stillwater, hungry for the final shape she is about to become.",
   "tags": ["Dark Fantasy", "Psychological Horror", "Reincarnation", "Body Horror", "Cosmic"],
-  "requiredReadMinutes": 130,
+  "requiredReadMinutes": 0,
   "chapters": [
     {
       "id": "ch1",

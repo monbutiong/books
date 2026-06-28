@@ -2,11 +2,11 @@
   "id": "story_unwritten_cup",
   "title": "The Unwritten Cup",
   "author": "V. M. Ashford",
-  "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+  "cover": "https://monbutiong.github.io/books/images/story_unwritten_cup-cover.png?w=600",
   "coverColor": "#1c1c1c",
   "description": "Lena has been a barista for four years, and in that time she has stopped writing entirely. The regulars at the coffee shop think she is just a quiet woman who makes excellent espresso. They do not know that she is feeding on them — not their money, but their stalled ambitions, their abandoned dreams. Because the coffee shop is not a shop, and Lena is not a failed writer. She is a harvester, and the customers are her crop.",
   "tags": ["Dark Fantasy", "Psychological Horror", "Urban Gothic", "Ambition", "Supernatural"],
-  "requiredReadMinutes": 130,
+  "requiredReadMinutes": 0,
   "chapters": [
     {
       "id": "ch1",

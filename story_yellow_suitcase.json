@@ -2,11 +2,11 @@
   "id": "story_yellow_suitcase",
   "title": "The Suitcase by the Door",
   "author": "S. R. Blackwood",
-  "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600",
+  "cover": "https://monbutiong.github.io/books/images/story_yellow_suitcase-cover.png?w=600",
   "coverColor": "#2c2c1a",
   "description": "When Margaret finally leaves her husband and arrives at her daughter Iris's door with a bright yellow suitcase, she expects gratitude and a warm embrace. Instead she finds a house that is too clean, a daughter who barely speaks, and a charming son-in-law who seems to know too much. But Margaret is not the victim she pretends to be — and Iris's cold silence hides a terror that has nothing to do with the man she married.",
   "tags": ["Dark Drama", "Psychological Horror", "Family Secrets", "Abuse", "Twist"],
-  "requiredReadMinutes": 130,
+  "requiredReadMinutes": 0,
   "chapters": [
     {
       "id": "ch1",

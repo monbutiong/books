@@ -95,7 +95,7 @@
     "coverColor": "#0a0a1a",
     "description": "Kai Voss once held the world record for the most kills in a single round of the neural-link shooter 'Requiem'. Twenty years later, a documentary interview forces him to confront the truth behind his impossible feat — and the price the entity that helped him now demands from his son.",
     "tags": ["Dark Sci-Fi", "Psychological Horror", "Gaming", "Supernatural", "Interview"],
-    "requiredReadMinutes": 135,
+    "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_god_game.json"
   },
   {
@@ -106,7 +106,7 @@
     "coverColor": "#1a1a1a",
     "description": "Evie wakes with a mechanical heart, no legs, and a voice telling her she is a reanimated corpse serving humanity. But as her memories return, she discovers a darker truth: she was never dead — she was harvested. And the doctor who made her is about to learn that some hearts still remember how to beat for freedom.",
     "tags": ["Dark Sci-Fi", "Dystopian", "Body Horror", "Psychological", "Revenge"],
-    "requiredReadMinutes": 150,
+    "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_harvest_heart.json"
   },
   {
@@ -141,5 +141,82 @@
     "tags": ["Dark Sci-Fi", "Psychological Horror", "Generational Ship", "Mystery", "Space Gothic"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_nadir_correspondence.json"
+  },
+  {
+    "id": "story_quantum_cat_consent",
+    "title": "The Consent Paradox",
+    "author": "J. M. Holloway",
+    "cover": "https://monbutiong.github.io/books/images/story_quantum_cat_consent-cover.png?w=600",
+    "coverColor": "#1a1a24",
+    "description": "When miniaturized surgeon Elara is injected into a dying stray cat to remove an intestinal blockage, she expects a routine procedure. But the newly enacted 'Animal Consent Act' means the cat must sign a consent form. As the bureaucracy spirals and the cat's stomach begins to digest her, Elara discovers the quantum computer running the show has a much darker agenda — one that blurs the line between patient, parasite, and prey.",
+    "tags": ["Dark Sci-Fi", "Bureaucratic Horror", "Quantum Absurdity", "Animal Rights", "Survival"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_quantum_cat_consent.json"
+  },
+  {
+    "id": "story_static_saint",
+    "title": "The Static Saint",
+    "author": "V. M. Ashford",
+    "cover": "https://monbutiong.github.io/books/images/story_static_saint-cover.png?w=600",
+    "coverColor": "#1c1020",
+    "description": "On her deathbed, legendary singer Elara Vex grants her final interview. But as she reveals the origin of her impossible voice, a darker truth emerges: her music was never art — it was a cage. And the thing trapped inside it is hungry for a new throat.",
+    "tags": ["Dark Fantasy", "Horror", "Music", "Supernatural", "Interview"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_static_saint.json"
+  },
+  {
+    "id": "story_stillwater_cycle",
+    "title": "The Stillwater Cycle",
+    "author": "M. R. Holloway",
+    "cover": "https://monbutiong.github.io/books/images/story_stillwater_cycle-cover.png?w=600",
+    "coverColor": "#0b1a1a",
+    "description": "Sera was born four times, and she will die four times. Each life is defined by an irresistible pull toward a different fate — the sea, the soil, the flame, the void. But when she begins to remember her previous forms, she realises the cycle is not natural. It is a prison. And the architect of her endless return is waiting for her at the stillwater, hungry for the final shape she is about to become.",
+    "tags": ["Dark Fantasy", "Psychological Horror", "Reincarnation", "Body Horror", "Cosmic"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_stillwater_cycle.json"
+  },
+  {
+    "id": "story_unwritten_cup",
+    "title": "The Unwritten Cup",
+    "author": "V. M. Ashford",
+    "cover": "https://monbutiong.github.io/books/images/story_unwritten_cup-cover.png?w=600",
+    "coverColor": "#1c1c1c",
+    "description": "Lena has been a barista for four years, and in that time she has stopped writing entirely. The regulars at the coffee shop think she is just a quiet woman who makes excellent espresso. They do not know that she is feeding on them — not their money, but their stalled ambitions, their abandoned dreams. Because the coffee shop is not a shop, and Lena is not a failed writer. She is a harvester, and the customers are her crop.",
+    "tags": ["Dark Fantasy", "Psychological Horror", "Urban Gothic", "Ambition", "Supernatural"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_unwritten_cup.json"
+  },
+  {
+    "id": "story_wreath_of_briars",
+    "title": "The Wreath of Briars",
+    "author": "Diana H",
+    "cover": "https://monbutiong.github.io/books/images/story_wreath_of_briars-cover.png?w=600",
+    "coverColor": "#2e1a0f",
+    "description": "When the formidable matriarch Helena Voss dies, her fractured family gathers for a funeral feast that unearths decades of silence, betrayal, and a single, unforgivable night. As the wine flows, so do the secrets — and the old house is no longer willing to keep them buried.",
+    "tags": ["Dark Drama", "Family Saga", "Mystery", "Psychological", "Funeral"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_wreath_of_briars.json"
+  },
+  {
+    "id": "story_yellow_suitcase",
+    "title": "The Suitcase by the Door",
+    "author": "S. R. Blackwood",
+    "cover": "https://monbutiong.github.io/books/images/story_yellow_suitcase-cover.png?w=600",
+    "coverColor": "#2c2c1a",
+    "description": "When Margaret finally leaves her husband and arrives at her daughter Iris's door with a bright yellow suitcase, she expects gratitude and a warm embrace. Instead she finds a house that is too clean, a daughter who barely speaks, and a charming son-in-law who seems to know too much. But Margaret is not the victim she pretends to be — and Iris's cold silence hides a terror that has nothing to do with the man she married.",
+    "tags": ["Dark Drama", "Psychological Horror", "Family Secrets", "Abuse", "Twist"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_yellow_suitcase.json"
+  },
+  {
+    "id": "story_witch_bog",
+    "title": "The Grafting Hour",
+    "author": "C. M. Holloway",
+    "cover": "https://monbutiong.github.io/books/images/story_witch_bog-cover.png?w=600",
+    "coverColor": "#1f1a14",
+    "description": "When an ancient witch's corpse is unearthed from the moor, children begin to vanish. Maeve, a village outcast, discovers the witch needs their body parts to stitch herself a new form. With only two children left, Maeve must face the horror beneath the peat before the final ritual is complete.",
+    "tags": ["Dark Fantasy", "Horror", "Witchcraft", "Folk Horror", "Mystery"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_witch_bog.json"
   }
 ]
