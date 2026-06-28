@@ -262,5 +262,27 @@
     "tags": ["Dark Fantasy", "Supernatural", "Courtroom Drama", "Vampires", "Cats"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_cat_sitter.json"
+  },
+  {
+    "id": "story_forgotten_wives",
+    "title": "The Lodge of Forgotten Wives",
+    "author": "C. M. Holloway",
+    "cover": "https://monbutiong.github.io/books/images/story_forgotten_wives-cover.png?w=600",
+    "coverColor": "#1a1010",
+    "description": "Lena thought Marcus's terrible Valentine's gifts were proof of his endearing cluelessness. But when he surprises her with a weekend at a remote mountain lodge, she discovers his mistakes were never mistakes at all — and the lodge has been waiting for her arrival for a very long time.",
+    "tags": ["Dark Psychological Horror", "Thriller", "Marriage", "Serial Killer", "Isolation"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_forgotten_wives.json"
+  },
+  {
+    "id": "story_almond_sea",
+    "title": "The Almond and the Sea",
+    "author": "L. K. Voss",
+    "cover": "https://monbutiong.github.io/books/images/story_almond_sea-cover.png?w=600",
+    "coverColor": "#1a2b3c",
+    "description": "On a remote island in the North Atlantic, Solvig dreams of escaping the cold and darkness. When a quiet, mysterious stranger is stranded at her family's lighthouse for Christmas, she pins her hopes on an old tradition—the hidden almond in the rice porridge that grants a wish for love. But the stranger holds a secret that will change everything she thought she wanted.",
+    "tags": ["Romance", "Historical", "Island Life", "Christmas", "Fate"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_almond_sea.json"
   }
 ]

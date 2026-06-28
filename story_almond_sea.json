@@ -1,0 +1,54 @@
+{
+  "id": "story_almond_sea",
+  "title": "The Almond and the Sea",
+  "author": "L. K. Voss",
+  "cover": "https://monbutiong.github.io/books/images/story_almond_sea-cover.png?w=600",
+  "coverColor": "#1a2b3c",
+  "description": "On a remote island in the North Atlantic, Solvig dreams of escaping the cold and darkness. When a quiet, mysterious stranger is stranded at her family's lighthouse for Christmas, she pins her hopes on an old tradition—the hidden almond in the rice porridge that grants a wish for love. But the stranger holds a secret that will change everything she thought she wanted.",
+  "tags": ["Romance", "Historical", "Island Life", "Christmas", "Fate"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Light on the Rock",
+      "content": [
+        { "type": "paragraph", "text": "Solvig Lind stood at the gallery rail of the lighthouse, the sea wind tearing at her wool scarf, and watched the sky swallow the last sliver of sun. It was not yet four in the afternoon, and already the world was darkening to a deep, bruised violet. She had lived on the island of Kaldoy for all of her twenty-two years, and she had never grown used to the winter days—short as a held breath, cold as the grip of the dead. Her father, the lighthouse keeper, said the darkness was a gift, a time for rest and reflection. Solvig thought it was a prison. She yearned for sunlight, for warmth, for a place where the horizon was not always empty." },
+        { "type": "paragraph", "text": "Her mother had died when she was small, and her father had raised her among the gulls and the foghorns. She loved him fiercely, but she could not share his contentment. In her small room at the base of the lighthouse, she kept a worn atlas, a gift from a sea captain who had once sheltered from a storm. Its pages fell open to the double spread that showed their archipelago: a scattering of tiny specks in a vast, indifferent ocean. She had to turn many pages to reach Italy, Greece, the shores of North Africa—places where the sun was a generous god. She traced the lines with her finger and whispered the names: Palermo, Alexandria, Marseille. They tasted like honey on her tongue." },
+        { "type": "paragraph", "text": "Christmas of 1902 was coming, and that was the one bright spot in the long dark. Her father would stop his endless rounds of the lamp and the stores, and they would eat rice porridge by the fire, and she would hope, as she did every year, to find the single white almond hidden in the bowl. It was an old tradition, brought by the Danish sailors who had once ruled these waters. The finder of the almond would receive a marzipan pig and, it was whispered, a year of luck—especially in love. Solvig had never found it, not once. The almond always went to her father, who would laugh and say love had already found him long ago. But Solvig kept hoping." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Storm and the Stranger",
+      "content": [
+        { "type": "paragraph", "text": "Ten days before Christmas, a storm blew up from the north that lashed the island with hail and sent waves crashing against the rocks with a roar like cannon fire. No boats could cross the channel; the mail steamer was delayed indefinitely. Solvig was out checking the hens when she saw a small cutter struggling in the bay, its sail torn, its hull listing. Her father launched the rescue boat, and they pulled a single man from the wreck, half-drowned and shivering, his lips blue with cold. He was young, perhaps twenty-five, with hair the colour of wet sand and eyes that were the grey of the winter sea. He gave his name as Jonas, a fisherman from an island even more remote than theirs, and he spoke their language with a soft, lilting accent that made Solvig's heart beat faster." },
+        { "type": "paragraph", "text": "With the storm showing no sign of easing, Jonas was given the spare room in the lighthouse keeper's cottage. He was quiet and polite, helping with the chores without being asked, and he listened more than he talked. Solvig found herself stealing glances at him, her skin prickling whenever he looked her way. She told herself it was only the novelty of a stranger—they so rarely had visitors—but she knew it was more. He was not like the fishermen she had grown up with, broad and loud and smelling of cod. He was slender and thoughtful, and when he smiled, which was rarely, it seemed to light something inside her that the winter had long extinguished." },
+        { "type": "paragraph", "text": "One evening, as her father dozed by the fire, Solvig and Jonas sat at the kitchen table, talking in low voices. She told him of her atlas, her dreams of the Mediterranean, her ache for sun. He listened, his grey eyes steady on her face. 'I have been to the south,' he said quietly. 'I sailed on a merchant ship for two years. The sun is everything you imagine, and more. But it also burns, if you stay too long. And it makes you miss the cold, strange as that sounds.' She did not believe him, but she treasured his words as if they were a gift. That night, she lay awake, thinking of him, and she knew she had fallen in love with a man who would leave as soon as the sea allowed." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Almond's Promise",
+      "content": [
+        { "type": "paragraph", "text": "On Christmas Eve, Solvig begged her father to let her make the risengrød, the rice porridge, herself. She had a plan—a foolish, superstitious plan—but she could not help herself. She blanched and skinned the almond until it was smooth and white, and as she stirred it into the pot, she closed her eyes and made a wish with all her might: Let me find it. Let the luck be mine this year. She served the porridge in three bowls, her hands trembling. Her father ate with gusto; Jonas ate slowly, his spoon clinking against the ceramic. Solvig forced herself to take small bites, her heart hammering. And then, against all probability, her spoon struck something hard. She lifted it, and there it was—the almond, perfect and pale. She gasped. 'I found it!'" },
+        { "type": "paragraph", "text": "Her father clapped her on the back and fetched the marzipan pig from the pantry, a pink confection with a curl of marzipan tail. 'At last, Solvig! This will be your lucky year.' But her eyes met Jonas's across the table, and she felt a flush rise to her cheeks. She had cheated—she had cooked the almond into the pot last, ensuring it would fall into her bowl. The guilt was a stone in her stomach, but the hope was stronger. She would have a year of luck. Perhaps that luck would keep Jonas here, or bring him back to her. She clutched the pig like a talisman." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Truth and the Tide",
+      "content": [
+        { "type": "paragraph", "text": "The storm broke on Boxing Day, and the sea began to flatten. Jonas's cutter was beyond repair, but a fishing boat from his home island would come to fetch him within the week. Solvig felt the days slipping through her fingers like sand. On the morning of his departure, she found him at the water's edge, staring out at the grey waves. 'I have to tell you something,' he said, without turning. 'I lied to you. I never sailed to the south. I've never been further than the next island. I only said it because you spoke of the sun with such longing, and I wanted to be part of that dream, even for a moment.' Solvig stared at him, her heart cracking. 'Why?' she whispered. He turned, his grey eyes full of a sorrow she now recognized. 'Because I love you. And I had nothing else to offer but a story.'" },
+        { "type": "paragraph", "text": "She took his hands, cold and rough from the sea, and she laughed—a sound that surprised them both. 'I don't care about the south,' she said. 'I don't care about the sun. I thought I wanted to escape this rock, but all I really wanted was someone to share it with. Someone who sees me. Someone who would stay.' He looked at her, hope warring with disbelief. 'I would stay,' he said. 'If you asked me.' And she did ask him, there on the shingle with the gulls crying overhead and the lighthouse beam beginning its slow evening sweep. She asked him to stay, and he said yes." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Marzipan Pig",
+      "content": [
+        { "type": "paragraph", "text": "They married in the spring, in the tiny stone church at the island's centre, with her father beaming and the whole village (all twenty-three souls) in attendance. Solvig kept the marzipan pig on the windowsill, and it grew dusty and hard, but she never ate it. It was a reminder that luck was not something you found in an almond—it was something you made, with honesty and courage and a willingness to see the treasure that was already in front of you. Jonas took over the lighthouse keeper's duties when her father retired, and Solvig never again felt that the winter days were a prison. They were a blanket, wrapping the two of them close. And sometimes, on the darkest nights, they would open her old atlas and trace the routes to faraway places, not with longing, but with a quiet, shared wonder. They had their own light to keep, and it was enough." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A lighthouse glowing warmly against a winter night sea", "caption": "The lighthouse on Kaldoy, where Solvig learned that love was the truest light." }
+      ]
+    }
+  ]
+}
