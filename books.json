@@ -58,11 +58,22 @@
     "id": "story_euphoria_engine",
     "title": "The Euphoria Engine",
     "author": "L. K. Voss",
-    "cover": "/book/story_euphoria_engine-cover.png?w=600",
+    "cover": "https://monbutiong.github.io/books/images/story_euphoria_engine-cover.png?w=600",
     "coverColor": "#0d0d1a",
     "description": "When Mara Kessler buys the Reverie Pod, she thinks she has found escape from a life of crushing loneliness. But the dreams are too perfect, the faces too familiar — and something ancient waits between the pulses of the machine, hungry for the souls of those who can no longer tell reality from illusion.",
     "tags": ["Dark Sci-Fi", "Psychological Horror", "Dream Technology", "Addiction", "Supernatural"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_euphoria_engine.json"
+  },
+  {
+    "id": "story_frequency_veil",
+    "title": "The Frequency Veil",
+    "author": "M. R. Holloway",
+    "cover": "https://monbutiong.github.io/books/images/story_frequency_veil-cover.png?w=600",
+    "coverColor": "#0b1a2e",
+    "description": "When Lena receives an experimental implant to restore her hearing, she thinks she is finally free of the silence that defined her life. But the sounds she now hears carry a truth more devastating than deafness — a truth about her mother's love, and the price she never agreed to pay.",
+    "tags": ["Dark Sci-Fi", "Psychological Horror", "Medical Thriller", "Family", "Conspiracy"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_frequency_veil.json"
   }
 ]

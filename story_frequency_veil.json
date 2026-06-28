@@ -2,11 +2,11 @@
   "id": "story_frequency_veil",
   "title": "The Frequency Veil",
   "author": "M. R. Holloway",
-  "cover": "/book/story_frequency_veil-cover.png?w=600",
+  "cover": "https://monbutiong.github.io/books/images/story_frequency_veil-cover.png?w=600",
   "coverColor": "#0b1a2e",
   "description": "When Lena receives an experimental implant to restore her hearing, she thinks she is finally free of the silence that defined her life. But the sounds she now hears carry a truth more devastating than deafness — a truth about her mother's love, and the price she never agreed to pay.",
   "tags": ["Dark Sci-Fi", "Psychological Horror", "Medical Thriller", "Family", "Conspiracy"],
-  "requiredReadMinutes": 145,
+  "requiredReadMinutes": 0,
   "chapters": [
     {
       "id": "ch1",
