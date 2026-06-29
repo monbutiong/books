@@ -1,0 +1,54 @@
+{
+  "id": "story_tides_end",
+  "title": "The Tide's End",
+  "author": "V. M. Ashford",
+  "cover": "https://monbutiong.github.io/books/images/story_tides_end-cover.png?w=600",
+  "coverColor": "#1a2e3c",
+  "description": "When Katherine meets her old holiday romance Brian at a new job, it feels like fate — two lost souls reconnecting after forty years. But as their rekindled passion deepens, she discovers that Brian’s travel-heavy career is a mask for a sinister obsession. Every beach town he’s visited has seen a woman vanish, and Katherine is the one who got away. Now he’s back to make sure she never escapes again.",
+  "tags": ["Dark Romance", "Psychological Thriller", "Reunion", "Serial Killer", "Cornwall"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Ghost in the Kitchen",
+      "content": [
+        { "type": "paragraph", "text": "I had been at the new job three weeks when Brian walked into the kitchen. I was making tea, the cheap bags we kept in the tin by the kettle, and I didn’t look up at first — just a man’s shape, a quiet ‘morning’ under his breath. Then he turned to leave, and I saw the angle of his jaw, the way his hair still curled at the nape of his neck, and my stomach dropped. Forty years vanished in an instant. Brian. The boy from the beach, the one who taught me to body-surf and kissed me in the spray of the rising tide. The one who vanished from my life without a goodbye. And now he was here, in a branch office of a midland tour operator, breezing past me as if I were a stranger." },
+        { "type": "paragraph", "text": "I couldn’t concentrate for the rest of the day. The numbers on my screen blurred. Jessica, the friendly one who’d helped me settle in, asked if I was feeling all right. I said it was a headache. At home that evening, my mother and my daughter Livia were making pottery in front of the telly, their faces serene in the blue light. I didn’t tell them about Brian. Not yet. I lay in bed and remembered Cornwall, 1983. The clotted-cream hotel, the geraniums, the seagulls screaming on the night of the storm. And Brian’s smile, so easy, so full of light. I had waited for him to ask for my address, my phone number, anything. He hadn’t. My mother had called it a holiday romance, nothing more. I’d believed her. But now he was here, and the world seemed to tilt on its axis." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — Lunch and Lies",
+      "content": [
+        { "type": "paragraph", "text": "The next day, Brian found me at the photocopier. He said my name like a question, and when I turned, his face was full of something that might have been relief. We went to a café round the corner, a greasy spoon with plastic tables, and he told me about his life. The travel, the paradise islands, the job in marketing that had him visiting branch offices. He was based at head office, just passing through. He spoke easily, charmingly, and I felt myself slipping back into the old rhythm. But something was off. When I asked why he’d never tried to keep in touch, he looked away. 'I was scared,' he said. 'You were different.' It was exactly what I wanted to hear, and that should have been my first warning." },
+        { "type": "paragraph", "text": "We had lunch again the following day, and the day after that. He asked about my marriage — brief, amicable — and my daughter. I asked about his travels. He described places so vividly I could almost smell the sea. But when I mentioned Cornwall, his eyes flickered. 'That was a long time ago,' he said, and changed the subject. On the last day of his visit, he invited me to his village for the weekend. A walk by the river, afternoon tea. I said yes before I could think. That evening, I finally told my mother. She and Livia exchanged a look that made my stomach clench. 'Be careful, Kath,' Mum said. 'You don’t really know him. Not anymore.' I laughed it off, but that night, I googled him for the first time. Nothing. No social media, no LinkedIn. Just a single mention in a local news article from 2005: 'Man questioned in disappearance of tourist released without charge.' The woman’s name was Elena. She had vanished from a beach town in Cornwall. The same town where Brian and I had met." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The River Walk",
+      "content": [
+        { "type": "paragraph", "text": "I should have cancelled. I should have run. But I told myself it was a coincidence, a different Brian. I drove to his village, a pretty place with a stone bridge and ducks on the water. He was waiting at the tea shop, a bunch of flowers in his hand. We walked along the river, and he talked about all the places he’d lived — Bali, Crete, the Algarve — and how he always moved on. 'Never settled,' he said with a self-deprecating shrug. 'Always chasing something.' I thought of Elena. I thought of the other women I’d found that night, scrolling through missing persons reports from coastal towns. Five women in twenty years, each one last seen with a charming stranger. A holidaymaker. I had printed their faces and hidden the pages in my bag." },
+        { "type": "paragraph", "text": "At the farm shop, over scones and clotted cream, I asked him directly: 'Brian, did you ever know a woman named Elena? In Cornwall?' His hand paused, just for a second, over the jam. Then he smiled. 'Elena? Can't say I do. Why?' I said I’d heard the name somewhere, and the conversation drifted. But on the walk back, he took my hand, and his grip was just a little too tight. He led me to a viewpoint overlooking the river, and I noticed, for the first time, how isolated it was. No houses, no dog walkers. Just the sound of water. 'I’ve thought about you for forty years, Kath,' he said, his voice low. 'I never stopped. You were the one that got away.' And then he kissed me, and it was like drowning." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A peaceful river winding through a village, shadows stretching", "caption": "The river where he almost took me, and where I found my escape." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Tide Turns",
+      "content": [
+        { "type": "paragraph", "text": "I pulled back, my heart slamming. His eyes were dark, unreadable. 'I have to go,' I said, and I turned and walked — not ran, because I was afraid of what he might do if I ran. He called after me, his voice smooth and unhurried. 'I’ll see you at the office, Kath. We have so much to catch up on.' I drove home in a daze, the printed faces of five women staring up at me from the passenger seat. At home, I told my mother and Livia everything. This time, they didn’t say 'I told you so.' My mother held my hand while I phoned the police. The detective who answered took the details, his tone weary. 'We’ll look into it, madam. But you understand, no crime has been committed.' I knew then that I was on my own." },
+        { "type": "paragraph", "text": "The next few weeks were a nightmare of vigilance. Brian returned to the branch twice, always with a smile, always with a coffee for me. He never mentioned the weekend. He was the perfect colleague, the charming marketing manager. I began to doubt myself. Perhaps I had imagined it all. Perhaps the women were coincidence. But then I found the photographs. In a drawer of his desk, when he was out at a meeting — a key I’d borrowed from Jessica — a stack of Polaroids. Five women, all on beaches, all smiling. And on the back of each, a date. The last one, dated six months ago, was of a red-haired woman I didn’t recognize. Beneath it, a note in his handwriting: 'Almost ready.' I took the photos and went straight to the police." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Reckoning",
+      "content": [
+        { "type": "paragraph", "text": "This time, they listened. The photos were matched to open missing persons cases. Brian Harrow was arrested at his head office, his computer seized, his charming smile finally wiped away. He had been hunting for decades, a serial predator who used the travel industry to find his victims. He kept their photos as trophies, and I — the one who got away — was meant to be his final masterpiece. He had come back for me, and only my caution had saved me. The trial was brief; the evidence overwhelming. He was sentenced to life without parole. I sat in the gallery, my mother’s hand in mine, and watched the boy from the beach become a monster in an orange jumpsuit. When they led him away, he looked at me and mouthed something. 'Almost.' The word still haunts me." },
+        { "type": "paragraph", "text": "I still work at the branch. The office is friendly, and I’ve learned to separate the joy of my job from the horror of that year. But I never go to Cornwall. I never walk by rivers. And I never, ever let a charming stranger buy me lunch. Brian stole my memories of 1983, poisoned the summer of my youth. But he also taught me something: some holidays end, but the tide always brings things back. I’m just lucky I was still standing when it did." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "Sunrise over a calm sea, gentle waves", "caption": "Cornwall, where it all began and where I almost ended." }
+      ]
+    }
+  ]
+}

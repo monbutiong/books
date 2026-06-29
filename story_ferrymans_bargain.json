@@ -1,0 +1,51 @@
+{
+  "id": "story_ferrymans_bargain",
+  "title": "The Ferryman's Bargain",
+  "author": "V. M. Ashford",
+  "cover": "https://monbutiong.github.io/books/images/story_ferrymans_bargain-cover.png?w=600",
+  "coverColor": "#1a2e3a",
+  "description": "In a riverside village, Becca falls for Jamie, the troubled ferryman. On the eve of her friend's wedding, a stormy dash to expose a betrayal ends in murder. But the truth Jamie has been hiding is darker than infidelity — and Becca's bargained kiss becomes a chain she cannot break.",
+  "tags": ["Dark Romance", "Psychological Thriller", "River Town", "Secrets", "Murder"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The View from the Window",
+      "content": [
+        { "type": "paragraph", "text": "The window of the Gull’s Rest Inn looked out over the tidal river, and Becca never tired of watching Jamie Harrow work the ferry. He stood at the helm of the wooden punt, his shoulders straining against the rope, the muscles of his forearms corded with effort. The ferry was a simple thing — a flat-bottomed boat on a cable — but in his hands it seemed like a chariot. She had known him since childhood, had seen him fall from grace a dozen times: the shoplifting, the online gambling, the friends in low places. Yet still, when the sun caught the lines of his jaw, she forgot every warning. He was a bad investment, everyone said. Becca, who cleaned rooms at the inn for minimum wage, could not afford bad investments. But she could not afford the way he looked at her, either." },
+        { "type": "paragraph", "text": "Jamie’s sister, Elise, was Becca’s closest friend, and the wedding was only two weeks away. Elise was marrying Charles Harlow, a solicitor with a sports car and a future, the kind of man who wore cufflinks and never raised his voice. The whole village approved. Charles was reliable, solvent, and kind — everything Jamie was not. Elise was radiant, and Becca helped her address invitations in the inn’s dining room, listening to her friend’s plans for a life far from the river. 'Jamie doesn’t like Charles,' Elise confided one evening. 'He says Charles isn’t what he seems. But Jamie’s never liked anyone I’ve dated. He just wants someone to blame for his own failures.' Becca nodded, but something in the words stuck like a splinter." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Whispered Accusation",
+      "content": [
+        { "type": "paragraph", "text": "One morning, Becca came out to fetch the recycling bins and heard raised voices in the car park. She froze behind the wall, her hands tight on the bin’s handles. Jamie and Charles were standing too close, their words sharp as knives. 'You can’t prove anything,' Charles was saying, his tone cold. 'And even if you could, who would believe you? A poker-playing wastrel with a record?' Jamie’s voice was low and furious: 'I know about your trips to Birmingham. I know about the woman. You’re using Elise for her inheritance, and I won’t let you.' Charles laughed, a sound like glass breaking. 'Go ahead, tell her. See how far it gets you.' They parted, Charles to his silver car, Jamie to the river. Becca stood motionless, her heart thumping. Later, Jamie sought her out. His eyes were red-rimmed, and he asked her if she trusted him. She didn’t answer." },
+        { "type": "paragraph", "text": "The week before the wedding, Jamie came to her at dusk. 'He’s with her now,' he said, his voice ragged. 'In a bar in Hereford. I have a mate who tipped me off. If you come with me, you’ll see. You’ll believe me.' Becca thought of Elise, of the confetti and the cake, and she thought of Jamie’s hands on the ferry rope. She didn’t know why she agreed, only that the air felt charged and the river was calling." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Storm Crossing",
+      "content": [
+        { "type": "paragraph", "text": "A storm blew in as they reached the ferry, the sky boiling with black clouds. Rain lashed the water, turning it to a churning grey. The punt bucked under their feet. 'We shouldn’t go,' Becca shouted over the wind. But Jamie was already hauling on the rope, his teeth bared. Lightning split the sky, illuminating his face, and she saw something there she had not seen before — a desperate, hungry light. He pulled her to him and kissed her, his mouth cold with rain. 'We can’t let him do this,' he said. And against all reason, they crossed. The river fought them every inch, but they made the far bank, soaked and shivering. They drove to Hereford in silence, the heater blasting, Becca’s hands shaking." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Truth in the Dark",
+      "content": [
+        { "type": "paragraph", "text": "The bar was a dim, sticky-floored place, and Charles was at the counter with a dark-haired woman on his arm. But when he saw Jamie, his face drained of colour. The woman looked up, startled, and Becca saw not a lover’s familiarity but something harder — fear. 'Jamie,' Charles said, rising. 'You shouldn’t be here.' The woman was already reaching for her phone. Jamie crossed the room in three strides. 'Tell her,' he demanded, gesturing at Becca. 'Tell her what you’re doing.' Charles swallowed, and the woman spoke instead. 'I’m a private investigator,' she said, her voice trembling. 'Charles hired me. He suspected you were involved in the death of your last girlfriend. He wanted proof before you hurt Elise.' The words hung in the air like smoke. Jamie’s face twisted, and Becca saw the mask slip — the hurt, the righteousness, all of it a performance. He lunged at Charles. There was a struggle, a bottle, a sickening crack. Charles fell, and the woman screamed. Jamie turned to Becca, his chest heaving, his eyes wild. 'He was lying,' he said, but she saw the blood on his hands." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Bargain Sealed",
+      "content": [
+        { "type": "paragraph", "text": "They drove back in the dying storm, the car silent but for the hum of the engine. Jamie had threatened the investigator; she would say nothing. He had staged a robbery, pocketing Charles’s wallet and watch. Now he talked, low and fast, about how they must stick to the story, how no one would suspect them, how this was all Charles’s fault. Becca nodded, her mind a blank. When they reached the river, the ferry was gone, ripped from its cable by the storm. They waited in the car until dawn, and when the first light touched the water, Jamie took her hand. 'We crossed the river together,' he said. 'That makes us partners. You understand that, don’t you?' She understood. She had made a bargain, and the ferryman had collected his fare." },
+        { "type": "paragraph", "text": "The wedding never happened. Elise was devastated, and Jamie played the grieving brother, his arm around his sobbing mother. No one asked Becca about that night; she was just the quiet cleaner who had been friends with the bride. A year later, she stood at the window of the Gull’s Rest, her wedding ring cold on her finger, and watched Jamie pull the new ferry across the river. The muscles of his back moved under his shirt, and she remembered the kiss in the storm. She had believed in his redemption, but there was no redemption — only a long, slow drowning. The river flowed on, indifferent, and Becca knew she would never cross it again." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A misty river at dawn, a solitary ferry crossing", "caption": "The river after the storm, where the ferryman's bargain was sealed." }
+      ]
+    }
+  ]
+}

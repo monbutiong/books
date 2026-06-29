@@ -383,5 +383,27 @@
     "tags": ["Crime", "Psychological Thriller", "Gothic Horror", "Amateur Sleuth", "Cult"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_cliffside_silence.json"
+  },
+  {
+    "id": "story_ferrymans_bargain",
+    "title": "The Ferryman's Bargain",
+    "author": "V. M. Ashford",
+    "cover": "https://monbutiong.github.io/books/images/story_ferrymans_bargain-cover.png?w=600",
+    "coverColor": "#1a2e3a",
+    "description": "In a riverside village, Becca falls for Jamie, the troubled ferryman. On the eve of her friend's wedding, a stormy dash to expose a betrayal ends in murder. But the truth Jamie has been hiding is darker than infidelity — and Becca's bargained kiss becomes a chain she cannot break.",
+    "tags": ["Dark Romance", "Psychological Thriller", "River Town", "Secrets", "Murder"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_ferrymans_bargain.json"
+  },
+  {
+    "id": "story_tides_end",
+    "title": "The Tide's End",
+    "author": "V. M. Ashford",
+    "cover": "https://monbutiong.github.io/books/images/story_tides_end-cover.png?w=600",
+    "coverColor": "#1a2e3c",
+    "description": "When Katherine meets her old holiday romance Brian at a new job, it feels like fate — two lost souls reconnecting after forty years. But as their rekindled passion deepens, she discovers that Brian’s travel-heavy career is a mask for a sinister obsession. Every beach town he’s visited has seen a woman vanish, and Katherine is the one who got away. Now he’s back to make sure she never escapes again.",
+    "tags": ["Dark Romance", "Psychological Thriller", "Reunion", "Serial Killer", "Cornwall"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_tides_end.json"
   }
 ]
