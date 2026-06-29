@@ -1,0 +1,61 @@
+{
+  "id": "story_cliffside_silence",
+  "title": "The Cliffside Silence",
+  "author": "L. K. Voss",
+  "cover": "https://monbutiong.github.io/books/images/story_cliffside_silence-cover.png?w=600",
+  "coverColor": "#1a2e2e",
+  "description": "When grieving widow Isla checks into a remote cliffside inn, she expects solitude. But after a fellow guest is found dead on the rocks below, Isla suspects the owners are hiding something. As she investigates, she discovers the inn was built on the ruins of an asylum, and the ritualistic murders that closed it a century ago are beginning again. The killer is closer than she thinks — and Isla is not the innocent bystander she pretends to be.",
+  "tags": ["Crime", "Psychological Thriller", "Gothic Horror", "Amateur Sleuth", "Cult"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Widow's Rest",
+      "content": [
+        { "type": "paragraph", "text": "The Gull's Cry Inn perched on the edge of a crumbling cliff, its whitewashed walls and blue shutters doing little to soften the impression that it was clinging to the land with desperate, whitening knuckles. Isla Carrick arrived in a taxi that smelled of wet dog and regret, her single suitcase heavy in the boot. She was a widow of three months, though the title still felt like someone else's coat draped over her shoulders. The inn's owner, a woman named Morwenna, met her at the door with a smile that was professionally warm and personally vacant. 'Mrs Carrick, we've been expecting you. The Cliff Rose room — it has the best view of the sea.' Isla followed her inside, noting the heavy brass keys, the faded nautical charts on the walls, and the faint, pervasive scent of salt and something else — something metallic, like old blood." },
+        { "type": "paragraph", "text": "The inn had four other guests: a retired solicitor named Mr. Bryce, a young couple on their honeymoon, and a solitary man who introduced himself only as 'Kane, a painter of seascapes.' At dinner, served in a low-beamed dining room with a roaring fire, the conversation was stilted and strange. Morwenna's husband, a silent giant named Cormac, brought out plates of fish stew and dark bread. His eyes never met anyone's, and Isla noticed his hands were scarred, the nails ridged with old damage. During the meal, the young bride, Lissa, remarked that the inn was built on the foundations of an old 'rest home' for the mentally afflicted. 'They say some of the patients were buried in the garden,' she said with a nervous giggle. Morwenna's smile froze. 'Just a local legend,' she said, but her voice had lost its warmth." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Fall",
+      "content": [
+        { "type": "paragraph", "text": "The next morning, Lissa's husband, Tom, was found on the rocks below the cliff. His body was broken, his eyes open to a sky that would never answer. The police came — a single inspector and two constables — and questioned everyone. They ruled it an accident: the fence at the cliff's edge had a missing section, and Tom had likely gone for a late-night walk and lost his footing. But Isla had noticed things. The missing section of fence was not weathered; the splinters were fresh. And she had seen Cormac, late the night before, returning to the inn with mud on his boots and a tool in his hand that could have been a hammer. She said nothing to the police, not yet. She wanted to understand first." },
+        { "type": "paragraph", "text": "Over the following days, Isla insinuated herself into the rhythms of the inn. She helped Morwenna in the kitchen, listened to Mr. Bryce's interminable stories about old cases, and watched Kane paint the churning sea with an intensity that bordered on obsession. She learned that the inn was struggling financially, that Morwenna's family had owned the land for generations, and that the old asylum had been run by Morwenna's great-grandfather, a Dr. Carveth, who had been accused of conducting 'experimental treatments' on his patients. The asylum had closed in 1923 after a fire that killed Dr. Carveth and six of his inmates. The bodies, according to Kane, were never recovered. 'They say the doctor's ghost still walks,' he said, his brush pausing over the canvas, 'searching for new patients.' Isla shivered, but not from the cold." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Hidden Chamber",
+      "content": [
+        { "type": "paragraph", "text": "Two nights later, Isla slipped out of her room and into the inn's cellar, following a draught that carried the same metallic scent she had noticed at the door. The cellar was a warren of stone passages, the walls weeping with condensation. Behind a stack of wine barrels, she found a heavy oak door, its iron hinges gleaming with recent oil. She pushed it open and discovered a room that was not part of any guest tour: a small, windowless chamber with a surgical table, rusted instruments in a tray, and on the wall, a faded diagram of the human brain. On the floor, a trapdoor. She lifted it and saw a ladder descending into darkness. The smell of old blood was stronger here, and something else — incense, like a church, but acrid and wrong." },
+        { "type": "paragraph", "text": "Before she could descend, a hand closed over her mouth. She was dragged backward into the cellar and thrown against the wall. Cormac loomed over her, his scarred hands gripping her shoulders. 'You shouldn't have come down here,' he said, his voice a low rumble. But before he could do whatever he intended, Morwenna appeared behind him, her face pale. 'No,' she said. 'She's not one of the sacrifices. She's different. I can feel it.' Cormac released Isla and stepped back, his expression a mixture of confusion and awe. Morwenna took Isla's arm and led her upstairs to the kitchen, where she poured them both a whiskey and told a story that made Isla's blood run cold." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Ritual",
+      "content": [
+        { "type": "paragraph", "text": "Dr. Carveth, she explained, had not just been a physician. He was a member of a cult that worshipped the sea as a deity — an entity they called the 'Drowned One'. The asylum was a cover for his true work: inducing altered states in his patients, preparing them as vessels for the entity. When the fire came, it was not an accident. The patients revolted, but Carveth's ritual was already in motion, and he became the first true vessel, bound to the cliff and the sea forever. The inn, built on the ruins, was a continuation of the work. Every few decades, a new vessel was needed, and a guest was chosen — someone with a weakened mind, a broken spirit, who would be lured to the cliff and offered to the waves. Tom had been such a one, selected because his marriage was already fraying and his mind was ripe for the taking." },
+        { "type": "paragraph", "text": "Isla listened, her heart hammering. 'Why tell me this?' she asked. Morwenna smiled, a sad, ancient smile. 'Because you are not a guest, Mrs Carrick. You are a Carveth. Your great-grandmother was Dr. Carveth's daughter. You have his blood, and the Drowned One has been calling you home. That's why you came here, isn't it? After your husband died, you felt a pull to the sea. You didn't know why.' Isla's mind reeled. She had come to the inn on a whim, a booking made after a dream of dark water and a voice calling her name. She had assumed it was grief. But now, the memories of her childhood flooded back: her mother's fear of the sea, the old photograph of a stern man in a doctor's coat, the way the women in her family always seemed to die young and tragically." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Vessel's Choice",
+      "content": [
+        { "type": "paragraph", "text": "Morwenna offered Isla a choice. She could become the next vessel willingly, taking her place in the line, or she could leave and never look back, but the entity would continue to haunt her and her descendants. 'The sacrifices are necessary,' Morwenna said. 'The Drowned One keeps the cliffs from crumbling, keeps the village safe. Without the offerings, the sea will reclaim everything.' Isla looked into the woman's eyes and saw not madness but a terrible sincerity. She thought of her husband, dead in a car crash that had made no sense — a straight road, no other vehicles, just a sudden swerve into a tree. Had he been an offering too? A sacrifice to bring her here?" },
+        { "type": "paragraph", "text": "Isla made her choice. She would not become a vessel. She would end the cycle. She waited until the next full moon, when Morwenna and Cormac prepared the ritual in the hidden chamber, and she slipped away to the police station. But when she arrived, her story sounded insane. The inspector, already suspicious of her involvement in Tom's death, detained her for questioning. As she sat in the cold cell, she heard a distant roar — not the sea, but a sound like a great exhale. The cliff, she later learned, had collapsed that night, taking the Gull's Cry Inn and everyone inside into the churning water. The Drowned One had been denied a vessel, but it had claimed its due. Isla was released for lack of evidence, but she knew the truth. She had destroyed her family's curse, but at the cost of all those lives. And sometimes, in the still hours, she still hears the voice, calling her name from the waves, patient and eternal." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Patient Sea",
+      "content": [
+        { "type": "paragraph", "text": "Months later, Isla stood on a different cliff, miles away, and looked down at the frothing water. The sea was calm today, deceptively placid. She carried no guilt for the deaths of Morwenna and Cormac — they had been willing participants in a monstrous tradition. But she mourned Tom, the young husband, and all the others who had been fed to the waves over the decades. She had their names now, a list compiled from old asylum records and missing persons reports. She had sent it to the police anonymously, and the investigation was ongoing. But some things the law could not touch. The Drowned One was still out there, patient and hungry. And Isla knew that as long as the sea existed, there would always be those who worshipped it." },
+        { "type": "paragraph", "text": "She turned away from the cliff and walked back to her car. Her grief for her husband had not lessened, but it had changed. It was no longer a raw wound but a cold, hard stone in her chest — something she could carry. She had a purpose now: to find and dismantle the remnants of the Carveth cult, wherever they might be. The road stretched ahead, grey and uncertain, but she drove on, leaving the sea behind, for now." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A crumbling cliff edge with waves crashing below under a grey sky", "caption": "The cliff where the Gull's Cry Inn once stood, now reclaimed by the sea." }
+      ]
+    }
+  ]
+}

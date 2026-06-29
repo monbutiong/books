@@ -372,5 +372,16 @@
     "tags": ["Dark Historical", "Gothic Romance", "Suspense", "Marriage", "Family Secrets"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_briar_betrothal.json"
+  },
+  {
+    "id": "story_cliffside_silence",
+    "title": "The Cliffside Silence",
+    "author": "L. K. Voss",
+    "cover": "https://monbutiong.github.io/books/images/story_cliffside_silence-cover.png?w=600",
+    "coverColor": "#1a2e2e",
+    "description": "When grieving widow Isla checks into a remote cliffside inn, she expects solitude. But after a fellow guest is found dead on the rocks below, Isla suspects the owners are hiding something. As she investigates, she discovers the inn was built on the ruins of an asylum, and the ritualistic murders that closed it a century ago are beginning again. The killer is closer than she thinks — and Isla is not the innocent bystander she pretends to be.",
+    "tags": ["Crime", "Psychological Thriller", "Gothic Horror", "Amateur Sleuth", "Cult"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_cliffside_silence.json"
   }
 ]
