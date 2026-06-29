@@ -306,5 +306,38 @@
     "tags": ["Romance", "Contemporary", "Childhood Friends", "Second Chances", "Fate"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_kissing_gate.json"
+  },
+  {
+    "id": "story_lyme_anning",
+    "title": "The Bone Thief's Wife",
+    "author": "C. M. Holloway",
+    "cover": "https://monbutiong.github.io/books/images/story_lyme_anning-cover.png?w=600",
+    "coverColor": "#3a2e1f",
+    "description": "In 1823, Clara accompanies her husband Edmund to the Dorset coast, where he buys fossils from poor beachcombers to sell to London museums. When she befriends a young woman named Eliza, whose knowledge of the cliffs far exceeds Edmund's, Clara discovers that her husband has been stealing Eliza's work — and passing it off as his own. As Clara confronts the truth about the man she married, she must choose between loyalty and justice.",
+    "tags": ["Historical Fiction", "Romance", "Moral Dilemma", "Fossils", "Women in Science"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_lyme_anning.json"
+  },
+  {
+    "id": "story_vintage_clock",
+    "title": "The Vintage Clock",
+    "author": "M. R. Sinclair",
+    "cover": "https://monbutiong.github.io/books/images/story_vintage_clock-cover.png?w=600",
+    "coverColor": "#2c1e14",
+    "description": "After her husband's death, Iris buys a vintage clock he would have hated. When her glamorous neighbour Davina offers to help assemble it, Iris is drawn into a friendship that feels like salvation. But Davina has a secret connection to Iris's marriage — and the clock is ticking toward a revelation that will shatter everything Iris thought she knew.",
+    "tags": ["Drama", "Psychological", "Marriage", "Secrets", "Friendship", "Betrayal"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_vintage_clock.json"
+  },
+  {
+    "id": "story_last_recipe",
+    "title": "The Last Recipe",
+    "author": "C. M. Holloway",
+    "cover": "https://monbutiong.github.io/books/images/story_last_recipe-cover.png?w=600",
+    "coverColor": "#2c1a0a",
+    "description": "When the last jar of her father's legendary pasta sauce is accidentally thawed, Lena thinks she has lost the final piece of him. But when more jars are discovered in a hidden cellar, she uncovers his secret ingredient — and the horrifying truth that her father's legacy was built on more than just love and tomatoes.",
+    "tags": ["Dark Family Drama", "Horror", "Mystery", "Legacy", "Secret Ingredient"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_last_recipe.json"
   }
 ]

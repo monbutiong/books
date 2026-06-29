@@ -1,0 +1,54 @@
+{
+  "id": "story_lyme_anning",
+  "title": "The Bone Thief's Wife",
+  "author": "C. M. Holloway",
+  "cover": "https://monbutiong.github.io/books/images/story_lyme_anning-cover.png?w=600",
+  "coverColor": "#3a2e1f",
+  "description": "In 1823, Clara accompanies her husband Edmund to the Dorset coast, where he buys fossils from poor beachcombers to sell to London museums. When she befriends a young woman named Eliza, whose knowledge of the cliffs far exceeds Edmund's, Clara discovers that her husband has been stealing Eliza's work — and passing it off as his own. As Clara confronts the truth about the man she married, she must choose between loyalty and justice.",
+  "tags": ["Historical Fiction", "Romance", "Moral Dilemma", "Fossils", "Women in Science"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Collector's Wife",
+      "content": [
+        { "type": "paragraph", "text": "Clara Hargreave had been married to Edmund for five years, and in that time she had learned to measure his moods by the state of his specimen cabinets. When they were orderly, he was content. When they were chaotic, he was inspired. Today, the cabinets were locked, and the curtains of their London townhouse were drawn against a weak February sun. Edmund sat at his desk, scribbling furiously in a ledger, and Clara stood at the door with a letter in her hand. 'We are going to Dorset,' he announced without looking up. 'Lyme Regis. The winter storms have exposed new strata, and I've had word from a contact that there are extraordinary finds to be had. Pack your warmest things. We leave tomorrow.'" },
+        { "type": "paragraph", "text": "Clara refolded the letter — it was from her mother, who was ill again — and slipped it into her pocket. She had learned not to argue with Edmund when he was in the grip of a fossil fever. She was thirty-two, he forty-five, and their marriage had been a practical arrangement. He needed a wife to manage his household and host his academic acquaintances; she needed security after her father's bankruptcy. Affection had grown, slowly, like moss on a stone. She did not dislike him. She even admired his passion, though she sometimes wished he directed a sliver of it toward her. 'Will we stay at the George again?' she asked, already thinking of the cold sea wind and the long walks along the cliffs. Edmund grunted, which she took as a yes." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Woman on the Shore",
+      "content": [
+        { "type": "paragraph", "text": "Lyme Regis in February was a study in grey and silver. The sea churned endlessly against the Cobb, and the cliffs behind the town rose in dark, crumbling layers. Clara had been left to her own devices on the second day, Edmund having set out before dawn with a hammer and a canvas bag. She walked along the beach toward Chippel Bay, her boots squelching in the wet sand, and it was there she first saw the woman. She was perhaps a year or two younger than Clara, dressed in a patched woollen cloak, her hair tied back with a strip of leather. She was crouched over a rock pool, her fingers probing the stone with a delicacy that was almost surgical. At her feet lay a sack half-filled with what Clara recognised as ammonites and what looked like a large, curved bone. 'Good morning,' Clara called, and the woman looked up with a start." },
+        { "type": "paragraph", "text": "Her name was Eliza Mayfield, and she was, she explained, a collector of fossils. 'I sell them to the visitors,' she said, her voice carrying a soft Dorset burr. 'The gentlemen from the museums, they pay a fair bit for the good ones.' Clara noticed the woman's hands — red with cold, the nails broken, but the fingers long and clever. 'My husband is one of those gentlemen,' Clara said. 'Edmund Hargreave. He's come down from London to find specimens for the Royal Society.' At the name, Eliza's expression flickered — something like recognition, and something else, quickly suppressed. 'Mr Hargreave,' she said. 'I've dealt with him before. He has a fine eye for a good fossil.' The words were polite, but Clara sensed a tension beneath them." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Notes in the Margins",
+      "content": [
+        { "type": "paragraph", "text": "That evening, while Edmund was at a tavern meeting a fellow collector, Clara unpacked his field notebook. She had never pried into his work before, but something about Eliza's face had unsettled her. The notebook was filled with sketches of fossils, measurements, and descriptions. But between the pages, folded neatly, were loose sheets of paper in a different hand — a small, neat script that detailed the strata, the likely species, and even drawn diagrams of the creatures the bones might have belonged to. The handwriting was not Edmund's. The final page bore a signature: *Eliza Mayfield, November 1822.* Clara's heart began to race. She remembered that Edmund had published a paper in the Philosophical Transactions last year, describing a new species of ichthyosaur. He had been lauded for his insight. But the notes in her hand were the exact basis of that paper — word for word, diagram for diagram." },
+        { "type": "paragraph", "text": "When Edmund returned, she confronted him. At first he blustered, then he grew angry. 'What of it? The woman is illiterate. She can't publish. She can barely afford bread. I gave her fair payment for the specimens, and the interpretation is my own.' Clara held up the notes. 'This is not your interpretation. It is hers. You copied it.' Edmund's face darkened. 'You don't understand, Clara. Science is not a charity. It is a profession. Men like me build the knowledge of the world. What use is a woman's scribbling in a notebook no one will ever read? I gave her ideas a voice.' Clara said nothing. She folded the notes and placed them in her own pocket. That night, she lay awake, the truth settling over her like a cold fog." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Cliffside Confession",
+      "content": [
+        { "type": "paragraph", "text": "The next morning, Clara sought Eliza out. She found her higher on the cliffs, chipping at a seam of dark shale. 'I have to show you something,' Clara said, and she handed over the notes. Eliza's face, which had been guarded, slowly transformed into something between disbelief and fury. 'He published this?' she whispered. Clara nodded. 'I'm so sorry. I didn't know.' Eliza's hands trembled, not from the cold. 'This happens all the time,' she said. 'Gentlemen come, they buy what I find, they ask me questions about the strata, and then they go back to London and present my discoveries as their own. I don't have the money to print a paper, and even if I did, no society would listen to a woman.' Clara felt a surge of anger — not only at Edmund, but at the whole machinery of the world that allowed such a theft." },
+        { "type": "paragraph", "text": "'What if we did something about it?' Clara said, the words escaping before she could stop them. Eliza looked at her, a flicker of hope warring with a lifetime of disillusionment. 'What can we do?' Clara took a deep breath. 'We can publish. Under both your names — with your name first. I have a small inheritance from my grandmother. I can pay for the printing. And I can ensure that my husband's role in this is... acknowledged, in whatever way you see fit.' Eliza stared at her, and then, for the first time, a smile broke through the fatigue. 'You would do that? For a stranger?' Clara thought of her mother's letter, the illness, the way women were always expected to sacrifice. 'Yes,' she said. 'For all the strangers who deserve better.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Fall and the Rising",
+      "content": [
+        { "type": "paragraph", "text": "The pamphlet, titled *Observations on the Fossil Fishes of the Lyme Regis Strata, by Miss Eliza Mayfield, with Annotations by Mrs Clara Hargreave*, was printed in a small edition of two hundred copies. Clara used her inheritance to engage a London printer, and she personally carried copies to the Royal Society, the Geological Society, and the museum where Edmund worked. The scandal was immediate and merciless. Edmund was called before the Society to answer for his plagiarism. He was publicly censured, his paper retracted, his reputation in ruins. He returned home that evening, not angry but broken, sitting in his study without speaking. Clara stood in the doorway. 'I didn't do this to destroy you,' she said. 'I did it to make you honest. You are a good collector, Edmund, but you are not the man I thought I married. You can still be the man you should be.'" },
+        { "type": "paragraph", "text": "It was not an easy reconciliation. Edmund was humbled, and he struggled to accept that his wife had been the agent of his downfall. But over the months that followed, a strange thing happened. He began to listen to Clara — really listen. She told him about Eliza, about the poverty, about the way the fossil trade exploited those who had no choice. And slowly, haltingly, he began to change. He used his remaining influence to advocate for fair compensation for local collectors. He introduced Eliza to the very society that had once ignored her, and he stood behind her as she read her own paper aloud — the first woman to do so in that hall. Clara watched from the gallery, her heart full, her hands clasped tightly. She had not done it for him, not in the end. She had done it for all the women whose voices had been stolen." },
+        { "type": "paragraph", "text": "And as for Eliza, she went on to become one of the most respected fossil hunters in England, her name finally spoken with the reverence it deserved. Clara and she remained friends for the rest of their lives, exchanging letters and, occasionally, meeting on the beach at Lyme Regis, where it had all begun. The cliffs were still the same — grey, crumbling, ancient. But something had shifted beneath the surface, as irrevocably as the strata themselves." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "A windswept beach with cliffs and a lone woman holding a fossil", "caption": "The shore at Lyme Regis, where hidden truths were unearthed." }
+      ]
+    }
+  ]
+}

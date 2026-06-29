@@ -1,0 +1,61 @@
+{
+  "id": "story_vintage_clock",
+  "title": "The Vintage Clock",
+  "author": "M. R. Sinclair",
+  "cover": "https://monbutiong.github.io/books/images/story_vintage_clock-cover.png?w=600",
+  "coverColor": "#2c1e14",
+  "description": "After her husband's death, Iris buys a vintage clock he would have hated. When her glamorous neighbour Davina offers to help assemble it, Iris is drawn into a friendship that feels like salvation. But Davina has a secret connection to Iris's marriage — and the clock is ticking toward a revelation that will shatter everything Iris thought she knew.",
+  "tags": ["Drama", "Psychological", "Marriage", "Secrets", "Friendship", "Betrayal"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Thing George Would Have Hated",
+      "content": [
+        { "type": "paragraph", "text": "Iris had never bought anything George would have disliked. For thirty-four years of marriage, she had deferred to his taste — the heavy oak furniture, the sensible lamps with their beige shades, the clock on the mantelpiece that ticked with a solemn, joyless regularity. George had been a man of quiet certainties. He knew what he liked, and what he liked was solid, practical, and above all, English. So when Iris, three months into her widowhood, found herself on a French auction site bidding on an antique clock that was gilded and frivolous and gloriously impractical, she felt a thrill that was almost illicit. The clock was a confection of brass and porcelain, with a face painted in delicate pastels and a mechanism that promised to chime the hours with a melody from a forgotten opera. George would have loathed it. She clicked 'Buy' before she could talk herself out of it." },
+        { "type": "paragraph", "text": "The box arrived on a Tuesday morning, and Iris carried it into the dining room with a reverence that surprised her. She had imagined herself setting it up on the sideboard, winding it with the tiny brass key, and sitting back to hear its first, fragile chime. But when she opened the box, she found not a clock but a puzzle: a hundred gleaming components wrapped in tissue paper, accompanied by an instruction booklet in fractured English. 'Begin with the base plate and affix the pendulum hinge in a clockwise motion,' it read. 'May your timepiece sing sweetly.' Iris spread the pieces across the table and stared at them for a long, helpless moment. She had no idea where to begin. George had always done these things — the wiring, the assembling, the deciphering of instruction manuals. She had let him, or he had insisted, and now she was sixty-seven years old and could not put together her own clock." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Sons Who Were Busy",
+      "content": [
+        { "type": "paragraph", "text": "She called her elder son first. David was an accountant in Edinburgh, a man who had inherited his father's practicality and his impatience with anything that smacked of frivolity. 'A clock, Mum? From France? Couldn't you have gone to John Lewis?' His voice was distracted; she could hear his wife Ailsa in the background, and the sound of a suitcase being zipped. 'We're off to the Borders for the weekend,' he said when she asked, a little plaintively, if he might come and help. 'Phone Craig.' She did phone Craig, her younger son, who lived in Manchester and was always 'in the middle of something.' He was gentler than David, but just as unreachable. 'Sorry, Mum. Deadline. You know how it is.' She did know. She had raised two boys to be independent, and they had become so independent they no longer needed her at all." },
+        { "type": "paragraph", "text": "After the calls, Iris sat in the dining room with the pieces of the clock spread before her, and the silence of the house pressed in like a physical weight. The ticking of George's old clock on the mantelpiece was the only sound, and she found herself hating it — that steady, remorseless beat that had measured out every minute of her marriage. She had been a good wife. She had kept the house, raised the children, entertained George's colleagues with canapés and polite laughter. And now, here she was, unable to assemble a clock she had bought on a whim, with no one to call and nothing to do but wait for the hours to pass. The tears came without warning, hot and bitter, and she let them fall onto the instruction booklet, blurring the words." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Woman Across the Road",
+      "content": [
+        { "type": "paragraph", "text": "The woman across the street was called Davina, and Iris had watched her for months with a mixture of curiosity and wariness. She was not the sort of person Iris usually befriended — too loud, too flamboyant, too comfortable in her own skin. She wore bright colours and drove a vintage convertible and sometimes painted enormous canvases in her front garden, spattering colour across the grass with an abandon that made Iris's tidy soul clench. This morning, Davina was out on a ladder, painting her porch a startling shade of turquoise. She saw Iris at the window and waved, a broad, unselfconscious gesture. Iris, caught, raised a tentative hand in return. An hour later, when Iris ventured out to the shops, Davina was still there, her hair now speckled with paint, her smile undimmed. 'Morning, neighbour!' she called. 'You look like you've got the weight of the world on your shoulders. Everything all right?'" },
+        { "type": "paragraph", "text": "Iris found herself telling the truth. The clock, the instructions, the sons, the silence. Davina climbed down from her ladder and crossed the road without hesitation. 'Let me see this clock,' she said, and her voice was so warm and so confident that Iris felt something inside her unclench. In the dining room, Davina examined the pieces with a practical eye. 'It's not so bad,' she said. 'You just start here, with the base. Go on, pick it up.' And Iris, who had not been taught to do things for herself, picked it up. Under Davina's patient guidance, the clock began to take shape — the brass frame, the porcelain face, the tiny pendulum that swung with a delicate, silver chime. 'There,' Davina said when it was done. 'May your timepiece sing sweetly.' She grinned. 'That's from the instructions. I thought it was rather lovely.' Iris laughed, a sound she had not made in months, and the clock chimed the hour with a melody that filled the quiet house." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Friendship Deepens",
+      "content": [
+        { "type": "paragraph", "text": "After that, Davina became a fixture in Iris's life. She would appear at the door with a bottle of wine and a story about her latest disaster — a plumbing catastrophe, a painting that had gone wrong, a man who had stood her up. She was divorced, she said, twice, and was done with men entirely. 'I'm far too much for most of them,' she said cheerfully, and Iris believed her. Davina was generous with her time and her tools; she taught Iris how to rewire a plug, how to bleed a radiator, how to use a drill without flinching. 'Your husband should have taught you this,' Davina said once, and Iris had no answer. George had not wanted her to know. He had liked being needed, and she had liked being protected. Or so she had told herself." },
+        { "type": "paragraph", "text": "One evening, as they sat in Iris's living room with the new clock chiming softly in the corner, Davina grew quiet. 'Can I tell you something?' she asked. Iris nodded. 'I knew George,' Davina said. 'Before I moved here. I knew him quite well, actually.' Iris felt the world tilt. 'What do you mean?' Davina looked at her with those bright, unflinching eyes. 'We worked together, years ago. On a project in Bristol. He was... he was not the man you think he was, Iris. He was kind, yes, but he was also selfish. He took credit for work that wasn't his. He charmed people and then discarded them. I didn't know you then, but I saw how he spoke about you — like a possession, not a partner. And when I saw the house across the road was for sale, I... I wanted to meet you. To see if you were all right. To see if you needed a friend.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Unravelling",
+      "content": [
+        { "type": "paragraph", "text": "Iris sat very still. The clock chimed the half-hour. 'You moved here deliberately?' she asked. 'To check on me?' Davina nodded, her expression unreadable. 'I know it sounds strange. But I carried guilt for years. I worked with him, Iris. I saw what he did — not just to colleagues, but to you. He belittled you at parties. He laughed about your 'little hobbies.' He said you were hopeless without him. And I never said anything. I just watched.' Iris felt the familiar sting of humiliation, but beneath it, something else — a slow, burning anger. Not at Davina. At George. At the years of being managed, diminished, kept small. 'He wasn't entirely wrong,' Iris said quietly. 'I am hopeless at some things. But I'm learning.' Davina reached over and took her hand. 'I know you are. And I'd like to help, if you'll let me.'" },
+        { "type": "paragraph", "text": "The revelation settled between them, but it did not break the friendship. Instead, it deepened it. Iris understood that Davina had not come out of pity, but out of a kind of penance, and perhaps a genuine desire to know the woman behind the husband. They talked for hours that night — about George, about marriage, about the ways women were taught to be grateful for being taken care of. Iris learned that Davina had lost a sister to a controlling marriage, and that George had reminded her of that sister's husband. 'I couldn't save her,' Davina said. 'But I thought maybe I could help you find your feet.'" }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Clock That Sang",
+      "content": [
+        { "type": "paragraph", "text": "A year later, Iris stood in her living room, looking at the clock. It was still beautiful, still impractical, still gloriously not what George would have chosen. Beside it, on the mantelpiece, was a photograph of her and Davina at the seaside, both of them windswept and laughing. She had taken the courses Davina recommended — wiring, plumbing, basic carpentry — and she had discovered that her hands were capable of more than she had ever believed. She had also started painting, not canvases but small watercolours of flowers and birds, which she sold at a local market for pocket money. Her sons visited more often now, perhaps sensing that she no longer needed them, and she welcomed them with a warmth that was no longer desperate." },
+        { "type": "paragraph", "text": "Davina still lived across the road, still painted her porch improbable colours, still burst in with wine and stories. The friendship had become the steady centre of Iris's new life. She thought often of the clock, and the day it had arrived in its box, a puzzle she could not solve. It had brought her Davina. It had brought her back to herself. And every hour, when it chimed its sweet, operatic melody, she remembered that she had put it together with her own hands — guided by a friend, yes, but her own hands. She had not needed George to do it for her. She had never needed him, not really. She had only needed to believe she could." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A vintage porcelain clock on a mantelpiece, sunlight streaming through a window", "caption": "The clock that marked the hours of Iris's new life." }
+      ]
+    }
+  ]
+}

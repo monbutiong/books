@@ -1,0 +1,61 @@
+{
+  "id": "story_last_recipe",
+  "title": "The Last Recipe",
+  "author": "C. M. Holloway",
+  "cover": "https://monbutiong.github.io/books/images/story_last_recipe-cover.png?w=600",
+  "coverColor": "#2c1a0a",
+  "description": "When the last jar of her father's legendary pasta sauce is accidentally thawed, Lena thinks she has lost the final piece of him. But when more jars are discovered in a hidden cellar, she uncovers his secret ingredient — and the horrifying truth that her father's legacy was built on more than just love and tomatoes.",
+  "tags": ["Dark Family Drama", "Horror", "Mystery", "Legacy", "Secret Ingredient"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Last Jar",
+      "content": [
+        { "type": "paragraph", "text": "The jar was still cold, but the ice crystals had melted into a watery slick that ran down the glass. Lena held it in both hands, the red sauce within looking like a trapped sunset, and felt the familiar weight of grief settle in her chest. Her father, Paolo, had been dead for fourteen months, and this was the very last jar of his pasta sauce — the sauce he had made every Sunday for forty years, the sauce that had filled their home with the scent of garlic and basil, the sauce that had paid for her education and her wedding and the roof over her head. She had been saving it for a special occasion she could never quite define. Now, because her daughter had left the freezer door ajar overnight, it was defrosted and would spoil within days. 'I'm sorry, Mum,' Clara said, her eyes red-rimmed. 'I know how much it meant.' Lena looked at her daughter, at the guilt on her face, and tried to summon anger. All she felt was a hollow, echoing sadness. 'It's all right,' she lied. 'It was just a jar of sauce.'" },
+        { "type": "paragraph", "text": "But it was not just a jar. It was the last tangible piece of a man who had been larger than life, a man whose hands could turn simple tomatoes into magic, whose voice could fill a restaurant with Neapolitan love songs. Paolo Costa had come to England at twenty, opened a small trattoria, and built an empire of flavour. His sauce was his secret — never written down, never shared. He taught Lena the recipe, but it never tasted quite the same. 'You're missing the secret ingredient,' he would say with a wink. 'One day I'll tell you.' He never did. The cancer took him in four months, and with him went the secret. Lena had spent the last year trying to replicate it, failing each time. The sauce in the jar was the last perfect batch, made a week before he died. And now it was ruined." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Hidden Cellar",
+      "content": [
+        { "type": "paragraph", "text": "The next day, Lena found herself at the restaurant, a place she had sold to a chain but that still held the ghost of her father in every corner. The new owners had kept the name and the décor, but the kitchen was different — sterilised, modern, soulless. She had come to collect some old family photos that had been forgotten in a storeroom. While there, the current manager, a young man named Derek, mentioned that the basement had a locked door they had never been able to open. 'Probably just an old wine cellar,' he said. 'The key must have been lost years ago.' Lena thought of her father's old keyring, the heavy brass one with the lion's head, which she still kept in her jewellery box. 'I might have the key,' she said." },
+        { "type": "paragraph", "text": "The key turned with a satisfying click, and the heavy oak door swung open to reveal a small, stone-lined room. It was cold, naturally refrigerated by the earth, and shelves lined the walls. On those shelves, gleaming under a single bare bulb, were rows of glass jars. Dozens of them. Each one filled with a familiar red sauce. Lena's breath caught. 'He made more,' she whispered. 'He made more before he died.' But as she stepped closer, she noticed something else. At the back of the cellar, on a small wooden table, lay a leather-bound journal. Beside it, a photograph of a young woman Lena did not recognise. And next to the photograph, a small, rusted knife." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Journal",
+      "content": [
+        { "type": "paragraph", "text": "The journal was written in her father's cramped handwriting, a mixture of Italian and English. The early pages were recipes, notes on suppliers, observations about the restaurant. But as she turned the pages, the tone shifted. Entries became darker, more cryptic. 'The hunger grows,' one read. 'The sauce must be fed. I have found another. She will not be missed.' Lena's hands began to tremble. She turned more pages, and a pattern emerged: dates, names, and a single, chilling phrase repeated over and over: 'The secret ingredient is love.' But the word 'love' was crossed out each time, replaced with a different word: 'blood.'" },
+        { "type": "paragraph", "text": "Lena dropped the journal as if it had burned her. She staggered back, knocking a jar from the shelf. It shattered on the stone floor, and the thick, dark sauce pooled around her feet. The smell was familiar — garlic, oregano, tomato — but beneath it, a metallic tang that she had never noticed before. She thought of the photograph, the young woman with the sad eyes. She thought of the knife, still faintly stained. She thought of her father's wink, his secret ingredient, the way his sauce had always tasted so impossibly rich and savoury. And she knew, with a sickening certainty, what she had been eating her entire life." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Feast of Sins",
+      "content": [
+        { "type": "paragraph", "text": "Lena did not go to the police. She could not bring herself to expose the truth — not yet, not until she understood the full scope of her father's crimes. She took the journal, the photograph, and the knife, and she locked the cellar again, telling Derek it was just old supplies. At home, she hid the evidence in her wardrobe and tried to continue as normal. But the knowledge was a poison in her blood. Every meal she had ever shared with her father, every Sunday dinner, every birthday celebration, was tainted. The sauce she had fed to her own children, the sauce she had mourned, was made from suffering. She looked at the jar still sitting in her fridge, the one that had defrosted, and felt a wave of nausea so strong she nearly vomited." },
+        { "type": "paragraph", "text": "The worst part was the family. Her brother Marco had already called, excited by the discovery of the extra jars. 'We have to have a feast,' he said. 'A celebration of Papa's life. We can invite everyone.' Lena heard herself agreeing, her voice distant and hollow. She did not know how to tell him the truth. She did not know if she ever could. But as the day of the feast approached, she found herself making a decision. She would cook one last meal with her father's sauce. And she would tell them. They deserved to know what they were eating. They deserved to know what their father was." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Confession",
+      "content": [
+        { "type": "paragraph", "text": "The feast was held at Marco's house, a sprawling villa with a view of the sea. The whole family had come — cousins, aunts, uncles, old friends of Paolo's. They laughed and drank wine and told stories of the great chef. The table was laden with food, and at the centre, a huge pot of pasta, the sauce gleaming red. Lena watched them eat, watched the sauce stain their lips, and felt a cold, hard resolve solidify in her chest. When the meal was over and the plates were cleared, she stood and rang a glass for silence. 'I have something to tell you,' she said. She held up the journal, and the photograph, and the knife. 'About Papa. About the secret ingredient.'" },
+        { "type": "paragraph", "text": "The room fell into a stunned silence as she read from the journal. Some family members wept; others shouted in disbelief. Marco lunged at her, calling her a liar, a madwoman. But the evidence was undeniable. The photograph was of a woman who had disappeared forty years ago, a waitress at the restaurant. The journal listed seventeen names over five decades. Paolo Costa had been a monster, hiding in plain sight, feeding his victims to his family. The celebration shattered into chaos. Lena's daughter Clara stared at her with horror — not at the grandfather she had never really known, but at the mother who had just destroyed every happy memory she had ever had. In that moment, Lena wondered if the truth had been worth it. But it was too late. The sauce had been eaten. The secret was out. And nothing would ever be the same." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Bitter Harvest",
+      "content": [
+        { "type": "paragraph", "text": "The aftermath was a slow, grinding ruin. Marco stopped speaking to Lena, blaming her for tarnishing their father's name. Clara moved out, unable to look at her mother without thinking of the sauce. The police investigation exhumed bones from beneath the restaurant floor, and the Costa name became synonymous with horror. Lena, once the grieving daughter, was now the pariah who had exposed it all. She spent her days alone in the empty house, surrounded by the ghosts of her father's victims and the fading scent of garlic. Sometimes, late at night, she would open a jar of sauce — she had kept one, a final relic — and stare at its crimson depths. It still smelled like home. It still smelled like love. And that, she knew, was the most terrifying thing of all." },
+        { "type": "paragraph", "text": "In the end, she buried the last jar in the garden, beneath the rosemary bush her father had planted. She did not mark the spot. She wanted to forget, but she knew she never would. The sauce was gone, but the taste lingered — a taste of iron and basil, of family and murder, of a love that had been a lie from the very first spoonful." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A shattered jar of red sauce on a stone floor", "caption": "The last jar, the final secret, the end of a legacy built on blood." }
+      ]
+    }
+  ]
+}
