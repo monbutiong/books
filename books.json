@@ -526,5 +526,17 @@
     "requiredReadMinutes": 0,
     "dateAdded": "2017-08-14",
     "fileUrl": "https://monbutiong.github.io/books/story_rosies_secret.json"
+  },
+  {
+    "id": "story_scenic_route",
+    "title": "The Scenic Route",
+    "author": "Helen Carroway",
+    "cover": "https://monbutiong.github.io/books/images/story_scenic_route-cover.png?w=600",
+    "coverColor": "#2d4a3e",
+    "description": "When Susan Halliday clears out her late father's beloved old Volvo, she discovers a notebook filled with mysterious routes through the Yorkshire Dales. Following them, she uncovers a secret life of hidden paintings, a family tragedy buried for forty years, and a father she never truly knew — a man who spent his final days quietly leaving beauty behind for strangers to find.",
+    "tags": ["Family Drama", "Contemporary Fiction", "Mystery", "Loss", "Yorkshire", "Art"],
+    "requiredReadMinutes": 0,
+    "dateAdded": "2026-06-14",
+    "fileUrl": "https://monbutiong.github.io/books/story_scenic_route.json"
   }
 ]
