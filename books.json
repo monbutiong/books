@@ -427,5 +427,16 @@
     "tags": ["Romance", "Magical Realism", "Folklore", "Midsummer", "Historical Setting"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_midsummer_charm.json"
+  },
+  {
+    "id": "story_gilded_corpse",
+    "title": "The Gilded Corpse",
+    "author": "V. M. Ashford",
+    "cover": "https://monbutiong.github.io/books/images/story_gilded_corpse-cover.png?w=600",
+    "coverColor": "#1c1c0a",
+    "description": "At a steampunk murder mystery weekend, retired prop-maker Evelyn Thorn arrives expecting harmless theatrics. But when the staged corpse of Lady Brassfield fails to rise, Evelyn discovers the death is real — and the script's planned murders are being enacted one by one. Trapped in a mechanised manor with a killer who knows every gear and lever, she must use her knowledge of clockwork and illusion to survive the night, before she becomes the final act.",
+    "tags": ["Dark Mystery", "Steampunk", "Thriller", "Closed Circle", "Twist"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_gilded_corpse.json"
   }
 ]

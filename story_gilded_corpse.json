@@ -1,0 +1,60 @@
+{
+  "id": "story_gilded_corpse",
+  "title": "The Gilded Corpse",
+  "author": "V. M. Ashford",
+  "cover": "https://monbutiong.github.io/books/images/story_gilded_corpse-cover.png?w=600",
+  "coverColor": "#1c1c0a",
+  "description": "At a steampunk murder mystery weekend, retired prop-maker Evelyn Thorn arrives expecting harmless theatrics. But when the staged corpse of Lady Brassfield fails to rise, Evelyn discovers the death is real — and the script's planned murders are being enacted one by one. Trapped in a mechanised manor with a killer who knows every gear and lever, she must use her knowledge of clockwork and illusion to survive the night, before she becomes the final act.",
+  "tags": ["Dark Mystery", "Steampunk", "Thriller", "Closed Circle", "Twist"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Iron Welcome",
+      "content": [
+        { "type": "paragraph", "text": "The steam-carriage deposited Evelyn Thorn at the gates of Gearheart Hall just as the last copper light bled from the sky. She had not wanted to come. The invitation — a thick card embossed with brass gears — had arrived three months after her retirement from the prop-maker's guild, and her friend Margo had insisted. 'A weekend of murder and mystery in a steampunk manor. You'll love it. All the automata are supposedly original Ashford-era designs.' The mention of the Ashford automata was the hook. Evelyn had spent forty years building mechanical creatures for the theatre, and the thought of seeing the legendary Gearheart collection was enough to coax her out of her quiet cottage and into a corset she had not worn since her twenties. Now, standing before the iron gates, she felt a prickle of unease that had nothing to do with the cold." },
+        { "type": "paragraph", "text": "The manor was a sprawling confection of black ironwork and soot-stained brick, its turrets bristling with clock faces and weathervanes shaped like winged serppents. Gaslight flared in the windows, and from somewhere within came the distant, rhythmic chuff of a steam engine. A liveried footman, his face immobile as a waxwork, led her into the grand hall where a dozen guests had already assembled. They were a mixed lot: a stern naval officer with a mechanical arm, a flamboyant inventor in a coat of many pockets, a dowager dripping in jet and brass. At the centre of the room, on a velvet-draped chaise, lay a woman in a gown of emerald silk, a brass-handled dagger protruding from her chest. Her eyes were open, staring at the ceiling, and her lips were the colour of old violets. 'Our victim,' the footman announced in a flat tone. 'Lady Brassfield, mistress of the house. You are all suspects. The game begins at the chime of the seventh bell.' Evelyn smiled. The corpse was remarkably convincing — the skin pallor, the stillness. The prop-maker in her admired the craftsmanship. Then the bell chimed, and the corpse did not rise." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Seventh Bell",
+      "content": [
+        { "type": "paragraph", "text": "The seventh bell tolled from a clock tower deep in the house, a resonant, mournful note that seemed to vibrate in Evelyn's bones. The guests exchanged expectant glances. The footman had retreated, and the hall was silent save for the ticking of a hundred hidden mechanisms. Lady Brassfield remained motionless. After a full minute, a nervous laugh rippled through the group. 'She's very good,' the inventor said, adjusting his goggles. 'But perhaps the game has already started, and we're meant to find the clue?' He approached the chaise and reached for the dagger. Evelyn's hand shot out. 'Don't touch that,' she said, her voice sharper than she intended. She had spent a lifetime handling prop weapons, and she knew the weight of real steel. The dagger was no theatrical piece — its hilt was warm, as if recently held, and the dark stain spreading through the emerald silk was too vivid, too organic, to be stage blood." },
+        { "type": "paragraph", "text": "Evelyn knelt beside the body. She pressed two fingers to the woman's wrist, feeling for a pulse beneath the brass bracelet that encircled it. Nothing. The skin was cooling, the stiffness of early rigor already setting into the jaw. This was no actress playing dead. 'This woman has been murdered,' Evelyn said, rising slowly. 'I've made enough corpses for the stage to know the difference. This is real.' The room erupted. The dowager screamed; the naval officer drew a cutlass that was almost certainly part of his costume. The inventor rushed to the door and found it locked. 'The footman!' he shouted. 'The servants!' But no one came. The great house ticked on, indifferent, and somewhere in its depths, a gramophone crackled to life, playing a scratchy waltz. The game had indeed begun — only it was not the game they had signed up for." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Blueprint of Death",
+      "content": [
+        { "type": "paragraph", "text": "Evelyn discovered the script on a lectern in the library, bound in cracked leather and titled 'The Gilded Corpse: A Murder Mystery in Five Acts.' According to the programme, Lady Brassfield was to be the first victim. The second was to be the dowager, strangled with a string of pearls in the conservatory. The third, the naval officer, poisoned by a cup of tea laced with 'cyanide' — actually almond essence. The script was detailed, almost obsessive, with stage directions and timings. But someone had annotated it in red ink. Beside the dowager's name was a checkmark. Beside the naval officer's, a small, neat 'X'. Evelyn's blood ran cold. 'He's using the game as a template,' she said to the remaining guests, who had huddled in the library. 'The killer is following the script. We have to find the dowager before the next act.' But they were too late. They found her in the conservatory, strangled not with costume pearls but with a length of brass wire, her mechanical bird still chirping a mournful tune." },
+        { "type": "paragraph", "text": "Evelyn studied the annotations. The red ink had a peculiar metallic sheen, like copper filings suspended in oil. She had seen that ink before — it was a special compound used by the Ashford automata makers to mark their blueprints. Gearheart Hall was infamous for its collection, but it was also rumoured to hold a darker legacy: a forgotten heir, a descendant of the original Ashford family, who had been cheated out of his inheritance and driven to madness. Evelyn began to piece together the truth. The footman, the 'servants,' the locked doors — all were part of a mechanised system that could be controlled by a single person. The killer was the master of the house, and he had invited them here to play out his revenge." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Clockwork Heir",
+      "content": [
+        { "type": "paragraph", "text": "They found the naval officer in the drawing room, slumped over a teacup, his mechanical arm twitching in a final, futile gesture. The third checkmark. Panic set in. The remaining guests — the inventor, a young botanist, and a timid governess — turned on each other, accusations flying. Evelyn ignored them. She was tracing the outline of the house, her mind working as it had in the old days when she had to design a trapdoor or a vanishing cabinet. The manor was a machine, a vast, interconnected contraption of steam pipes, clockwork, and hidden passages. The killer was operating from a central chamber, using the original Ashford blueprints. She needed to find that chamber before the next act, which, according to the script, was 'the detective meets a grisly end in the clock tower.' The detective, of course, was the role she had unwittingly assumed." },
+        { "type": "paragraph", "text": "Evelyn slipped away from the group and followed the pulse of the steam engine to the basement, where a great brass boiler fed pipes that snaked through the ceiling like mechanical veins. Behind the boiler, she discovered a hidden door, its lock a puzzle of interlocking gears. Her fingers, still nimble from years of craft, solved it in minutes. The door swung open on a control room lined with levers, gauges, and a bank of gramophone cylinders. At the centre, seated before a console of flickering lights, was the 'inventor' — the man in the coat of many pockets. He turned, and his goggles reflected her startled face. 'I was hoping you'd find me,' he said, his voice a low, mechanical hum. 'You're the only one who might appreciate the artistry. The Ashford automata were nothing compared to this. A house that kills. A game that becomes truth. My great-grandfather was the true heir, and your families — all of you — stole it from him. I've spent years learning the blueprints. Tonight, the gears finally turn in our favour.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Final Act",
+      "content": [
+        { "type": "paragraph", "text": "Evelyn knew she had only moments. The clock tower chime was set to sound the next act. She scanned the console, her mind cataloguing the levers: steam pressure, door locks, a mechanism labelled 'Curtain Drop' — and one marked 'Emergency Release'. The man, who called himself Ashford, was still monologuing about the perfection of his revenge. 'You'll be the final act, Miss Thorn. The detective, slain in the clock tower. It's already programmed. The gears will lower you into the pit, and the clockwork figures will applaud. A fitting end for a prop-maker — a prop in her own final scene.' He pulled a lever, and Evelyn heard the distant grinding of machinery. But she had already spotted the emergency release, a simple brass handle painted red, and she knew from her own designs that such releases were always built into the most complex machines. She lunged for it, pushing past Ashford, and yanked it hard." },
+        { "type": "paragraph", "text": "The effect was immediate. A great shudder ran through the house, and the gramophone stuttered into silence. The pipes hissed, and somewhere above, a clockwork mechanism ground to a halt. Ashford screamed and threw himself at her, but Evelyn was quicker. She grabbed a heavy spanner from a toolkit nearby and struck the console. The lights flickered and died. The control room was plunged into darkness, save for the dim glow of the emergency lanterns. Ashford slumped, defeated, his coat snagged on a broken lever. Evelyn climbed the stairs, her legs trembling, and emerged into the hall where the surviving guests huddled in the dim light, their terror easing. The doors, unlocked at last, swung open, and the cold night air rushed in. The game was over, and the final act had been rewritten." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Aftermath",
+      "content": [
+        { "type": "paragraph", "text": "The police, when they arrived at dawn, found a scene of bewildered survivors and a dead man in a mechanical basement. Evelyn gave her statement, leaving out only the detail that she had once built a similar release mechanism for a production of 'The Phantom Automaton'. The authorities puzzled over the clockwork house, and the story became a sensation — the Gearheart Murders, they called it. Evelyn returned to her cottage, to her garden and her quiet retirement, but she did not forget. She began to design again, small automata that played music and danced, and she donated them to the local theatre. But sometimes, in the still of the night, she would hear a faint ticking, and she would think of the house that killed, and the inheritance of madness and gears. She never again accepted a mysterious invitation, no matter how beautiful the brass engraving." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "An old clock tower at sunrise, mist clearing", "caption": "Gearheart Hall at dawn, its clockwork stilled forever." }
+      ]
+    }
+  ]
+}
