@@ -1,0 +1,52 @@
+{
+  "id": "story_midsummer_charm",
+  "title": "The Midsummer Charm",
+  "author": "L. K. Voss",
+  "cover": "https://monbutiong.github.io/books/images/story_midsummer_charm-cover.png?w=600",
+  "coverColor": "#2e3a1a",
+  "description": "At a Midsummer Eve tour of an ancient watermill, shy librarian Thea is coaxed into performing an old love charm. That night, vivid dreams begin — a dark-haired miller offers her gifts and whispers promises. When she returns to the mill to share her visions with the charming tour guide, she discovers that some charms cast a spell in both directions, and Midsummer magic still lingers in the turning of the great wheel.",
+  "tags": ["Romance", "Magical Realism", "Folklore", "Midsummer", "Historical Setting"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Watermill at Twilight",
+      "content": [
+        { "type": "paragraph", "text": "The last light of Midsummer Eve was draining from the sky as Thea pulled into the gravel car park of Beckett's Mill. She had visited the old watermill a dozen times as a child, trailing after her grandmother through the flour-dusted rooms, but she had never been here at night. Lanterns lined the path to the great oak door, their flames swaying in a breeze that smelled of river water and wild mint. Her friend Cora had bought the tickets as an early birthday surprise. 'It's a special twilight tour,' Cora had said, her eyes bright with mischief. 'They do it every Midsummer. There's a charm. For love.' Thea had groaned, but she had come anyway, because Cora was persistent and because, if she was honest, her life had become rather small — work at the library, evenings with her cat, weekends tending her grandmother's garden. A little magic, even the pretend kind, might do her good." },
+        { "type": "paragraph", "text": "The tour guide was waiting by the mill door, a lantern in his hand. He was tall and broad-shouldered, dressed in the rough linen shirt and leather apron of a Victorian miller, his dark hair curling over his collar. 'Welcome to Beckett's Mill,' he said, and his voice was warm and low, the kind of voice that made Thea think of woodsmoke and old stories. 'I'm Robin, and I'll be your guide tonight. We'll be exploring the mill by candlelight and learning about the old Midsummer customs of this valley. Some of them might even still work.' He smiled, and Thea felt Cora's elbow dig into her ribs. 'He's nice,' Cora whispered, and Thea shushed her, but her heart had already begun to beat a little faster." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Wheel and the Water",
+      "content": [
+        { "type": "paragraph", "text": "The tour wound through the mill's three floors, from the grinding stones to the grain bins to the great wooden waterwheel that still turned in the millrace, its paddles creaking a slow, ancient rhythm. Robin told stories of the millers who had worked here for two hundred years, of the folk who brought their corn from miles around, and of the Midsummer traditions that had persisted long after the church tried to stamp them out. At the end, he led them to the lower chamber where the great wheel turned, and where a long table had been laid with candles, a bowl of spring water, and bundles of fresh herbs. 'On Midsummer Eve,' Robin said, 'the young women of the valley would perform a charm to learn the face of their future husband. It required courage, a bowl of water, and a few sprigs of what grows wild.' He paused, his dark eyes scanning the small group. 'Is there anyone brave enough to try?'" },
+        { "type": "paragraph", "text": "Cora, of course, nudged Thea forward. 'She's single!' Cora announced, and Thea felt her cheeks flame. Robin extended his hand, and there was nothing to do but take it. He guided her through the ritual: scattering the herbs — meadowsweet, vervain, and heartsease — upon the water, stirring it with her finger, and reciting the old words. 'By wheel and water, herb and flame, show me the face and show the name.' Thea repeated the words, her voice steadier than she felt. The water settled, and in the candlelight, she saw her own reflection — and beside it, Robin's, as he leaned close to peer into the bowl. 'Well,' he said softly, 'that's a promising start.' The small crowd laughed, and Thea smiled, but something in the air had shifted. The mill wheel creaked. The candles flickered. And Thea felt, for just a moment, as if the water had looked back at her." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Dreams Begin",
+      "content": [
+        { "type": "paragraph", "text": "That night, Thea dreamed she was walking through the watermeadow behind the mill. Her feet were bare and the grass was cool, and the air was thick with the scent of meadowsweet. A man's voice was singing, a low, tender melody that seemed to rise from the river itself. She followed it to the mill door and stepped inside. There, by the great wheel, stood a man in a miller's apron, his dark hair powdered with flour. He turned and smiled, and it was Robin's face, but not quite — softer, younger, as if he had stepped out of another century. He held out his hands, and in them lay a garland of green leaves and tiny white flowers. 'I made this for you,' he said, and he placed it on her head as gently as a kiss. 'Wear it, and you will always find your way back to me.' Thea woke with the scent of meadowsweet still in her nostrils and a longing in her chest that she could not name." },
+        { "type": "paragraph", "text": "The dream returned the next night, and the night after that. Sometimes he was the miller, offering her a small, smooth stone from the riverbed. Sometimes he was a blacksmith, his hands dark with soot, presenting her with a delicate iron bracelet twisted into the shape of leaves. Each time, he spoke to her, his voice full of affection, and each time she woke just before he could kiss her. By the end of the week, Thea was distracted and restless. She found herself doodling mill wheels in the margins of her library paperwork. She caught herself humming the melody from her dreams. Cora, when she phoned, was delighted. 'It's the charm,' she insisted. 'You have to go back. You have to tell Robin.' Thea protested, but her hand was already reaching for the phone." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Miller's Name",
+      "content": [
+        { "type": "paragraph", "text": "They met at the mill café on a bright Saturday afternoon. Robin was waiting at a window table, two coffees and a slice of lemon cake already ordered. Without his Victorian costume, in a simple linen shirt and jeans, he was somehow more striking — the same warm eyes, the same gentle smile, but more real, more present. Thea sat down and, haltingly, began to tell him about the dreams. She left out the details that made her blush — the almost-kisses, the longing — but she described the garland, the stone, the bracelet. Robin listened without interrupting, his expression shifting from curiosity to wonder. When she finished, he was silent for a long moment. Then he said, 'My surname is Miller. And my great-great-grandfather was the last miller to work this wheel. He was also a blacksmith. There's a photograph of him in the museum office — the resemblance is... well, you'd be surprised.' He reached across the table and took her hand. 'I've been dreaming too,' he said. 'Of a woman with auburn hair walking through the meadow. She never speaks, but I wake up feeling like I've lost something.'" },
+        { "type": "paragraph", "text": "They walked through the watermeadow that afternoon, following the path Thea had taken in her dreams. The wild herbs were still in bloom, and the air was sweet. Robin told her about the mill's history, about his grandmother who had been the last of the family to live there before it became a museum, about his decision to leave a corporate job and come back to guide tours and tend the old building. 'I felt called,' he said. 'As if the mill wanted me here.' Thea nodded, understanding completely. When they reached the mill door, Robin stopped and turned to her. 'I don't pretend to understand what's happening,' he said. 'But I know I haven't been able to stop thinking about you since the tour. And I'd like to see where this goes, if you're willing.' Thea looked at the great wheel turning in the millrace, at the sunlight dancing on the water, and she smiled. 'I think the charm has already decided,' she said." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Turning Wheel",
+      "content": [
+        { "type": "paragraph", "text": "They married on Midsummer Eve, one year to the day from that first tour. The ceremony was held in the lower chamber of the mill, with the great wheel turning slowly behind them and the scent of meadowsweet and vervain filling the air. Cora was maid of honour, weeping happily into her bouquet. Robin's grandmother, a sprightly ninety-two, told everyone who would listen that she had dreamed of this day when she was a girl. Thea wore a garland of green leaves and white flowers in her hair, and Robin placed a thin iron ring on her finger, twisted into the shape of a leaf. As they kissed, the mill wheel gave a long, slow creak, as if blessing them. The small crowd applauded, and the candles flickered, and Thea felt the same shift in the air she had felt that first night. But this time, she understood. Some places hold their magic. Some charms are real. And some loves are meant to turn and turn, like a wheel, forever." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "An old watermill with a turning wheel, sunlight sparkling on the millrace", "caption": "Beckett's Mill, where the water still turns and the old charms still hold." }
+      ]
+    }
+  ]
+}

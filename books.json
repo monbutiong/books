@@ -405,5 +405,27 @@
     "tags": ["Dark Romance", "Psychological Thriller", "Reunion", "Serial Killer", "Cornwall"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_tides_end.json"
+  },
+  {
+    "id": "story_diamond_dossier",
+    "title": "The Diamond Dossier",
+    "author": "M. R. Holloway",
+    "cover": "https://monbutiong.github.io/books/images/story_diamond_dossier-cover.png?w=600",
+    "coverColor": "#1a1a2e",
+    "description": "PI Elena Marsh is hired by a charming Australian man to find his birth mother using the clue 'three diamonds'. But when her investigation uncovers a trio of lounge singers with a dark past, and the women start dying one by one, Elena realizes her client is not searching for his mother — he's hunting for his final victim. And she's the one who led him straight to her door.",
+    "tags": ["Dark Crime", "Psychological Thriller", "Mystery", "Private Investigator", "Serial Killer"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_diamond_dossier.json"
+  },
+  {
+    "id": "story_midsummer_charm",
+    "title": "The Midsummer Charm",
+    "author": "L. K. Voss",
+    "cover": "https://monbutiong.github.io/books/images/story_midsummer_charm-cover.png?w=600",
+    "coverColor": "#2e3a1a",
+    "description": "At a Midsummer Eve tour of an ancient watermill, shy librarian Thea is coaxed into performing an old love charm. That night, vivid dreams begin — a dark-haired miller offers her gifts and whispers promises. When she returns to the mill to share her visions with the charming tour guide, she discovers that some charms cast a spell in both directions, and Midsummer magic still lingers in the turning of the great wheel.",
+    "tags": ["Romance", "Magical Realism", "Folklore", "Midsummer", "Historical Setting"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_midsummer_charm.json"
   }
 ]

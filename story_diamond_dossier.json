@@ -1,0 +1,61 @@
+{
+  "id": "story_diamond_dossier",
+  "title": "The Diamond Dossier",
+  "author": "M. R. Holloway",
+  "cover": "https://monbutiong.github.io/books/images/story_diamond_dossier-cover.png?w=600",
+  "coverColor": "#1a1a2e",
+  "description": "PI Elena Marsh is hired by a charming Australian man to find his birth mother using the clue 'three diamonds'. But when her investigation uncovers a trio of lounge singers with a dark past, and the women start dying one by one, Elena realizes her client is not searching for his mother — he's hunting for his final victim. And she's the one who led him straight to her door.",
+  "tags": ["Dark Crime", "Psychological Thriller", "Mystery", "Private Investigator", "Serial Killer"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Client with Puppy-Dog Eyes",
+      "content": [
+        { "type": "paragraph", "text": "Elena Marsh had a list of things she was grateful for: a working coffee machine, a father who still remembered her name, and the fact that her tiny office above the launderette had a lock that worked. The list of things she needed was longer. Clients, mainly. So when a tall, well-dressed man with an Australian accent and sad brown eyes knocked on her door on a sweltering Tuesday afternoon, she felt a flicker of hope. He introduced himself as Leo Drake, and he wanted her to find his birth mother. 'I have a clue,' he said, sliding a folded photograph across her desk. 'My adoptive mother's last words. She said, Look for the three diamonds. In England.'" },
+        { "type": "paragraph", "text": "Elena studied the photo: a faded image of three young women in glittery hotpants and matching halter tops, their arms slung around each other's shoulders. They looked like a 1970s cabaret act. On the back, in spidery blue ink, was written: The Diamond Dazzlers, 1973. Leo explained that his adoptive parents had emigrated to Australia with him as a newborn, and he had only recently learned the truth. 'I want to know where I came from,' he said, his voice cracking. 'For my children, as much as for me.' Elena felt a pang of sympathy. She knew what it was like to search for a missing piece of yourself. She took the case, and the first thing she did after Leo left was type 'Three Diamonds' into her search engine. The rabbit hole was deeper than she imagined." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Lost Trio",
+      "content": [
+        { "type": "paragraph", "text": "The Diamond Dazzlers, Elena learned, had been a short-lived touring act that played the northern club circuit before rebranding as the Three Diamonds in late 1972. The group consisted of three young women known only by their stage names: Star, Gem, and Jewel. Their career ended abruptly in the summer of 1973 after a week-long engagement at a seaside ballroom in Suffolk. One newspaper article from the time mentioned a 'tragic incident' backstage, but no details were given. Elena dug deeper, cross-referencing missing persons and death records. She found that two of the three women were dead. Star had died in a car crash in 1985. Gem had vanished in 1998 and was later found in a shallow grave near Epping Forest. The third, Jewel, had disappeared entirely. No death certificate, no marriage record, no trace. She had gone to ground." },
+        { "type": "paragraph", "text": "The more Elena read, the colder the case felt. Gem's murder had never been solved. The police report noted a peculiar detail: a small diamond-shaped pendant had been placed in her mouth. Elena felt the back of her neck prickle. She called Leo to update him, but his voice was calm, almost detached. 'I just want to find Jewel,' he said. 'If she's still alive, she might know who my real mother was. Maybe one of them was her.' Elena agreed, but something about his tone lingered. She couldn't shake the feeling that Leo was less interested in his origins and more interested in the women themselves. She decided to dig into his background as well." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Survivor",
+      "content": [
+        { "type": "paragraph", "text": "Elena traced Jewel to a remote cottage on the Suffolk coast, a stone's throw from the abandoned ballroom where the Three Diamonds had last performed. The woman now called herself Iris, and she lived like a recluse, her windows boarded and her garden overgrown. Getting her to open the door took patience and a copy of an old concert poster. When she saw it, Iris's face crumpled. 'I've been waiting for someone to come,' she whispered. 'I knew he'd find me eventually.' She led Elena inside, and the story she told was one of exploitation, fear, and a man named Harold Webb, the group's manager. 'He wasn't just our manager,' Iris said, her voice shaking. 'He was a predator. He made us do things we didn't want to do. And when Star tried to leave, he... he hurt her. Gem and I ran. I've been hiding ever since.'" },
+        { "type": "paragraph", "text": "Elena asked if Webb was still alive. Iris shook her head. 'He died years ago. But he had a son. A boy named Leo. He was just a child when it all happened, but I've always feared he would come looking for me. He has his father's eyes.' Elena's blood froze. She showed Iris the photo of Leo, the one he had given her at their first meeting. Iris recoiled. 'That's him. That's Leo Webb. He's been searching for me. He killed Gem, didn't he? I knew it. He blames us for his father's arrest. His father was caught because of Gem's testimony. He went to prison and died there. Leo wants revenge.' Elena's mind raced. She had been hired by a killer to find his final victim. And she had led him straight to her." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Trap",
+      "content": [
+        { "type": "paragraph", "text": "Elena's instinct was to call the police, but she knew Iris's testimony alone wouldn't be enough. She needed proof. She searched Leo's hotel room while he was out, using a lockpick she kept for emergencies. In a suitcase under the bed, she found a velvet pouch containing two diamond-shaped pendants, each inscribed with a woman's initials. One matched Gem's, the other Star's. There was a third, empty compartment, waiting for its final jewel. Elena photographed everything and was about to leave when she heard the door open behind her. Leo stood in the doorway, his sad brown eyes now cold and flat. 'I was hoping you wouldn't find that,' he said. 'But I suppose it doesn't matter now. You're going to tell me where Iris is. And then you're going to watch.'" },
+        { "type": "paragraph", "text": "He was stronger than he looked. Elena fought, but he overpowered her, binding her wrists with zip ties and forcing her into his car. They drove in silence through the dark lanes toward the coast. Elena's mind worked frantically. She had told no one where she was going. Her only hope was that Iris had somehow sensed danger and fled. But when they reached the cottage, Iris was still there, frozen in the doorway, her face a mask of terror. 'Hello, Jewel,' Leo said, pulling Elena from the car. 'I've waited a long time for this.' He produced a gun from his coat. 'Inside. Now. We're going to finish what my father started.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Final Diamond",
+      "content": [
+        { "type": "paragraph", "text": "The cottage smelled of damp and old tea. Leo forced Elena and Iris to sit in the small living room while he ranted about his father's imprisonment, the betrayal of the three women who had destroyed his family. 'My father wasn't a monster,' he spat. 'He was a victim of your lies. You seduced him, then turned on him. You cost me my childhood.' Iris wept, trying to explain, but Leo wouldn't listen. He pulled out the third pendant, the empty one, and placed it on the table. 'I've been saving this for you, Jewel. You're the last piece of the set. When I'm done, the Three Diamonds will be together again.' He raised the gun. And that was when Elena, who had been quietly sawing her zip ties against a rough edge of the chair, broke free." },
+        { "type": "paragraph", "text": "She lunged at Leo, knocking the gun from his hand. It skittered across the floor. Iris, moving faster than anyone her age should, grabbed a heavy glass paperweight from the table and brought it down on Leo's head. He crumpled. The two women stood over him, breathing hard, the tension of decades finally shattered. Elena called the police on Iris's ancient landline, and within the hour the cottage was swarming with officers. Leo Webb was taken into custody, the pendants recovered as evidence. In the aftermath, Elena sat with Iris in her kitchen, both of them wrapped in blankets, sipping whiskey from chipped mugs. 'You saved my life,' Iris said. Elena shook her head. 'We saved each other.' But even as she said it, she knew the case would haunt her — the sad-eyed man who had used her to hunt a woman who had already suffered too much." }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Aftermath",
+      "content": [
+        { "type": "paragraph", "text": "The trial was swift. Leo Webb was convicted of two counts of murder and one of attempted murder, the pendants damning evidence of his guilt. Elena received a commendation from the police, but she didn't feel like a hero. She felt like a fool who had been played. She had looked into those sad puppy-dog eyes and seen only a lost boy seeking his mother. She had missed the predator lurking beneath. The experience changed the way she ran her business. She vetted clients more thoroughly, trusted her instincts less, and kept a taser in her desk drawer. But she also kept in touch with Iris, who was slowly emerging from her self-imposed exile. Together, they had planted a small garden around the cottage, and sometimes Elena drove down to the coast to help with the weeding." },
+        { "type": "paragraph", "text": "One afternoon, months later, Elena received a letter from Leo Webb, written from his prison cell. She almost threw it away. But curiosity got the better of her, and she slit the envelope. Inside was a single sheet of paper, and on it, in his precise handwriting, five words: 'You would have liked her.' She stared at the note for a long time, then crumpled it and tossed it in the bin. The diamonds, she knew, would always glitter in her memory. But she was done letting them cut her. The case was closed. The jewels were in an evidence locker. And Elena Marsh was still standing, a little scarred but still whole." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "A quiet cottage garden on a sunny day, with flowers blooming", "caption": "Iris's garden, where new life grew from the soil of old secrets." }
+      ]
+    }
+  ]
+}
