@@ -438,5 +438,16 @@
     "tags": ["Dark Mystery", "Steampunk", "Thriller", "Closed Circle", "Twist"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_gilded_corpse.json"
+  },
+  {
+    "id": "story_harbour_heist",
+    "title": "The Harbour Heist",
+    "author": "S. R. Blackwood",
+    "cover": "https://monbutiong.github.io/books/images/story_harbour_heist-cover.png?w=600",
+    "coverColor": "#1a2e3c",
+    "description": "In the summer of 1954, seaside hotel worker Elsie notices a charming couple whose distractions conceal a string of thefts. But when she follows them, she uncovers a far darker operation — and a connection to a wartime betrayal that hits closer to home than she ever imagined.",
+    "tags": ["Historical Mystery", "Romance", "Post-War", "Seaside", "Crime"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_harbour_heist.json"
   }
 ]

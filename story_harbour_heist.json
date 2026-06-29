@@ -1,0 +1,61 @@
+{
+  "id": "story_harbour_heist",
+  "title": "The Harbour Heist",
+  "author": "S. R. Blackwood",
+  "cover": "https://monbutiong.github.io/books/images/story_harbour_heist-cover.png?w=600",
+  "coverColor": "#1a2e3c",
+  "description": "In the summer of 1954, seaside hotel worker Elsie notices a charming couple whose distractions conceal a string of thefts. But when she follows them, she uncovers a far darker operation — and a connection to a wartime betrayal that hits closer to home than she ever imagined.",
+  "tags": ["Historical Mystery", "Romance", "Post-War", "Seaside", "Crime"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Hotel on the Cliff",
+      "content": [
+        { "type": "paragraph", "text": "The summer of 1954 was the hottest anyone in St. Bride's Bay could remember. The little Cornish fishing village, all whitewashed cottages and winding lanes, had swelled to bursting with holidaymakers who couldn't afford the Costa del Sol but still wanted sand between their toes. Elsie Tremayne, nineteen years old and restless, had worked at the Cliff Hotel since leaving school at sixteen. She was good at it — efficient with the tea trolley, patient with the demanding guests, quick with a smile when the tips were generous. But she wanted something more. She just didn't know what." },
+        { "type": "paragraph", "text": "The evening that changed everything was a Tuesday. Elsie was covering the lounge bar, a long room with windows that faced the sea, when a couple walked in. The man was tall and fair, with the easy confidence of someone who had never been told no. The woman beside him was dark-haired and striking, wearing a red dress that looked expensive but discreet. They ordered drinks — a gin and tonic for him, a sherry for her — and settled into the corner with the best view of the lighthouse. Elsie noticed them because everyone noticed them. They were the kind of couple who made the room feel smaller. But she also noticed something else: the way the woman's eyes swept the room before she sat down. The way the man's smile didn't quite reach his eyes. She had seen enough guests to know when something was off, and something was definitely off." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The False Alarm",
+      "content": [
+        { "type": "paragraph", "text": "An hour later, the bar was quiet. A few elderly residents dozed over their newspapers, and a young family played cards in the corner. The handsome man suddenly stood and pointed out the window. 'Good heavens, is that a porpoise?' he exclaimed, his voice carrying across the room. Everyone turned to look. The elderly residents rose from their chairs, the family abandoned their game, and for a long moment every eye was fixed on the darkening sea. There was, of course, nothing there. 'My mistake,' the man said, sheepish and apologetic. 'Just the moonlight on the waves.' Everyone laughed, a little embarrassed, and returned to their seats. But Elsie, who had been watching from behind the bar, saw what no one else did. While every head was turned, the dark-haired woman had slipped her hand into an unattended handbag and removed a small, jewelled compact mirror." },
+        { "type": "paragraph", "text": "Elsie's heart began to race. She knew the compact — it belonged to Mrs. Hodge, a retired schoolteacher who always sat at the corner table. She had shown it to Elsie only that afternoon, explaining it had been a gift from her late husband. Elsie thought of confronting the woman directly, but the couple were already leaving, arm in arm, their drinks barely touched. She followed them to the door and watched as they strolled down the lane toward the harbour, laughing as if they hadn't a care in the world. She didn't know their names. She didn't know where they were staying. But she knew she would see them again." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Pattern",
+      "content": [
+        { "type": "paragraph", "text": "Over the next three days, Elsie became an amateur detective. She learned the couple's names — Douglas and Evelyn — from the hotel register, where they were listed as Mr. and Mrs. Foster of London. She observed their habits: they ate breakfast late, spent afternoons on the beach, and returned to the hotel lounge every evening for drinks. And every evening, one of them created a diversion while the other stole. A dropped glass, a sudden coughing fit, an exclamation about a rare bird outside the window — each time, the other guests were distracted, and each time, something small and valuable vanished. A silver cigarette case. A gold signet ring left on a saucer. A string of pearls slipped from a wrist. The thefts were so deft, so perfectly timed, that no one noticed until much later." },
+        { "type": "paragraph", "text": "Elsie tried to report them to the local constable, but he was a tired man named Pender who spent more time on his fishing boat than at his desk. 'If you've no proof, miss, there's nothing I can do,' he said. 'A missing compact isn't a crime. It's carelessness.' So Elsie decided to gather proof herself. She began to follow the couple when her shifts allowed, keeping to the shadows, learning their routines. She discovered they were staying in a camper van at a campsite on the cliffs, moving every few days to avoid suspicion. She learned they had a third accomplice — a young man who drove the van and sold the stolen goods at markets in nearby towns. And she learned something else, something that made her blood run cold. Douglas and Evelyn were not husband and wife. They were brother and sister, and they had been working this stretch of the coast for two summers, leaving a trail of thefts and broken hearts behind them." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Connection",
+      "content": [
+        { "type": "paragraph", "text": "The real shock came when Elsie found the photograph. She had crept into the camper van one afternoon while the trio were out, her heart hammering so loudly she was sure the whole campsite could hear. In a leather case under the driver's seat, she found a bundle of papers, including a faded newspaper clipping from 1943. It showed a young woman in a Wren's uniform, smiling at the camera. The headline read: 'Local Girl Honoured for Bravery in Blitz.' The girl was Evelyn Foster. But the name beneath the photograph was not Foster. It was Evelyn Tremayne. Elsie's mother's maiden name. The woman who had been stealing from guests at Elsie's hotel was her own cousin." },
+        { "type": "paragraph", "text": "Elsie sat on the dusty floor of the van, the clipping trembling in her hands, and the pieces fell into place. Her mother had spoken of a cousin, once, in a voice tight with old anger. The cousin had been a bad influence, her mother said. She had run away with a man during the war and never been heard from again. The family had disowned her, struck her name from the family Bible. And now here she was, two decades later, charming and beautiful and utterly corrupt, stealing trinkets from holidaymakers in the same village where her own grandmother had been born. Elsie didn't know whether to feel anger or pity. She felt both." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Confrontation",
+      "content": [
+        { "type": "paragraph", "text": "Elsie waited until the evening, when the lounge bar was quiet and the moon was high over the lighthouse. She served Douglas and Evelyn their drinks herself — a gin and tonic, a sherry — and when they finished, she followed them out to the garden terrace. 'Evelyn Tremayne,' she said, and the woman froze. The name hung in the air like a struck bell. Douglas moved toward Elsie, his smile gone, replaced by something harder. But Evelyn put a hand on his arm. 'How do you know that name?' she asked, her voice barely a whisper. Elsie told her. She spoke of the photograph, the clipping, the family that had erased her. And as she spoke, Evelyn's face changed. The hardness cracked, and beneath it was something raw and lost. 'I had nowhere else to go,' she said. 'After the war, after everything, there was no one. Douglas found me. He saved me. And this... this is how we survive.'" },
+        { "type": "paragraph", "text": "Elsie could have called the constable then. She could have turned them in and been done with it. But she looked at her cousin — a woman who had been brave in the Blitz, who had been cast out by her family, who had done wrong but had also been wronged — and she made a choice. 'Leave,' she said. 'Pack your van and leave tonight. I won't report you. But you have to return what you've taken. Every piece. Leave it at the hotel desk.' Evelyn stared at her, and for a long moment, no one moved. Then Douglas nodded, a single, sharp gesture. 'We'll go,' he said. 'And thank you.' By morning, the camper van was gone, and a paper bag full of jewellery sat on the hotel desk with no note. Elsie never saw her cousin again. But years later, she received a postcard from a town in Scotland, unsigned, with a single line: 'I found a proper job. — E.'" }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Summer's End",
+      "content": [
+        { "type": "paragraph", "text": "The story might have ended there, but for the constable's nephew, a young man named Peter who had just joined the police and had come to St. Bride's Bay to learn the trade. He heard about the anonymous return of the stolen goods and sought out Elsie for the full account. Over tea and scones in the Cliff Hotel lounge, she told him the story — most of it, at least. She left out the part about her cousin. But Peter was sharp, and he saw the gaps. He didn't press, though. He just looked at Elsie with his steady grey eyes and asked if she had ever considered a career in detection. 'You've got the instincts,' he said. 'The force is starting to take on women in civilian roles. You could make a real difference.' Elsie laughed and said she'd think about it. But she was already thinking about something else — the way the lamplight caught his hair, the warmth of his smile, the way he listened as if every word she spoke mattered." },
+        { "type": "paragraph", "text": "By the time the leaves began to turn and the holidaymakers packed their bags, Elsie had made her decision. She would train for a job in the civilian police, and she would see where things went with Peter. The summer had been hot and strange and full of secrets, but it had also opened a door. She walked along the harbour on her last day at the hotel, watching the fishing boats bob in the evening tide, and she thought of Evelyn, somewhere in Scotland, living a proper life. She thought of her mother, who would never know the full truth. And she thought of the future, which suddenly seemed wide open. 'Ready?' a voice said behind her. It was Peter, holding two cones of fish and chips. 'I thought we might celebrate your new career path.' Elsie smiled and took the cone, and together they walked along the harbour wall as the lighthouse began its slow, steady blink against the darkening sky." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A quaint Cornish fishing village harbour at sunset", "caption": "St. Bride's Bay, where the summer of 1954 changed everything." }
+      ]
+    }
+  ]
+}
