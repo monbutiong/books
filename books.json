@@ -339,5 +339,38 @@
     "tags": ["Dark Family Drama", "Horror", "Mystery", "Legacy", "Secret Ingredient"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_last_recipe.json"
+  },
+  {
+    "id": "story_poison_garden",
+    "title": "The Poison Garden",
+    "author": "M. R. Sinclair",
+    "cover": "https://monbutiong.github.io/books/images/story_poison_garden-cover.png?w=600",
+    "coverColor": "#1a2e0f",
+    "description": "When Lady Helena arrives at Blackwood Hall to help plan the summer fete, she finds a grieving widower, a strange young ward, and a garden where autumn crocuses bloom out of season. As accidents begin to pile up, Helena suspects something darker than coincidence — but the truth about the child's origins is more monstrous than anyone could guess.",
+    "tags": ["Dark Historical", "Gothic Horror", "Crime", "Supernatural", "Mystery"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_poison_garden.json"
+  },
+  {
+    "id": "story_charity_teddy",
+    "title": "The Charity Teddy",
+    "author": "L. K. Voss",
+    "cover": "https://monbutiong.github.io/books/images/story_charity_teddy-cover.png?w=600",
+    "coverColor": "#2c1e1c",
+    "description": "When Isla's coat gets trapped in her car door on a blustery promenade, she finds herself at the centre of a humiliating spectacle. A charming stranger with a mysterious skill saves her — but over coffee, he reveals a truth that turns her world inside out. The charity teddy bear she was mailing is not what it seems, and the man she thought was her rescuer has been hunting her for months.",
+    "tags": ["Crime", "Psychological Thriller", "Heist", "Twist", "Undercover"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_charity_teddy.json"
+  },
+  {
+    "id": "story_briar_betrothal",
+    "title": "The Briar Betrothal",
+    "author": "C. M. Holloway",
+    "cover": "https://monbutiong.github.io/books/images/story_briar_betrothal-cover.png?w=600",
+    "coverColor": "#2e1e0f",
+    "description": "In the year 1499, Meg meets a handsome farmer with kind eyes and a charming smile at the Easter service. Betrothal follows quickly, but as their wedding approaches, she discovers a series of dark secrets hidden in the Oakes family barn. The previous brides did not leave — they were buried beneath the hay. Now Meg must find a way to escape before she becomes the next sacrifice to the land.",
+    "tags": ["Dark Historical", "Gothic Romance", "Suspense", "Marriage", "Family Secrets"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_briar_betrothal.json"
   }
 ]

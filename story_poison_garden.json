@@ -1,0 +1,61 @@
+{
+  "id": "story_poison_garden",
+  "title": "The Poison Garden",
+  "author": "M. R. Sinclair",
+  "cover": "https://monbutiong.github.io/books/images/story_poison_garden-cover.png?w=600",
+  "coverColor": "#1a2e0f",
+  "description": "When Lady Helena arrives at Blackwood Hall to help plan the summer fete, she finds a grieving widower, a strange young ward, and a garden where autumn crocuses bloom out of season. As accidents begin to pile up, Helena suspects something darker than coincidence — but the truth about the child's origins is more monstrous than anyone could guess.",
+  "tags": ["Dark Historical", "Gothic Horror", "Crime", "Supernatural", "Mystery"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Invitation",
+      "content": [
+        { "type": "paragraph", "text": "The letter arrived on a Tuesday, written in a hand that was both familiar and strange. Lady Helena Ashworth recognised the crest immediately — the raven and the thorn of the Thornwood estate — but it had been five years since she had last heard from Sir Edmund Thornwood. The letter was brief and awkward, the words of a man who had forgotten how to ask for help. His wife, Arabella, had died in a fall three months prior, and the annual summer fete, her beloved project, was in danger of cancellation. 'I am adrift,' the letter read. 'The household is in disarray, and I have no talent for organising such things. Arabella always spoke of you with the highest regard. Would you consider coming to Thornwood for the season? I would be eternally grateful.' Helena read the letter three times, her tea growing cold beside her. She had loved Arabella like a sister, and her death had been a shock — a senseless accident on a staircase she had climbed a thousand times. She wrote back before the ink was dry: 'I will come.'" },
+        { "type": "paragraph", "text": "Thornwood Hall was a grey stone manor set in a valley of ancient oaks, its turrets and chimneys rising against a sky that seemed perpetually overcast. The drive from the station took an hour, and by the time Helena stepped from the carriage, she was already feeling the weight of the place — a heaviness in the air that was not quite fog and not quite silence. Sir Edmund met her at the door. He was thinner than she remembered, his dark hair threaded with grey, his eyes shadowed with grief. 'Lady Helena,' he said, and his smile was a fragile thing. 'Thank you for coming.' Beside him, half-hidden in the doorway, was a child. A girl of perhaps twelve, with pale, watchful eyes and a mouth that seemed perpetually on the verge of a smile that never came. 'This is Lila,' Edmund said. 'My ward. Arabella's cousin's daughter. She came to live with us just before... well, just before.' Lila curtsied, a perfect, practised motion, and when she straightened, her eyes met Helena's with an intensity that made the older woman's skin prickle. 'Welcome to Thornwood,' the child said, and her voice was like a bell struck slightly off-key." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Crocus Bed",
+      "content": [
+        { "type": "paragraph", "text": "Helena settled into the blue guest room, a comfortable chamber overlooking the south garden. She had been at Thornwood only three days, and already she had catalogued a dozen small wrongnesses. The servants spoke in whispers and avoided certain corridors. The cook, Mrs. Bale, had confided that Arabella's fall had occurred on the back staircase, the one that led to the nursery — a room that had been closed for years until Lila arrived. 'She was up there all the time,' Mrs. Bale had said, her voice low and tight. 'Used to play with her dolls on the landing. Lady Arabella said it was harmless, but I never liked it. And then she fell.' When Helena asked what she meant, the cook had simply shaken her head and returned to her pastry." },
+        { "type": "paragraph", "text": "The summer fete preparations gave Helena a reason to explore the grounds. She found the crocus bed on the fourth morning, hidden behind the old glasshouse, a sheltered patch of earth where purple and white flowers bloomed in profusion. 'Autumn crocuses,' the head gardener, Mr. Hodge, told her when she asked. 'Odd things. Bloom when everything else is dying. Poisonous, too — every part of them. The corms look like wild garlic, but they'll stop your heart if you eat them.' Helena nodded, making a note to keep the fete's cake competition far from this corner of the garden. As she turned to leave, she noticed Lila standing at the edge of the glasshouse, watching her with those pale, unblinking eyes. 'I like the crocuses,' the child said. 'They're the only flowers that understand me.' Then she smiled — a real smile, wide and hungry — and Helena felt a cold finger trace her spine." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Accidents Begin",
+      "content": [
+        { "type": "paragraph", "text": "The first accident was minor: a vase of lilies shattered on the floor of Helena's room, the water soaking the rug and the shards glittering like teeth. The maid swore she had placed it securely on the mantelpiece. The second was more serious: the stable boy was found unconscious in the hayloft, a riding crop beside him and a lump the size of an egg on his temple. He remembered nothing. The third was a near miss: Helena, walking the fete grounds with Edmund, felt a sudden, sharp pain in her ankle and stumbled, narrowly missing a fall into the ornamental pond. When she looked back, the path was clear, but she could have sworn she saw a small, pale hand retreating behind the hedge." },
+        { "type": "paragraph", "text": "The local constable, a man named Briggs, was called after the stable boy incident. He interviewed the staff and found nothing. 'Children will be children,' he said, nodding at Lila, who was sitting quietly in the corner with a book. 'Probably just a bit of mischief.' Helena wanted to argue, but what could she say? That a twelve-year-old girl had tried to drown her? That the child's smile made her want to lock her door at night? She held her tongue, but she began to watch Lila more closely. She noticed the way the girl was always near Edmund, her hand on his arm, her eyes following him around the room. She noticed the way Lila's face changed when she thought no one was looking — the mask of innocence slipping to reveal something older, something calculating. And she noticed the small, leather-bound diary that Lila carried everywhere, its pages filled with handwriting that was not a child's." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Diary",
+      "content": [
+        { "type": "paragraph", "text": "Helena found the diary on the morning of the fete, left carelessly on the library table. She knew she should not read it, but the temptation was overwhelming. She opened it and found not a child's scribbles but a meticulous record of events. Dates, times, observations. 'E. was alone in the study today. I could have arranged an accident, but the housekeeper was nearby. Must wait.' Another page: 'H. is getting too close. She suspects. The crocuses are ready, but I need the right moment.' A third, written in a hand that shook with barely contained fury: 'Arabella was the same. Always watching, always judging. She said I was too attached to Edmund. She said I needed help. She was going to send me away. She tripped on the stairs so easily. I didn't even have to push her. Just one little tug on the rug, and down she went. The sound was satisfying. Like a ripe apple hitting the ground.'" },
+        { "type": "paragraph", "text": "Helena's hands were trembling so violently she nearly dropped the diary. Arabella had been murdered. The child had killed her own guardian and nearly killed her — and now the fete was about to begin, with its cake competition and its crowds and a hundred opportunities for more 'accidents.' She looked up and saw Lila standing in the doorway, her pale eyes wide, her mouth curved in that terrible, knowing smile. 'You shouldn't read other people's diaries,' Lila said. 'It's very rude. Arabella used to pry, too. She regretted it.' The child took a step forward, and Helena saw, with a jolt of horror, that she was holding a small paper packet — the kind that contained ground spices. Saffron, or something that looked like saffron. Something that came from autumn crocuses." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Fete",
+      "content": [
+        { "type": "paragraph", "text": "The village green was decorated with bunting and flowers, and a merry little crowd had gathered for the annual Thornwood Fete. Helena moved through the festivities in a daze, her mind racing. She had not confronted Lila — the child had slipped away before she could speak — but she had found Edmund and told him everything, the diary clutched in her trembling hands. He had read it in silence, his face growing paler with each page. 'I didn't want to believe it,' he whispered. 'I thought she was just... a difficult child. But the things she wrote...' He looked up, his eyes wet. 'She killed Arabella. She nearly killed you. And now she's here, somewhere, with enough poison to kill half the village.'" },
+        { "type": "paragraph", "text": "They found Lila at the cake tent, where the finalists' entries were displayed on a long trestle table. She was standing beside a towering chocolate cake, her paper packet open, her small fingers scattering threads of something that looked like saffron across the frosting. 'Lila, stop!' Edmund shouted, but the child only smiled. 'It's all right, Uncle,' she said. 'I'm just making it special. Like Arabella's special tea, the night before she fell. She said it tasted odd, but she drank it anyway. She always did what was proper.' The constable was summoned, and the cake was confiscated, and Lila was led away, still smiling, still talking in that flat, bell-like voice. 'Daddy will come for me,' she said as the police car door closed. 'He always comes for me. He's been waiting a very long time.'" }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Chapter 6 — The Roots",
+      "content": [
+        { "type": "paragraph", "text": "The investigation that followed uncovered more than anyone had expected. Lila was not Edmund's ward. She was not even a child. The girl who had called herself Lila was a woman of twenty-four, a former patient at the Thornwood Sanatorium, who had been released into Arabella's care as part of an experimental programme. Her real name was Lilith, and she had a history of arson, poisoning, and 'accidental' deaths stretching back to her childhood. The diary contained not just confessions but instructions — notes on how to mimic innocence, how to isolate a target, how to make murder look like misfortune. The autumn crocuses were not the only poison she had cultivated. In the cellar of the sanatorium, the police found a small laboratory, and in the laboratory, jars and jars of toxic preparations." },
+        { "type": "paragraph", "text": "Thornwood Hall was never the same. Edmund sold the estate and moved abroad, unable to bear the weight of his wife's murder and his own blindness. Helena returned to her quiet life, but she never forgot the child with the pale eyes and the smile like a knife. Sometimes, in the still hours of the night, she would wake with the sensation of being watched. She would go to the window and look out at the garden, where her own autumn crocuses bloomed, and she would remember Lila's words: 'He always comes for me.' She never learned who 'he' was. She only knew that somewhere, in some dark institution, the woman who had been Lila was still waiting. Still smiling. Still planning." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A dark garden with purple autumn crocuses blooming under a grey sky", "caption": "The crocus bed at Thornwood, where the poison was first sown." }
+      ]
+    }
+  ]
+}

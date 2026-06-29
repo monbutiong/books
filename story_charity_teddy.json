@@ -1,0 +1,53 @@
+{
+  "id": "story_charity_teddy",
+  "title": "The Charity Teddy",
+  "author": "L. K. Voss",
+  "cover": "https://monbutiong.github.io/books/images/story_charity_teddy-cover.png?w=600",
+  "coverColor": "#2c1e1c",
+  "description": "When Isla's coat gets trapped in her car door on a blustery promenade, she finds herself at the centre of a humiliating spectacle. A charming stranger with a mysterious skill saves her — but over coffee, he reveals a truth that turns her world inside out. The charity teddy bear she was mailing is not what it seems, and the man she thought was her rescuer has been hunting her for months.",
+  "tags": ["Crime", "Psychological Thriller", "Heist", "Twist", "Undercover"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Wind and the Coat",
+      "content": [
+        { "type": "paragraph", "text": "Isla’s first error was choosing the electric blue trench coat. It was beautiful, tailored, the colour of a kingfisher’s wing, but it had a treacherous flare at the hem that caught the wind like a sail. Her second was parking directly opposite the post office on the seafront, where the gusts off the Channel cut through the town like a scythe. Her third was leaning into the car with one knee on the driver’s seat, stretching to retrieve a large brown parcel from the passenger side. The wind chose that moment to whip the coat up around her shoulders and slam it in the door. The clunk was so final it might have been a prison cell closing. Isla froze. The coat was pinned at the small of her back, pulling taut across her chest. She yanked at the handle, but the door was locked. Through the window, she saw her keys dangling from the ignition, her phone on the dashboard, her handbag on the passenger seat. The parcel, wrapped in brown paper and string, lay heavy in her arms like an accusation." },
+        { "type": "paragraph", "text": "A slow whistle drifted from down the promenade. A group of men and women in orange high-visibility vests had paused their railing-painting to watch. The lettering on their vests read Community Payback. Isla felt her cheeks flame. 'Nice coat!' one of them called, and the others laughed. A stout, motherly woman with a supervisor’s badge ambled over, shooing them back to work. 'Ignore that lot,' she said, her voice warm and brusque. 'I’m Maggie. Let’s see what we can do.' She tried all the doors, but the car remained stubbornly sealed. 'I’ll call the recovery people,' Maggie offered, pulling out her phone. 'They’ll be here in an hour, they said. I’ll wait with you.' Isla nodded, her throat tight. She pressed herself against the car, the parcel clutched to her chest. Inside it, wrapped in tissue inside a fluffy teddy bear destined for a charity shop, were twelve uncut diamonds worth a quarter of a million pounds." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Man with the Magic Fingers",
+      "content": [
+        { "type": "paragraph", "text": "The recovery van took forty minutes, and the man who climbed out took one look at the car and shook his head. 'These new models,' he said. 'I can’t get in without a specialist key from the manufacturer. That’ll be tomorrow at best.' Isla’s heart plummeted. She couldn’t stand here all night, and the diamonds needed to be in the post by the five o’clock collection or her contact would be furious. 'You could slip the coat off,' the recovery man suggested with a shrug. 'Someone’ll lend you something to wear.' Isla imagined the indignity, the exposure. She shook her head, tears pricking her eyes. Maggie patted her arm. 'We’ve got a spare set of overalls in the minibus. Not glamorous, but they’ll cover you.'" },
+        { "type": "paragraph", "text": "As Isla considered the prospect of being driven home in a paint-splattered orange boilersuit, a sandy-haired young offender strolled over. 'My mate Evan could open that in ten seconds,' he said. 'He used to nick cars for fun before he went straight. Now he trains police in vehicle entry.' Isla hesitated. A former car thief with police connections was the last person she wanted near her vehicle, given what was inside the parcel. But the minutes were ticking down. 'Fine,' she said. 'Call him.'" },
+        { "type": "paragraph", "text": "Evan arrived in a silver saloon, a tall man in his early thirties with close-cropped hair and a calm, assessing gaze. He wore a windcheater and jeans, and he moved with the easy confidence of someone who had never met a lock he couldn’t charm open. 'Let’s have a look,' he said. He asked Isla to turn her head, and within seconds the door clicked open. Her coat swished free. 'How did you do that?' she asked, her voice a mixture of relief and wariness. Evan smiled. 'Trade secret. How about a coffee to celebrate your liberation?'" }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Coffee and the Question",
+      "content": [
+        { "type": "paragraph", "text": "They went to a small café on the seafront, a steamy-windowed place with mismatched chairs and a hissing espresso machine. Evan ordered two lattes and carried them to a corner table. Isla kept the parcel on her lap, her fingers resting on the brown paper. They talked easily — about the town, the weather, his work training police recruits. He was charming, self-deprecating, and Isla found herself relaxing despite the cold knot of anxiety in her stomach. She was almost enjoying herself when Evan leaned back in his chair and said, 'You know, Isla, that’s an interesting parcel you’ve got there. What’s in it?' She smiled, a rehearsed innocence. 'Just a teddy bear for the charity shop. I volunteer there.'" },
+        { "type": "paragraph", "text": "Evan’s expression didn’t change, but something in his eyes sharpened. 'Funny thing about teddies,' he said. 'They’re great for stuffing. But diamonds? That’s a new one.' Isla’s blood turned to ice. 'I don’t know what you’re talking about.' Evan reached into his windcheater and produced a small leather wallet, flipping it open to reveal a police identification card. 'Detective Inspector Evan Cross, Art and Antiques Crime Unit. We’ve been tracking a diamond smuggling ring for six months. You’re the courier, Isla. We know about the teddy bears, the charity shop, the whole operation. The only thing we didn’t know was your name — until today.'" }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Unravelling",
+      "content": [
+        { "type": "paragraph", "text": "Isla’s mind raced. She could run, but where? The café was small, the door blocked by a pram and two elderly women. Evan was still smiling, but it was no longer a charming smile. It was the smile of a man who had just closed a trap. 'I could have let you mail the parcel and pick you up at the other end,' he said, 'but I wanted to meet you. You’re good, Isla. The charity cover is brilliant. But you got sloppy. Leaving your coat in the door, the whole spectacle — it drew attention. My attention. And the community service lot? Two of them are undercover probation officers. The whole thing was a setup from the moment that wind caught your hem.'" },
+        { "type": "paragraph", "text": "Isla looked out the window. The promenade was quieter now, the community service crew packing up their brushes. Maggie the supervisor gave a little wave, her face no longer motherly but knowing. The sandy-haired youth who had called Evan was standing beside a police van that had pulled up silently. Isla felt the fight drain out of her. She had been so careful for so long — the fake volunteer shifts, the coded messages, the silent drops. And now, undone by a gust of wind and a treacherous blue coat. 'What happens now?' she asked, her voice small. Evan finished his coffee. 'Now, you tell me everything. Names, dates, the whole network. And in return, I put in a good word with the prosecutor. It’s the only deal you’re going to get.'" }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Bitter Trade",
+      "content": [
+        { "type": "paragraph", "text": "Isla sat in the back of the police van, the parcel on the seat beside her, its innocence now a mockery. She thought of her debts, the threats from the men who had recruited her, the way the diamonds had seemed like a lifeline when everything else was sinking. She had never wanted to be a criminal — but the world did not care about intentions. It cared only about what you were caught with. And she was caught, completely and utterly. The teddy bear stared at the ceiling with its glass eyes, its stuffing still holding the jewels that had been her undoing. Evan climbed in beside her, not unkind. 'For what it’s worth,' he said, 'you didn’t seem like the type.' Isla laughed, a hollow sound. 'No one ever does.' The van pulled away from the seafront, and the wind that had betrayed her rattled the doors all the way to the station." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "A teddy bear sitting on a café table next to a half-empty coffee cup", "caption": "The charity teddy that hid a fortune in diamonds and sealed Isla's fate." }
+      ]
+    }
+  ]
+}

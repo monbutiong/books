@@ -1,0 +1,53 @@
+{
+  "id": "story_briar_betrothal",
+  "title": "The Briar Betrothal",
+  "author": "C. M. Holloway",
+  "cover": "https://monbutiong.github.io/books/images/story_briar_betrothal-cover.png?w=600",
+  "coverColor": "#2e1e0f",
+  "description": "In the year 1499, Meg meets a handsome farmer with kind eyes and a charming smile at the Easter service. Betrothal follows quickly, but as their wedding approaches, she discovers a series of dark secrets hidden in the Oakes family barn. The previous brides did not leave — they were buried beneath the hay. Now Meg must find a way to escape before she becomes the next sacrifice to the land.",
+  "tags": ["Dark Historical", "Gothic Romance", "Suspense", "Marriage", "Family Secrets"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Long-Armed Farmer",
+      "content": [
+        { "type": "paragraph", "text": "Meg Crowley first saw him at the Easter service in St. Cuthbert's, a stone church that smelled of damp wool and old incense. The three villages of Wendle, Careborne, and Hamblin had gathered together for the high feast, and the pews were packed. She spotted him across the aisle — a tall young man with wheat-coloured hair and a square chin, his sleeves rolled just enough to reveal the length of his forearms. Her father, a wheelwright, had always told her that a man with long arms could reach anything, fix anything, and never leave a wife wanting. Meg was seventeen and not particularly looking for a husband, but something about the way the young man smiled at her made her pulse quicken. He looked at her as if he had just discovered something precious and was already planning to keep it." },
+        { "type": "paragraph", "text": "His name, she learned, was Robert Oakes, the only son of Barnaby Oakes, who held the largest freehold farm in Careborne. The Oakes family was prosperous, respected, and had lived in the valley for five generations. Robert's mother had died when he was an infant, and Barnaby had never remarried. The old man was known for his hard work and his unsmiling piety. Meg's mother, a sharp-eyed woman named Agnes, was delighted when Barnaby himself came to call a week after Easter. 'He wants to speak of a match,' Agnes whispered to her daughter, her face alight with a fierce, hungry hope. 'Be grateful, girl. This could lift us all.' Meg was grateful, and also nervous. She had taken a genuine fancy to Robert, and the idea that he might feel the same was almost too sweet to bear." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Courting",
+      "content": [
+        { "type": "paragraph", "text": "The courtship was swift and formal. Robert visited the Crowley cottage three times, each time bringing a gift — a pair of gloves, a silver brooch, a length of good wool. He was polite, even charming, but there was something guarded in his eyes that Meg could not read. When they walked together along the hedgerows, he spoke of the farm, the crops, the sheep, and the new dairy he planned to build. He rarely spoke of himself. Meg, who was used to the loud, rambling conversations of her own family, found his silences unsettling. But when he smiled — that same smile from the church — her doubts evaporated. She told herself that quiet men were steady men, and steady men made good husbands." },
+        { "type": "paragraph", "text": "One evening, as they sat on a fallen log near the boundary of the Oakes farm, Meg dared to ask about the previous servants who had worked in the Oakes household. She had heard, from a village gossip, that several young women had come to work for Barnaby over the years and had left suddenly, without explanation. Robert's face flickered — just for a moment — with something dark. 'Servants come and go,' he said. 'My father is particular. Not everyone suits.' His hand, which had been resting near hers, withdrew. Meg felt a chill that had nothing to do with the evening air. But before she could press further, Robert stood and offered his arm. 'We should return before dark,' he said, his voice pleasant and empty. Meg followed, her heart beating a little too fast." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Barn",
+      "content": [
+        { "type": "paragraph", "text": "The betrothal was announced at the end of May, and the wedding was set for the first Sunday in June. Meg spent her days sewing her bridal clothes and dreaming of a life in the big stone farmhouse. But the unease would not leave her. One afternoon, while Robert and Barnaby were in the fields, she decided to explore the farm on her own. She told herself she wanted to see where she would be living, to picture her future. She wandered through the kitchen garden, the dairy, the stillroom. And then she came to the great barn, a long, low building of grey stone with a roof of mossy thatch. The door was ajar, and a strange, sweet smell drifted out — not hay, but something heavier, like old flowers and damp earth." },
+        { "type": "paragraph", "text": "Inside, the barn was dim and cool. Bales of hay were stacked to the rafters. But at the far end, behind a rough partition of planks, Meg found a small, cleared space. On the floor lay a wooden chest, its lid warped with age. She opened it, her fingers trembling. Inside were women's things — a linen cap, a bone comb, a ribbon of faded blue. And beneath them, a small, folded piece of parchment. She unfolded it and read the single line, written in a shaky, desperate hand: 'God save me, I am not the first and will not be the last.' The handwriting was different from Robert's neat script, but the name at the bottom — 'Alice' — was a name she had heard in the village. Alice had been a kitchen maid at the Oakes farm, who had disappeared three winters ago. Barnaby had said she had run away to the city." },
+        { "type": "paragraph", "text": "Meg's blood ran cold. She placed the parchment back and closed the chest. As she turned to leave, she noticed something on the earthen floor — a patch of ground that was slightly sunken, the dirt darker and softer than the rest. It was the shape of a grave. She stumbled out of the barn, her mind reeling. The Oakes men were not just particular. They were killers. And she was meant to be the next bride to disappear." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Wedding Eve",
+      "content": [
+        { "type": "paragraph", "text": "Meg said nothing to her parents. They would not believe her, or if they did, they would confront Barnaby and be silenced. She spent the next two days in a state of frozen terror, going through the motions of wedding preparations. On the night before the ceremony, she lay awake in her narrow bed, listening to the wind. She had to escape. She could not marry a man who would murder her and bury her in his barn. But where could she go? She had no money, no relatives outside the village. Robert and Barnaby would hunt her down. She thought of the other women — Alice, and whoever else lay beneath that dark earth — and her resolve hardened. She would not be another silent victim." },
+        { "type": "paragraph", "text": "She rose before dawn and crept out of the cottage. Instead of fleeing, she went to the church and woke the priest, a young man named Father Thomas, who had always been kind to her. Trembling, she told him everything — the chest, the note, the grave. At first he was disbelieving, but her terror was too real to dismiss. He agreed to accompany her to the barn with the village constable. When they lifted the floorboards in the back of the barn, they found not one grave but three. The bones of three women, their skulls still wearing their bridal veils, were tangled together in the cold earth. Barnaby Oakes had been sacrificing brides to some ancient, pagan rite to ensure the fertility of his land, and Robert had been his willing accomplice." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Harvest of Bones",
+      "content": [
+        { "type": "paragraph", "text": "The arrest of Barnaby and Robert Oakes shook the three villages. The old man confessed, without a trace of remorse, that he had learned the ritual from his own father — a bride must be buried beneath the barn every generation to keep the soil rich and the crops plentiful. Robert, who had been raised in this monstrous tradition, had been trained to smile at the church and lure the unsuspecting girl to her doom. Meg's betrothal had been a death sentence, and only her curiosity had saved her. The barn was torn down, and the bones were given a Christian burial. Meg never married. She lived out her days in the cottage with her parents, and every Easter she lit a candle for the women who had come before her, the brides who had been buried in the dark. The Oakes farm passed to a distant cousin, but the land never again yielded a good harvest. It was as if the earth itself had grown sick of blood." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "An old stone barn in a field, overgrown with ivy and shadowed by dusk", "caption": "The Oakes barn, torn down and left to rot, a grave for three stolen brides." }
+      ]
+    }
+  ]
+}
