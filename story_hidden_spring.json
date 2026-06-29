@@ -1,0 +1,52 @@
+{
+  "id": "story_hidden_spring",
+  "title": "The Hidden Spring",
+  "author": "Y. Nakamura",
+  "cover": "https://monbutiong.github.io/books/images/story_hidden_spring-cover.png?w=600",
+  "coverColor": "#3c2e1f",
+  "description": "Retired and restless, Haruki secretly hires a cleaner to surprise his overworked wife, Yuki. But when she discovers his ruse, she reveals a hidden past that changes everything — and turns their quiet routine into a shared journey of discovery and renewed love.",
+  "tags": ["Contemporary Fiction", "Slice of Life", "Marriage", "Later Life", "Japan"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The Unfinished Crossword",
+      "content": [
+        { "type": "paragraph", "text": "The morning sun spilled over the balcony railing, warming the potted chrysanthemums that Yuki had tended since spring. Haruki sat in his usual wicker chair, a half-filled crossword on his knee, but his mind was elsewhere. Beyond the rooftops, the hills of Kobe were blushing with the first tints of autumn. It was the kind of day that called for a train ride to the coast, a walk through the old harbour gardens, maybe a bowl of hot soba at that little shop near the sea. He looked inside, through the glass door, and saw Yuki at the kitchen sink, her hands moving mechanically over the dishes. She had been retired for two years now, but if anything, she was busier than ever — laundry, dusting, mopping, shopping, always something." },
+        { "type": "paragraph", "text": "He put down his crossword and shuffled inside. 'Yuki,' he said, 'the weather is perfect. Let's go to the coast today. Just the two of us.' Yuki turned, her hands still wet, and smiled a tired smile. 'Today is bathroom day. The grout needs scrubbing, and the laundry is piling up. Maybe Thursday?' Thursday was grocery day. Friday she helped at the temple. Saturday was for the grandchildren's call. Sunday they visited the family shrine. The week was a carousel of small duties, and somehow, there was never room for a train ride. Haruki felt a sudden, sharp sadness. They had worked all their lives for this time together, and it was slipping through their fingers like sand." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Secret Solution",
+      "content": [
+        { "type": "paragraph", "text": "That evening, Haruki went to the local community centre, where a bulletin board was covered with notices. He found a small card: 'Domestic Help — thorough, discreet, affordable. Ask for Naoko.' He called the number, and by the next morning, a young woman with a cheerful face and a yellow apron stood at his door. He had timed it perfectly: Yuki was at the fishmonger's, and Naoko set to work with a quiet efficiency that was almost invisible. When Yuki returned, the flat was immaculate. The bathroom smelled of citrus, the floors gleamed, and even the balcony windows were spotless. Yuki stood in the hallway, mouth open. 'Haruki,' she whispered, 'did you do all this?' He puffed out his chest and nodded. 'I wanted to help.' Yuki's eyes glistened. 'I never knew you had it in you,' she said, and kissed his forehead. The praise was as warm as sunlight." }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Charade Continues",
+      "content": [
+        { "type": "paragraph", "text": "For a week, the arrangement worked perfectly. Haruki sent Yuki on errands — to the market for a specific brand of tea, to the temple for a special prayer slip — while Naoko slipped in and out like a helpful ghost. Yuki marvelled at his 'hidden talent,' and Haruki basked in her admiration. But the deception gnawed at him. He wasn't a natural liar, and the more Yuki praised him, the heavier the guilt became. He started to notice small things: how Yuki arranged his slippers just so, how she remembered which teacup he preferred. These were acts of love, not chores. And by pretending to be the one doing them, he was, in a way, stealing those acts from her." },
+        { "type": "paragraph", "text": "The crisis came on a Thursday. Yuki had forgotten her shopping list and returned early. She opened the door just as Naoko was polishing the kitchen table. The two women stared at each other. Haruki, caught in the living room, felt his heart stop. Yuki's expression was unreadable. Then, to his astonishment, she burst out laughing. 'Oh, Haruki,' she said, wiping her eyes, 'did you think I didn't know? I've been using the same cleaning service for years before you retired. Naoko was my regular helper. I just wanted to see how long you'd keep it up.' Haruki gaped, and Naoko smiled nervously. It turned out Yuki had been protecting her own secret: she had quietly hired help for years, too tired to admit she couldn't do it all, and had stopped when Haruki retired to save money. Now they both stood in the shared lie, and the absurdity of it all made them laugh until they cried." }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The Shared Spring",
+      "content": [
+        { "type": "paragraph", "text": "That afternoon, they sat on the balcony with a pot of green tea, the chrysanthemums swaying in the breeze. Yuki told him about her past: as a young woman, before they met, she had worked as a housekeeper in a Kyoto ryokan, a traditional inn. She had learned to fold sheets with hospital corners, to polish wood until it shone, to find peace in the rhythm of domestic work. When she married Haruki, an office worker, she thought he might look down on her service work, so she never mentioned it. 'All these years,' Haruki said, holding her hand, 'you kept that hidden. And I thought you were just a natural homemaker.' Yuki smiled. 'And you, hiring a secret cleaner, thinking I'd believe you suddenly knew how to scrub grout.' They laughed again, and the tension of decades melted." },
+        { "type": "paragraph", "text": "From that day on, they cleaned together. Yuki taught Haruki the tricks of the trade — how to use newspaper for a streak-free mirror, how to make the tatami mats smell of fresh grass. He taught her how to do the crossword with him, their heads bent together over the clues. The flat was never quite as spotless as when Naoko visited, but it was filled with a new lightness. They started taking those train rides, leaving the dust to settle for a day. And once a month, Naoko came by — not as a cleaner, but as a friend, joining them for tea and a game of cards on the balcony. The chores were no longer a prison; they were a shared canvas." }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5 — The Coast at Last",
+      "content": [
+        { "type": "paragraph", "text": "On the first day of December, with the air crisp and clear, they finally took that trip to the coast. They walked along the old harbour, ate soba noodles from a street vendor, and watched the fishing boats bob in the winter sun. Haruki carried a small bag with a crossword book, and Yuki wore a scarf she had knitted in the evenings. They sat on a bench overlooking the sea, and Haruki felt a contentment he had not known in years. 'I have a confession,' Yuki said, her breath misting in the cold air. 'I knew you were up to something the first day, when you sent me for that special tea. You hate that brand.' Haruki groaned. 'All that acting, and I wasn't fooling anyone.' Yuki leaned against his shoulder. 'You were trying. That's what mattered.' And they stayed there, watching the waves, until the sun began to dip below the horizon, painting the sky in shades of orange and rose." },
+        { "type": "paragraph", "text": "Back home, the flat was a little dusty. The chrysanthemums needed watering, and the laundry basket was full. But none of that seemed urgent anymore. They would tackle it together tomorrow. Tonight, they had a crossword to finish and a pot of tea to brew. The hidden spring, the secret skills, the long-kept past — all of it had led to this moment, a quiet evening on their balcony, two people who had spent a lifetime together and were only just discovering how much more there was to share." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800", "alt": "Sunset over a calm harbour with fishing boats", "caption": "The harbour they finally visited, after a lifetime of waiting." }
+      ]
+    }
+  ]
+}

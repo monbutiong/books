@@ -1,0 +1,46 @@
+{
+  "id": "story_chess_lessons",
+  "title": "The Chess Lessons",
+  "author": "L. S. Kade",
+  "cover": "https://monbutiong.github.io/books/images/story_chess_lessons-cover.png?w=600",
+  "coverColor": "#2c1e14",
+  "description": "When two siblings gather to welcome a new baby, they find themselves remembering their grandfather's peculiar chess lessons. His sayings were strange, his rules unpredictable — but as they share their memories, a hidden letter reveals he was teaching them far more than a game. He was preparing them for a life without him.",
+  "tags": ["Contemporary Fiction", "Family Saga", "Nostalgia", "Siblings", "Legacy"],
+  "requiredReadMinutes": 0,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1 — The New Arrival",
+      "content": [
+        { "type": "paragraph", "text": "The baby was three days old and had already mastered the art of stealing sleep from everyone in the house. Lena sat on the sofa with her newborn daughter cradled in the crook of her arm, watching the morning light creep across the living room floor. Her brother Marco had driven up from London the night before, arriving with a bouquet of yellow roses and a carrier bag full of frozen meals their mother had insisted he bring. 'Mum says you're to eat properly,' he had said, stacking the containers in the freezer. 'She also says the baby looks like Dad's side of the family, which I think is a compliment.' Now Marco was in the kitchen making tea, and the house smelled of toast and the faint, sweet scent of newborn skin." },
+        { "type": "paragraph", "text": "When Marco returned with two mugs, he settled into the armchair opposite Lena and nodded at the old wooden chessboard on the coffee table. 'You still have that,' he said. 'I remember Grandad setting up the pieces on Sunday afternoons. He'd line them up like little soldiers and then mess them all up before we even started.' Lena smiled, her fingers absently stroking the baby's downy head. 'He always said a game begins in chaos. You have to make order from the mess.' Marco laughed. 'He said that about everything. Remember when I spilled orange squash on Mum's white rug? He told me it was just chaos waiting for order. Mum didn't find it nearly as philosophical.'" }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2 — The Sayings",
+      "content": [
+        { "type": "paragraph", "text": "Their grandfather, Otto, had been a watchmaker by trade and a philosopher by inclination. He had arrived in England in 1948 with a small suitcase, a chess set carved from olive wood, and a vocabulary of sayings that he deployed like chess moves — unexpected, strategic, and often several steps ahead of where you thought the conversation was going. 'A pawn is never just a pawn,' he would tell them, holding up the smallest piece. 'A pawn can become a queen if it crosses the whole board. Remember that. Small things become great things if they keep moving forward.' Marco, who had struggled in school, had clung to that saying through years of feeling like the smallest piece on the board." },
+        { "type": "paragraph", "text": "Lena had her own favourite. 'The king moves slowly because he carries the whole game on his shoulders. Speed is not the same as strength.' She had repeated that to herself during the thirty-six hours of labour, when every contraction felt like a battle she was losing. 'He had a saying for everything,' she said now, shifting the baby to her other arm. 'Do you remember what he said about taking risks? When I told him I was going to apply for that job in publishing, even though I had no experience?' Marco nodded. 'He said, “You cannot win a game if you only move the pieces you're not afraid to lose.” Then he beat me in four moves and told me to learn from my mistakes.'" }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3 — The Unfinished Game",
+      "content": [
+        { "type": "paragraph", "text": "Otto had died six years ago, on a damp November morning, with a half-finished chess game still set up in his workshop. Lena had been the one to find it, the pieces frozen mid-battle, a thin film of dust already gathering on the board. She had taken a photograph, and she still looked at it sometimes, wondering what move he had been planning. 'I went to clear out his workshop,' Marco said, putting down his mug. 'Mum asked me to. And I found something. A letter, tucked inside the chess set. It was addressed to both of us. I was going to bring it today.' He stood and walked to his bag, returning with a yellowed envelope." },
+        { "type": "paragraph", "text": "Lena handed him the baby and took the letter, her fingers trembling slightly. She opened it and read aloud. \"My dear Lena and Marco. If you are reading this, I have made my final move. I have been ill for some time — the doctors told me last year — and so I have been thinking about what I wanted to leave you. Not the watch shop, not the chess set, not even the sayings, though I hope you remember those. What I wanted to leave you was a lesson. Every game I played with you, every rule I broke, every strange thing I said, was to teach you how to navigate a life that will not always be kind. Lena, you were always too cautious with your queen. I wanted you to learn boldness. Marco, you sacrificed your pieces too easily. I wanted you to learn patience. I taught you what I could in the time I had. The rest is your own game to play. With all my love, Grandad Otto.\"" },
+        { "type": "paragraph", "text": "The room was quiet. The baby stirred in Marco's arms but did not wake. Lena folded the letter carefully and placed it back in the envelope. 'He knew,' she said. 'All those Sundays. He knew he was running out of time, and he spent it teaching us.' Marco looked down at his niece, her tiny fingers curled into fists. 'He'd have said something about that. Something about making every move count.' Lena smiled through the tears that had gathered without her permission. 'He already did. We just didn't know it.'" }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4 — The New Game",
+      "content": [
+        { "type": "paragraph", "text": "Later, after Marco had gone out to buy more nappies and the baby had finally settled into a deep, contented sleep, Lena sat at the coffee table and looked at the chessboard. She picked up a pawn — the smallest piece, the one Otto had always said was never just a pawn — and turned it over in her palm. The olive wood was smooth with decades of handling. She thought of her grandfather, a young man with a suitcase and a chess set, crossing a continent to a country where he didn't speak the language, starting from nothing. A pawn that had crossed the whole board. She placed the piece carefully in the centre of the empty board. 'Your move, Grandad,' she whispered. And somewhere in her memory, she heard his voice: 'It's always your move, little one. It always has been.'" },
+        { "type": "paragraph", "text": "When Marco returned, he found Lena setting up the chessboard. 'Teaching her already?' he asked, nodding at the baby. Lena shook her head. 'Not yet. But when she's old enough, I will. I'll tell her about the sayings. I'll tell her about the pawn that becomes a queen. And I'll tell her about the watchmaker who came from nowhere and built a family.' Marco sat down opposite her and gestured at the board. 'Fancy a game? I warn you, I've been practising.' Lena laughed and moved her first pawn forward. 'So have I. You don't even know.' And in the quiet of the afternoon, with the baby sleeping and the sunlight falling across the chessboard, the game began again." },
+        { "type": "image", "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "An old wooden chessboard with olive wood pieces, bathed in soft sunlight", "caption": "Grandad Otto's chess set, still teaching its lessons across generations." }
+      ]
+    }
+  ]
+}

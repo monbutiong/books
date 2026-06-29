@@ -449,5 +449,38 @@
     "tags": ["Historical Mystery", "Romance", "Post-War", "Seaside", "Crime"],
     "requiredReadMinutes": 0,
     "fileUrl": "https://monbutiong.github.io/books/story_harbour_heist.json"
+  },
+  {
+    "id": "story_chess_lessons",
+    "title": "The Chess Lessons",
+    "author": "L. S. Kade",
+    "cover": "https://monbutiong.github.io/books/images/story_chess_lessons-cover.png?w=600",
+    "coverColor": "#2c1e14",
+    "description": "When two siblings gather to welcome a new baby, they find themselves remembering their grandfather's peculiar chess lessons. His sayings were strange, his rules unpredictable — but as they share their memories, a hidden letter reveals he was teaching them far more than a game. He was preparing them for a life without him.",
+    "tags": ["Contemporary Fiction", "Family Saga", "Nostalgia", "Siblings", "Legacy"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_chess_lessons.json"
+  },
+  {
+    "id": "story_hidden_spring",
+    "title": "The Hidden Spring",
+    "author": "Y. Nakamura",
+    "cover": "https://monbutiong.github.io/books/images/story_hidden_spring-cover.png?w=600",
+    "coverColor": "#3c2e1f",
+    "description": "Retired and restless, Haruki secretly hires a cleaner to surprise his overworked wife, Yuki. But when she discovers his ruse, she reveals a hidden past that changes everything — and turns their quiet routine into a shared journey of discovery and renewed love.",
+    "tags": ["Contemporary Fiction", "Slice of Life", "Marriage", "Later Life", "Japan"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_hidden_spring.json"
+  },
+  {
+    "id": "story_rosies_secret",
+    "title": "Rosie's Secret",
+    "author": "M. R. Holloway",
+    "cover": "https://monbutiong.github.io/books/images/story_rosies_secret-cover.png?w=600",
+    "coverColor": "#2c1e14",
+    "description": "In the summer of 1962, an orphaned lamb named Rosie is rescued by a lonely widow. When the lamb insists on living indoors, she uncovers a hidden letter beneath a loose floorboard — a letter from the woman's late husband, written in secret, that restores her faith and changes everything.",
+    "tags": ["Historical Fiction", "Heartwarming", "Farm Life", "1960s", "Hidden Letter"],
+    "requiredReadMinutes": 0,
+    "fileUrl": "https://monbutiong.github.io/books/story_rosies_secret.json"
   }
 ]
